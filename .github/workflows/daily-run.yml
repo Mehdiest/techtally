@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      LLM_MODEL: ${{ vars.LLM_MODEL || 'gemini-3.8-flash' }}
+      LLM_MODEL: ${{ vars.LLM_MODEL || 'gemini-3.1-flash-lite' }}
 
     steps:
       - name: Checkout repository
@@ -61,10 +61,11 @@ jobs:
             echo "LLM_API_KEY=${GEMINI_API_KEY}"
             echo "LLM_BASE_URL=https://generativelanguage.googleapis.com/v1beta"
             echo "LLM_MODEL=${LLM_MODEL}"
-            echo "LLM_TEMPERATURE=0.7"
+            echo "LLM_TEMPERATURE=0.5"
             echo "LLM_MAX_TOKENS=12000"
-            echo "LLM_TIMEOUT=60"
+            echo "LLM_TIMEOUT=90"
             echo "DIGEST_LANGUAGE=en"
+            echo "DAILY_TOP_N=8"
           } > .env
 
       - name: Run TechTally

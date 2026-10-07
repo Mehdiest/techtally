@@ -311,7 +311,7 @@ async def summarize_batch(
         reply = await _chat_with_retries(
             provider,
             build_batch_summary_messages(articles),
-            max_tokens=max(700, 900 * len(articles)),
+            max_tokens=min(6000, max(700, 750 * len(articles))),
             retry_rounds=retry_rounds,
         )
         parsed = parse_summary_batch_json(reply, len(articles))
