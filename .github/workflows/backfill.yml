@@ -40,7 +40,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  LLM_MODEL: ${{ vars.LLM_MODEL || 'gemini-2.5-flash' }}
+  LLM_MODEL: ${{ vars.LLM_MODEL || 'gemini-3.1-flash-lite' }}
 
 jobs:
   backfill:
