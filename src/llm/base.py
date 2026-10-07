@@ -345,9 +345,14 @@ async def translate_batch(
     concurrency: int = 1,
     max_tokens: int = 12000,
     retry_rounds: int = 3,
-    chunk_size: int = 0,
+    chunk_size: int = 4,
 ) -> int:
-    """Translate all selected items and languages in one provider request."""
+    """
+    Translate selected items in small language batches.
+
+    The default four-language chunks keep each JSON response reasonably
+    small while still limiting the total number of provider requests.
+    """
 
     targets = [
         code.strip().lower()
@@ -357,6 +362,9 @@ async def translate_batch(
 
     if not items or not targets:
         return 0
+
+    if chunk_size <= 0:
+        chunk_size = 4
 
     payload = [
         {
@@ -368,35 +376,56 @@ async def translate_batch(
         for index, item in enumerate(items, 1)
     ]
 
-    try:
-        reply = await _chat_with_retries(
-            provider,
-            build_batch_translation_messages(payload, targets),
-            max_tokens=max_tokens,
-            retry_rounds=retry_rounds,
-        )
-        parsed = parse_translation_batch_json(
-            reply,
-            targets,
-            len(items),
-        )
-    except Exception as error:
-        logger.error("batch translations failed: %s", error)
-        return 0
-
     successful_pairs = 0
 
-    for index, translations in parsed.items():
-        item = items[index - 1]
-        item.translations.update(translations)
-        successful_pairs += len(translations)
+    for start in range(0, len(targets), chunk_size):
+        language_batch = targets[start:start + chunk_size]
+
+        try:
+            reply = await _chat_with_retries(
+                provider,
+                build_batch_translation_messages(payload, language_batch),
+                max_tokens=max_tokens,
+                retry_rounds=retry_rounds,
+            )
+
+            parsed = parse_translation_batch_json(
+                reply,
+                language_batch,
+                len(items),
+            )
+
+        except Exception as error:
+            logger.error(
+                "batch translations failed for languages %s: %s",
+                ",".join(language_batch),
+                error,
+            )
+            continue
+
+        batch_pairs = 0
+
+        for index, translations in parsed.items():
+            item = items[index - 1]
+            item.translations.update(translations)
+            batch_pairs += len(translations)
+
+        successful_pairs += batch_pairs
+
+        logger.info(
+            "translations: %d/%d pairs succeeded for languages %s",
+            batch_pairs,
+            len(items) * len(language_batch),
+            ",".join(language_batch),
+        )
 
     total_pairs = len(items) * len(targets)
 
     logger.info(
-        "translations: %d/%d pairs succeeded in one request",
+        "translations: %d/%d pairs succeeded across %d language batches",
         successful_pairs,
         total_pairs,
+        (len(targets) + chunk_size - 1) // chunk_size,
     )
 
     return successful_pairs
