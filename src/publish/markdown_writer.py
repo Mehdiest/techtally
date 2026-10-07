@@ -572,6 +572,8 @@ def write_digest(
 
             posts_dir=posts_path,
 
+            switcher_languages=extra_languages,
+
         ),
 
         encoding="utf-8",
@@ -666,6 +668,8 @@ def write_digest(
 
                 posts_dir=posts_path,
 
+                switcher_languages=extra_languages,
+
             ),
 
             encoding="utf-8",
@@ -750,6 +754,8 @@ def _render(
 
     with_front_matter: bool = True,
 
+    switcher_languages: list[str] | None = None,
+
 ) -> str:
 
     """Full document for one language: front-matter, header, items, footer."""
@@ -803,6 +809,8 @@ def _render(
         with_front_matter,
 
         posts_dir=posts_dir,
+
+        switcher_languages=switcher_languages,
 
     )
 
@@ -879,6 +887,8 @@ def _header(
     with_front_matter: bool = True,
 
     posts_dir: Path | str | None = None,
+
+    switcher_languages: list[str] | None = None,
 
 ) -> str:
 
@@ -1126,7 +1136,7 @@ def _header(
 
             lang,
 
-            languages,
+            switcher_languages if switcher_languages is not None else languages,
 
             i18n,
 
@@ -1193,7 +1203,7 @@ def _switcher(
     i18n: dict,
     posts_dir: Path | str | None = None,
 ) -> str:
-    """Show every configured language and link only to editions that exist."""
+    """Show configured languages and link only to published source editions."""
 
     codes = [
         "en",
@@ -1219,10 +1229,16 @@ def _switcher(
             "html",
             posts_dir,
         )
+        source_filename = _edition_filename(
+            day,
+            code,
+            "md",
+            posts_dir,
+        )
 
         exists = (
             posts_path is not None
-            and (posts_path / filename).exists()
+            and (posts_path / source_filename).exists()
         )
 
         if exists:
@@ -1971,6 +1987,8 @@ def write_latest_include(
         posts_dir=posts_dir,
 
         with_front_matter=False,
+
+        switcher_languages=languages,
 
     )
 
