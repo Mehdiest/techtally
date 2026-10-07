@@ -28,30 +28,30 @@ _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
 **摘要**
 
-Google has announced Gemini 4 Argon, a new variant in its Gemini 4 model family, as detailed on the Google Research blog. The naming follows Google's convention of using noble gas designations for model tiers, with Argon likely positioning as a mid-range or specialized variant. The announcement signals Google's continued rapid iteration on its flagship AI model lineup amid intense competition from OpenAI, Anthropic, and open-source alternatives.
+谷歌发布了 Gemini 4 模型家族的新成员 Gemini 4 Argon，详情见谷歌研究博客。此次命名延续了谷歌以惰性气体命名模型层级的惯例，Argon 可能定位为中端或专用变体。此举表明，在 OpenAI、Anthropic 及开源阵营的激烈竞争下，谷歌正持续对其旗舰 AI 模型进行快速迭代。
 
 **我的观点**
 
-> Google's periodic table of AI models just gained another noble gas — because nothing says 'cutting-edge' like naming your software after elements that refuse to react with anything. Argon sits between Neon and Krypton on the table, which perfectly captures Google's current strategy: stuck in the middle, glowing faintly while everyone else builds actual products. The real insight: model variants are the new smartphone colors — same guts, different paint job, and you'll still upgrade in six months anyway.
+> 谷歌的 AI 模型元素周期表又多了一种惰性气体——毕竟，用那些拒绝与其他物质反应的元素来命名软件，确实显得非常“尖端”。Argon 在周期表中位于氖（Neon）和氪（Krypton）之间，这完美诠释了谷歌目前的策略：卡在中间，发出微弱的光，而其他人都在忙着开发真正的产品。真相其实是：模型变体就是新款手机配色——内核一样，换个漆面，反正你六个月后还是会照样升级。
 
 ---
 
-## 2. [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)
+## 2. [彭博终端简史](https://spectrum.ieee.org/bloomberg-terminal)
 
-![A brief history of the Bloomberg terminal](https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50)
+![彭博终端简史](https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50)
 
 **来源:** HackerNews  |  **主题:** hn  |  **覆盖:** 1 个来源  |  [讨论](https://news.ycombinator.com/item?id=49909583)
 
 **摘要**
 
-IEEE Spectrum published a retrospective on the Bloomberg Terminal, tracing its evolution from a 1981 bond-pricing machine called the Market Master into the ubiquitous $2,000-a-month financial data platform that now serves over 325,000 subscribers worldwide. The piece covers Michael Bloomberg's pivot from Salomon Brothers partner to terminal mogul, the proprietary hardware-to-software transition, and how the system's closed ecosystem and instant-messaging network cemented a network effect that competitors like Reuters and Refinitiv have struggled to break.
+IEEE Spectrum 发布了一篇关于彭博终端的回顾文章，追溯了它从 1981 年名为“市场大师”（Market Master）的债券定价机，演变为如今每月收费 2000 美元、在全球拥有超过 32.5 万订阅者的金融数据平台的历程。文章涵盖了迈克尔·布隆伯格从所罗门兄弟合伙人到终端大亨的转型、从专有硬件向软件的过渡，以及该系统封闭的生态系统和即时通讯网络如何巩固了让路透社和 Refinitiv 等竞争对手难以打破的网络效应。
 
 **我的观点**
 
-> The Bloomberg Terminal is the only subscription where canceling feels like leaving a cult — complete with its own language (yellow keys, anyone?), secret handshake (IB chat), and a price tag that makes Adobe Creative Cloud look like a Humble Bundle. Yet Wall Street keeps paying because the real product isn't data; it's the comfort blanket of knowing everyone else is staring at the same blinking green numbers. Moats don't get wider than a directory you can't export.
+> 彭博终端是那种退订时感觉像在脱离邪教的订阅服务——它有自己的语言（有人记得黄色按键吗？）、秘密接头暗号（IB 聊天），以及一个让 Adobe Creative Cloud 看起来像廉价捆绑包的价格标签。然而华尔街依然买账，因为真正的产品不是数据，而是那种“大家都在盯着同样的闪烁绿字”所带来的慰藉。护城河的宽度，莫过于一个你根本无法导出的通讯录。
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-01 12:48 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-07 10:47 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

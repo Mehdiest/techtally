@@ -19,87 +19,87 @@ _إعداد [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a671
 
 **هذا الملخص متوفر أيضًا باللغات:** <a class="lang-pill" href="2026-09-30-tech-digest.html">English</a> <a class="lang-pill" href="2026-09-30-tech-digest-fa.html">فارسی</a> <a class="lang-pill" href="2026-09-30-tech-digest-fr.html">Français</a> <a class="lang-pill" href="2026-09-30-tech-digest-de.html">Deutsch</a> <a class="lang-pill" href="2026-09-30-tech-digest-es.html">Español</a> <a class="lang-pill" href="2026-09-30-tech-digest-zh.html">中文</a> <a class="lang-pill" href="2026-09-30-tech-digest-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-09-30-tech-digest-ru.html">Русский</a>
 
-## 1. [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/)
+## 1. [GPT 6.1 Sol: ذكاء يقترب من مستوى Astra بخُمس التكلفة](https://openai.com/index/introducing-gpt-6-1-sol/)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 2 مصادر  |  [نقاش](https://news.ycombinator.com/item?id=49896586)
 
 **الملخص**
 
-OpenAI has announced GPT 6.1 Sol, a new model claiming performance approaching Google's Astra benchmark at roughly one-fifth the inference cost. The release positions Sol as a cost-optimized alternative for high-end reasoning tasks, though specific benchmark numbers and availability details were not disclosed in the initial announcement.
+أعلنت OpenAI عن نموذج GPT 6.1 Sol الجديد، والذي يدعي تقديم أداء يقترب من معيار Astra الخاص بجوجل، ولكن بتكلفة استنتاج تعادل خُمس التكلفة الحالية تقريبًا. يضع هذا الإصدار نموذج Sol كبديل فعال من حيث التكلفة لمهام الاستدلال المعقدة، على الرغم من أن أرقام الأداء المحددة وتفاصيل التوفر لم يتم الكشف عنها في الإعلان الأولي.
 
 **رأيي**
 
-> OpenAI just pulled the classic 'same intelligence, 80% off' stunt — because nothing says 'we're definitely not panicking about open-source models catching up' like a suspiciously timed 'Sol' release. The name implies sunlight, but the pricing suggests they're feeling the heat from competitors who don't need to recoup a Microsoft-sized GPU mortgage. Grounded insight: when the market leader starts competing on price-per-token instead of raw capability, the commoditization of frontier models has officially arrived.
+> قامت OpenAI للتو بحركتها المعتادة 'نفس الذكاء، بخصم 80%' — لأنه لا شيء يصرخ 'نحن بالتأكيد لسنا خائفين من لحاق النماذج مفتوحة المصدر بنا' مثل إطلاق نموذج 'Sol' في هذا التوقيت المشبوه. الاسم يوحي بضوء الشمس، لكن السعر يشير إلى أنهم يشعرون بحرارة المنافسين الذين لا يحتاجون لسداد رهون عقارية على وحدات معالجة رسوميات بحجم شركة مايكروسوفت. الخلاصة: عندما يبدأ قائد السوق بالمنافسة على 'السعر لكل توكن' بدلاً من القدرات الخام، فهذا يعني رسمياً أن تحول النماذج المتطورة إلى سلعة استهلاكية قد بدأ.
 
 ---
 
-## 2. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+## 2. [Livenerf: هل تم إضعاف Opus 5.5 بالفعل؟](https://github.com/ninjahawk/livenerf)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر  |  [نقاش](https://news.ycombinator.com/item?id=49901736)
 
 **الملخص**
 
-Developer ninjahawk released Livenerf, an open-source GitHub project that continuously benchmarks Anthropic's Claude Opus 5.5 model to detect whether its capabilities have been quietly downgraded. The tool runs automated evaluations across reasoning, coding, and creative tasks, publishing results to a public dashboard. The project reflects growing community skepticism about silent model degradation after deployment.
+أطلق المطور ninjahawk مشروع Livenerf مفتوح المصدر على GitHub، والذي يقوم بإجراء اختبارات أداء مستمرة لنموذج Claude Opus 5.5 من Anthropic لاكتشاف ما إذا كانت قدراته قد تم تقليصها سراً. تقوم الأداة بتشغيل تقييمات آلية عبر مهام الاستنتاج والبرمجة والمهام الإبداعية، وتنشر النتائج على لوحة تحكم عامة. يعكس المشروع حالة التشكيك المتزايدة لدى المجتمع بشأن التدهور الصامت لنماذج الذكاء الاصطناعي بعد إطلاقها.
 
 **رأيي**
 
-> Nothing says 'trust me, bro' like a corporation updating the terms of service while your benchmark scores quietly nosedive. Livenerf is the neighborhood watch for model weights — except the suspect is a 70-billion-parameter black box that gaslights you into thinking you're the one getting dumber. The real insight: if you need a CI pipeline to prove your AI didn't get lobotomized overnight, the vendor relationship is already broken.
+> لا شيء يجسد عبارة 'ثق بي يا صديقي' أكثر من شركة تقوم بتحديث شروط الخدمة بينما تغوص نتائج اختبارات الأداء الخاصة بك بصمت نحو الهاوية. Livenerf هو بمثابة 'لجنة مراقبة الحي' لأوزان النماذج، باستثناء أن المشتبه به هنا هو صندوق أسود بـ 70 مليار معامل، يقنعك بأنك أنت من أصبح أغبى. الخلاصة الحقيقية: إذا كنت بحاجة إلى خط أنابيب CI لتثبت أن ذكاءك الاصطناعي لم يتعرض لعملية استئصال فص جبهي بين عشية وضحاها، فاعلم أن علاقتك مع المورد قد انتهت بالفعل.
 
 ---
 
-## 3. [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+## 3. [Dots: وكلاء الذكاء الاصطناعي الدائمون](https://openai.com/index/introducing-dots/)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر  |  [نقاش](https://news.ycombinator.com/item?id=49896604)
 
 **الملخص**
 
-OpenAI has announced 'Dots,' a new system of always-on AI agents designed to operate continuously in the background. The product appears to be positioned as persistent autonomous assistants that can handle tasks without constant user prompting. Details on capabilities, availability, and pricing were not immediately disclosed in the announcement.
+أعلنت OpenAI عن 'Dots'، وهو نظام جديد من وكلاء الذكاء الاصطناعي الذين يعملون باستمرار في الخلفية. يتم تسويق المنتج كمساعدين مستقلين دائمين يمكنهم التعامل مع المهام دون الحاجة إلى توجيهات مستمرة من المستخدم. لم يتم الكشف عن تفاصيل القدرات أو التوفر أو التسعير في الإعلان الأولي.
 
 **رأيي**
 
-> OpenAI just invented the digital equivalent of that coworker who never goes home, never sleeps, and constantly Slacks you 'quick question' at 2 AM. 'Always-on agents' sounds revolutionary until you realize we've basically rebranded cron jobs with a personality disorder and a $200/month API bill. The real innovation will be when they build an agent whose only job is to fire the other agents for hallucinating the quarterly budget.
+> لقد اخترعت OpenAI للتو النسخة الرقمية من ذلك الزميل الذي لا يذهب للمنزل أبداً، ولا ينام، ويزعجك باستمرار على Slack في الساعة الثانية صباحاً بسؤال 'سريع'. تبدو 'الوكلاء الدائمون' فكرة ثورية حتى تدرك أننا قمنا ببساطة بإعادة تسمية وظائف cron jobs مع إضافة اضطراب في الشخصية وفاتورة API بقيمة 200 دولار شهرياً. الابتكار الحقيقي سيكون عندما يبنون وكيلاً وظيفته الوحيدة هي طرد الوكلاء الآخرين لأنهم بدأوا يهذون بميزانية الربع السنوي.
 
 ---
 
-## 4. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
+## 4. [كيف خفضت دلهي خسائر الكهرباء من 50 إلى 5 بالمائة](https://spectrum.ieee.org/delhi-electricity-loss)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر  |  [نقاش](https://news.ycombinator.com/item?id=49892245)
 
 **الملخص**
 
-Delhi's power distribution companies reduced aggregate technical and commercial losses from roughly 50% in the early 2000s to around 5% today through privatization, large-scale smart meter deployment, aggressive anti-theft enforcement, and network modernization. The transformation involved replacing bare conductors with aerial bundled cables, implementing GIS-based asset mapping, and introducing consumer indexing to trace every connection. The turnaround is frequently cited as a rare success story in Indian power sector reform.
+نجحت شركات توزيع الكهرباء في دلهي في خفض إجمالي الخسائر الفنية والتجارية من حوالي 50% في أوائل العقد الأول من القرن الحادي والعشرين إلى حوالي 5% اليوم، وذلك من خلال الخصخصة، ونشر العدادات الذكية على نطاق واسع، والتشديد الصارم ضد سرقة الكهرباء، وتحديث الشبكات. شمل هذا التحول استبدال الأسلاك المكشوفة بكابلات مجمعة، وتطبيق خرائط الأصول المعتمدة على نظم المعلومات الجغرافية، وإدخال نظام فهرسة المستهلكين لتتبع كل توصيلة. يُشار إلى هذا التحول غالبًا باعتباره قصة نجاح نادرة في إصلاح قطاع الطاقة في الهند.
 
 **رأيي**
 
-> Delhi went from losing half its electrons to petty theft and leaky wires to running a tighter grid than most Silicon Valley server rooms — proof that when you actually bill people for what they use, they magically stop 'borrowing' power. The secret sauce wasn't just smart meters; it was the political will to survive the inevitable riots when you cut off the neighborhood strongman's free AC. Next time a utility CEO claims 'smart grid' is a five-year journey, hand them this case study and a stopwatch.
+> تحولت دلهي من فقدان نصف طاقتها بسبب السرقة والأسلاك المتهالكة إلى إدارة شبكة أكثر انضباطاً من معظم غرف خوادم وادي السيليكون؛ وهو دليل على أنه عندما تُحاسب الناس فعلياً على ما يستهلكونه، يتوقفون سحرياً عن «استعارة» الكهرباء. السر لم يكن في العدادات الذكية فحسب، بل في الإرادة السياسية لتحمل الشغب الحتمي الذي يحدث عند قطع الكهرباء عن مكيفات هواء المتنفذين في الأحياء. في المرة القادمة التي يدعي فيها مدير تنفيذي لشركة كهرباء أن «الشبكة الذكية» رحلة تستغرق خمس سنوات، أعطه دراسة الحالة هذه وساعة توقيت.
 
 ---
 
-## 5. [Ask HN: What are you reading?](https://news.ycombinator.com/item?id=49893157)
+## 5. [Ask HN: ماذا تقرأ حالياً؟](https://news.ycombinator.com/item?id=49893157)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر
 
 **الملخص**
 
-A Hacker News community thread titled 'Ask HN: What are you reading?' garnered 245 upvotes and 513 comments as users shared book recommendations spanning technical manuals, sci-fi novels, history, and philosophy. The recurring discussion format serves as an informal cultural barometer for the tech community's intellectual interests beyond code.
+حصد موضوع على Hacker News بعنوان 'Ask HN: What are you reading?' حوالي 245 تصويتاً و513 تعليقاً، حيث تبادل المستخدمون توصيات كتب تتراوح بين الأدلة التقنية وروايات الخيال العلمي والتاريخ والفلسفة. يعمل هذا التنسيق الدوري للنقاش كمقياس ثقافي غير رسمي للاهتمامات الفكرية لمجتمع التقنية بعيداً عن البرمجة.
 
 **رأيي**
 
-> Nothing says 'I'm a 10x engineer' like casually dropping that you're re-reading Knuth for fun while the rest of us struggle through 'Atomic Habits' for the third time. The thread is basically a peacocking contest where the plumage is made of obscure systems papers and 1970s Russian sci-fi. But underneath the performative bibliophilia, there's a genuine truth: the best developers read widely because software doesn't exist in a vacuum — it lives in history, economics, and human psychology.
+> لا شيء يصرخ 'أنا مهندس 10x' أكثر من أن تذكر عرضاً أنك تعيد قراءة 'كنوث' للمتعة بينما نكافح نحن البقية لإتمام 'العادات الذرية' للمرة الثالثة. هذا الموضوع هو في الأساس مسابقة استعراضية، حيث الريش مصنوع من أوراق تقنية غامضة وخيال علمي روسي من السبعينيات. ولكن تحت هذا الهوس الاستعراضي بالكتب، تكمن حقيقة صادقة: أفضل المطورين يقرؤون على نطاق واسع لأن البرمجيات لا توجد في فراغ، بل تعيش في التاريخ والاقتصاد وعلم النفس البشري.
 
 ---
 
-## 6. [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit)
+## 6. [ثغرة Relapse في PS5](https://github.com/ntfargo/Relapse-Exploit)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر  |  [نقاش](https://news.ycombinator.com/item?id=49895304)
 
 **الملخص**
 
-A new PS5 exploit named "Relapse" has been published on GitHub by developer ntfargo, potentially enabling homebrew and unauthorized software execution on Sony's console. The exploit targets a vulnerability in the PS5's system software, though specific affected firmware versions have not been detailed. This continues the ongoing cat-and-mouse dynamic between console manufacturers and the hacking community. If verified, it could allow users to run unsigned code, emulators, and custom applications on the platform.
+نشر المطور ntfargo على GitHub ثغرة جديدة لجهاز PS5 تحمل اسم "Relapse"، مما قد يتيح تشغيل برمجيات homebrew وتطبيقات غير مصرح بها على جهاز سوني. تستهدف الثغرة خللاً في نظام تشغيل PS5، رغم عدم تحديد إصدارات البرنامج الثابت المتأثرة حتى الآن. ويستمر هذا المسلسل التنافسي بين مصنعي أجهزة الألعاب ومجتمع الهاكرز. إذا تم التحقق من صحة هذه الثغرة، فقد يتمكن المستخدمون من تشغيل أكواد غير موقعة، ومحاكيات، وتطبيقات مخصصة على المنصة.
 
 **رأيي**
 
-> Sony's security team must feel like they're playing whack-a-mole with a mole that's read Sun Tzu — every time they patch a hole, three more pop up wearing tiny hacker hoodies. The "Relapse" name is chef's kiss marketing: it implies the console fell off the wagon and started mainlining homebrew again. At this rate, the PS5's security model has more holes than a speedrunner's logic. Grounded insight: console exploits inevitably arrive, but the real winners are the preservationists who'll use this to archive games long after Sony's servers go dark.
+> لا بد أن فريق الأمن في سوني يشعر وكأنه يلعب لعبة ضرب الخلد (Whack-a-Mole) مع خلد قرأ كتاب 'فن الحرب' لصن تزو؛ ففي كل مرة يسدون فيها ثغرة، تظهر ثلاث أخريات مرتديات هوديز الهاكرز. اسم 'Relapse' (انتكاسة) هو لمسة تسويقية عبقرية: فهو يوحي بأن الجهاز قد انتكس وعاد لإدمان الـ homebrew من جديد. بهذا المعدل، أصبح نموذج أمان PS5 مليئاً بالثقوب أكثر من منطق لاعبي الـ speedrun. بعيداً عن السخرية: ثغرات الكونسول قادمة لا محالة، لكن الفائزين الحقيقيين هم أولئك الذين سيستخدمون هذه الثغرة لأرشفة الألعاب وحمايتها من الضياع بمجرد إغلاق خوادم سوني.
 
 ---
 
@@ -109,14 +109,14 @@ A new PS5 exploit named "Relapse" has been published on GitHub by developer ntfa
 
 **الملخص**
 
-The Tcl Core Team has released Tcl/Tk 9.1, the first feature update to the 9.x series. The release adds native 64-bit integer support across all platforms, a new "ensemble" command for building subcommand dispatchers, improved UTF-8 handling, and numerous performance optimizations. Tk 9.1 brings HiDPI scaling fixes on Windows and macOS, updated themed widgets, and better Wayland compatibility on Linux. The 9.x branch maintains backward compatibility with Tcl 8.6 scripts while modernizing the runtime for contemporary hardware.
+أصدر فريق Tcl Core النسخة Tcl/Tk 9.1، وهي أول تحديث للميزات في سلسلة 9.x. يضيف الإصدار دعمًا أصليًا للأعداد الصحيحة 64-بت عبر جميع المنصات، وأمر "ensemble" جديد لبناء موزعات الأوامر الفرعية، وتحسينات في التعامل مع UTF-8، بالإضافة إلى العديد من تحسينات الأداء. يجلب Tk 9.1 إصلاحات لتحجيم HiDPI على نظامي Windows وmacOS، وأدوات واجهة محدثة، وتوافقًا أفضل مع Wayland على Linux. يحافظ فرع 9.x على التوافق مع الإصدارات السابقة من نصوص Tcl 8.6 مع تحديث بيئة التشغيل لتناسب الأجهزة الحديثة.
 
 **رأيي**
 
-> Tcl/Tk 9.1 arrives like that one uncle who still writes COBOL but shows up to Thanksgiving with a VR headset — unexpectedly current, stubbornly alive, and quietly powering half the network gear in your data center. The 64-bit integer overhaul only took three decades, which in enterprise software years counts as 'move fast and break things.' Meanwhile, the HiDPI fixes mean your ancient expect scripts finally render crisp on a 4K monitor, proving that sometimes the most radical innovation is just not breaking everyone's automation. The real lesson: boring, stable runtimes outlive flashy frameworks every single time.
+> وصل Tcl/Tk 9.1 مثل ذلك العم الذي لا يزال يكتب بلغة COBOL ولكنه يظهر في عيد الشكر مرتدياً نظارة الواقع الافتراضي؛ فهو عصري بشكل غير متوقع، وحي بعناد، ويدير بصمت نصف معدات الشبكة في مركز البيانات الخاص بك. استغرق تحديث الأعداد الصحيحة إلى 64-بت ثلاثة عقود كاملة، وهو ما يُعتبر في عالم برمجيات الشركات بمثابة "تحرك بسرعة واكسر الأشياء". وفي الوقت نفسه، تعني إصلاحات HiDPI أن نصوصك البرمجية القديمة (expect scripts) أصبحت أخيراً تظهر بوضوح على شاشات 4K، مما يثبت أن الابتكار الأكثر راديكالية أحياناً هو ببساطة ألا تكسر أتمتة الآخرين. الدرس الحقيقي: بيئات التشغيل المملة والمستقرة تعيش أطول من أطر العمل البراقة في كل مرة.
 
 ---
 
-*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-09-30 13:10 UTC.*
+*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-10-07 10:48 UTC.*
 
 إعداد: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

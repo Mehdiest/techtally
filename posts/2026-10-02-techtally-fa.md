@@ -20,51 +20,51 @@ _گردآوری توسط [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-este
 
 **خواندن این شماره به:** <a class="lang-pill" href="2026-10-02-techtally.html">English</a> <a class="lang-pill" href="2026-10-02-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-02-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-02-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-02-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-02-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-02-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-02-techtally-ar.html">العربية</a>
 
-## 1. [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+## 1. [پای ۱.۰](https://earendil.com/posts/pi-1-0/)
 
-![Pi 1.0](https://earendil.com/static/og/posts/pi-1-0.png)
+![پای ۱.۰](https://earendil.com/static/og/posts/pi-1-0.png)
 
 **منبع:** HackerNews  |  **موضوع:** hn  |  **پوشش:** 1 منبع  |  [گفت‌وگو](https://news.ycombinator.com/item?id=49926069)
 
 **خلاصه**
 
-The Earendil project has released version 1.0 of its decentralized, censorship-resistant networking protocol. Earendil aims to provide a peer-to-peer overlay network that routes traffic through a mesh of nodes using a custom routing protocol, designed to resist blocking and surveillance. The 1.0 release marks the project's transition from experimental to production-ready software.
+پروژه Earendil نسخه ۱.۰ پروتکل شبکه‌سازی غیرمتمرکز و مقاوم در برابر سانسور خود را منتشر کرد. هدف Earendil فراهم کردن یک شبکه همتا‌به‌همتا است که ترافیک را از طریق شبکه‌ای از گره‌ها با استفاده از یک پروتکل مسیریابی سفارشی هدایت می‌کند تا در برابر مسدودسازی و نظارت مقاوم باشد. انتشار نسخه ۱.۰ نشان‌دهنده گذار این پروژه از نرم‌افزار آزمایشی به نرم‌افزار آماده برای تولید است.
 
 **نظر من**
 
-> Another day, another 'censorship-resistant' network launching to save us from the Great Firewall du jour — this one written in Rust because of course it is. The mesh routing is clever, the threat model is thorough, and the 1.0 badge is shiny, but let's be honest: the real attack vector isn't the protocol, it's convincing your non-technical aunt to run a node. Decentralization works great until you remember most people still use 'password123' for their Wi-Fi.
+> یک روز دیگر و یک شبکه «مقاوم در برابر سانسور» دیگر که قرار است ما را از دیوار آتش بزرگ روز نجات دهد؛ این یکی هم با Rust نوشته شده، چون طبیعتاً باید همین‌طور باشد. مسیریابی شبکه‌ای هوشمندانه است، مدل تهدید جامع است و نشان ۱.۰ هم براق و جذاب، اما بیایید صادق باشیم: بردار حمله واقعی این پروتکل نیست، بلکه متقاعد کردن خاله غیرفنی شما برای اجرای یک گره است. غیرمتمرکزسازی تا زمانی که یادتان بیاید بیشتر مردم هنوز از «password123» برای وای‌فای خود استفاده می‌کنند، عالی کار می‌کند.
 
 ---
 
-## 2. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+## 2. [Clef: مدل‌های تصمیم‌گیری با وزن‌های باز و پلتفرم جدید تنظیم دقیق RL](https://blog.cloudflare.com/clef-decision-models/)
 
-![Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png)
+![Clef: مدل‌های تصمیم‌گیری با وزن‌های باز و پلتفرم جدید تنظیم دقیق RL](https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png)
 
 **منبع:** HackerNews  |  **موضوع:** hn  |  **پوشش:** 1 منبع  |  [گفت‌وگو](https://news.ycombinator.com/item?id=49923692)
 
 **خلاصه**
 
-Cloudflare has launched Clef, a family of open-weight decision models accompanied by a new reinforcement learning fine-tuning platform. The release aims to give developers accessible tools for building and customizing models that handle decision-making tasks. Cloudflare positions this as part of its broader push into AI infrastructure at the edge.
+کلودفلر از Clef رونمایی کرد؛ خانواده‌ای از مدل‌های تصمیم‌گیری با وزن‌های باز که با یک پلتفرم جدید برای تنظیم دقیق یادگیری تقویتی (RL) همراه است. این انتشار با هدف ارائه ابزارهای در دسترس به توسعه‌دهندگان برای ساخت و شخصی‌سازی مدل‌هایی است که وظایف تصمیم‌گیری را انجام می‌دهند. کلودفلر این اقدام را بخشی از تلاش گسترده‌تر خود برای ایجاد زیرساخت هوش مصنوعی در لبه شبکه (Edge) می‌داند.
 
 **نظر من**
 
-> Cloudflare just dropped open-weight decision models because apparently the world needed more LLMs that can't decide what to order for lunch either. The real flex is the RL fine-tuning platform — finally, a way to teach models to make choices without them hallucinating a career as a motivational speaker. Edge inference for decision models actually makes sense: latency matters when your AI is picking the next token *and* your dinner reservation.
+> کلودفلر مدل‌های تصمیم‌گیری با وزن‌های باز را عرضه کرده، چون ظاهراً دنیا به تعداد بیشتری از مدل‌های زبانی بزرگ نیاز داشت که حتی نمی‌توانند تصمیم بگیرند ناهار چه چیزی سفارش دهند. نکته اصلی، پلتفرم تنظیم دقیق RL است؛ بالاخره راهی پیدا شد تا به مدل‌ها یاد بدهیم تصمیم بگیرند بدون اینکه دچار توهم شوند و فکر کنند سخنران انگیزشی هستند. استنتاج در لبه شبکه برای مدل‌های تصمیم‌گیری واقعاً منطقی است: وقتی هوش مصنوعی شما همزمان در حال انتخاب توکن بعدی و رزرو شام شماست، تأخیر اهمیت زیادی پیدا می‌کند.
 
 ---
 
-## 3. [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
+## 3. [استاندارد پیش‌فرض SHA-256 در Git 3.0 یک اشتباه پرهزینه خواهد بود](https://blog.gitbutler.com/git-3-sha-256)
 
-![Git 3.0's upcoming SHA-256 default will be a costly mistake](https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/git-3-sha-256.webp)
+![استاندارد پیش‌فرض SHA-256 در Git 3.0 یک اشتباه پرهزینه خواهد بود](https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/git-3-sha-256.webp)
 
 **منبع:** HackerNews  |  **موضوع:** hn  |  **پوشش:** 1 منبع  |  [گفت‌وگو](https://news.ycombinator.com/item?id=49924179)
 
 **خلاصه**
 
-GitButler's blog argues that Git 3.0's planned switch to SHA-256 as the default hash algorithm will impose significant migration costs on the ecosystem. The transition requires new repository formats, tooling updates, and breaks compatibility with existing SHA-1 repositories. The author contends the security benefits don't justify the disruption for most users.
+وبلاگ GitButler استدلال می‌کند که تغییر برنامه‌ریزی‌شده Git 3.0 به SHA-256 به عنوان الگوریتم هش پیش‌فرض، هزینه‌های مهاجرت سنگینی را به اکوسیستم تحمیل می‌کند. این گذار نیازمند فرمت‌های جدید مخزن، به‌روزرسانی ابزارهاست و سازگاری با مخازن SHA-1 فعلی را از بین می‌برد. نویسنده معتقد است که مزایای امنیتی، این آشفتگی را برای اکثر کاربران توجیه نمی‌کند.
 
 **نظر من**
 
-> Git switching to SHA-256 is like replacing every lock in a city because someone picked one in a lab — technically correct, practically chaotic. The SHA-1 collision attack needed 6,500 CPU-years and a nation-state budget; your side project's commit history is safe. The real cost isn't the hash, it's the thousand CI pipelines, Git LFS setups, and 'why is my repo broken?' Slack threads that follow. Sometimes the most secure algorithm is the one that doesn't break everyone's workflow.
+> تغییر Git به SHA-256 مثل این است که تمام قفل‌های یک شهر را عوض کنید چون کسی در آزمایشگاه یکی از آن‌ها را باز کرده است؛ از نظر فنی درست، اما در عمل فاجعه‌بار. حمله برخورد SHA-1 به ۶۵۰۰ سال-پردازنده و بودجه یک دولت نیاز داشت؛ تاریخچه کامیت پروژه جانبی شما در امان است. هزینه واقعی، هش نیست، بلکه هزاران خط لوله CI، تنظیمات Git LFS و رشته پیام‌های «چرا ریپازیتوری من خراب شده؟» در اسلک است که به دنبالش می‌آیند. گاهی امن‌ترین الگوریتم، همان است که گردش کار همه را به هم نمی‌ریزد.
 
 ---
 
@@ -82,33 +82,33 @@ LWN.net گزارش می‌دهد که چندین آسیب‌پذیری جدید 
 
 ---
 
-## 5. [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
+## 5. [نسخه بتای عمومی StreetComplete برای iOS منتشر شد](https://github.com/streetcomplete/StreetComplete/issues/5421)
 
 **منبع:** HackerNews  |  **موضوع:** hn  |  **پوشش:** 1 منبع  |  [گفت‌وگو](https://news.ycombinator.com/item?id=49920160)
 
 **خلاصه**
 
-StreetComplete, the popular open-source Android app for crowdsourcing OpenStreetMap data through gamified quests, has launched a public beta for iOS. The project, maintained by a volunteer community, previously existed only on Android and F-Droid. This expansion brings its accessible 'answer simple questions about your surroundings' workflow to iPhone users for the first time. The beta is distributed via TestFlight and the source remains on GitHub under GPL-3.0.
+نرم‌افزار محبوب و متن‌باز StreetComplete که برای جمع‌سپاری داده‌های OpenStreetMap از طریق ماموریت‌های بازی‌وار طراحی شده، نسخه بتای عمومی خود را برای iOS عرضه کرد. این پروژه که توسط جامعه داوطلبان مدیریت می‌شود، پیش‌تر تنها در اندروید و F-Droid در دسترس بود. این گسترش، جریان کاری ساده و جذاب «پاسخ به سوالات محیط اطراف» را برای نخستین بار به کاربران آیفون می‌آورد. این بتا از طریق TestFlight توزیع می‌شود و سورس‌کد آن همچنان با مجوز GPL-3.0 در گیت‌هاب موجود است.
 
 **نظر من**
 
-> After years of iOS users watching Android mappers have all the fun turning 'is there a bench here?' into a competitive sport, StreetComplete finally crosses the platform moat. It's the rare app that makes 'citizen science' feel less like homework and more like Pokémon GO for urban infrastructure nerds. The real win isn't the port — it's proving that open-source map tooling doesn't have to live in a single ecosystem ghetto. More eyes on the map means fewer missing crosswalks for everyone.
+> پس از سال‌ها تماشای اینکه کاربران اندرویدی با تبدیل «آیا اینجا نیمکت هست؟» به یک ورزش رقابتی چقدر لذت می‌بردند، StreetComplete بالاخره از سد سیستم‌عامل‌ها گذشت. این یکی از آن برنامه‌های نادری است که «علم شهروندی» را کمتر شبیه به مشق شب و بیشتر شبیه به پوکمون‌گو برای خوره‌های زیرساخت‌های شهری می‌کند. پیروزی واقعی این پورت نیست، بلکه اثبات این است که ابزارهای نقشه‌برداری متن‌باز مجبور نیستند در گتوی یک اکوسیستم واحد محبوس بمانند. چشم‌های بیشتر روی نقشه یعنی خط‌کشی‌های عابر پیاده کمترِ فراموش‌شده برای همه.
 
 ---
 
-## 6. [Pi Durable](https://earendil.com/posts/pi-durable/)
+## 6. [Pi Durable (پای بادوام)](https://earendil.com/posts/pi-durable/)
 
-![Pi Durable](https://earendil.com/static/og/posts/pi-durable.png)
+![Pi Durable (پای بادوام)](https://earendil.com/static/og/posts/pi-durable.png)
 
 **منبع:** HackerNews  |  **موضوع:** hn  |  **پوشش:** 1 منبع  |  [گفت‌وگو](https://news.ycombinator.com/item?id=49925969)
 
 **خلاصه**
 
-A HackerNews post titled 'Pi Durable' links to earendil.com/posts/pi-durable/, a blog entry on the Earendil project site. Earendil is a decentralized, incentivized mixnet for anonymous communication. The post likely discusses durability improvements or Raspberry Pi deployment for the network, though the exact content is unavailable.
+پستی در HackerNews با عنوان «Pi Durable» به مطلبی در وب‌سایت پروژه Earendil لینک داده است. Earendil یک شبکه میکس‌نت غیرمتمرکز و مشوق‌محور برای ارتباطات ناشناس است. این پست احتمالاً به بهبود پایداری یا استقرار آن روی رزبری پای برای این شبکه می‌پردازد، هرچند محتوای دقیق آن در دسترس نیست.
 
 **نظر من**
 
-> Another day, another mixnet promising to save us from surveillance capitalism while running on a $35 computer that overheats if you look at it wrong. Earendil's 'Pi Durable' sounds like a survivalist's backup plan: when the grid goes down, you'll still anonymously shitpost from a solar-powered Raspberry Pi taped to a garden gnome. The grounded insight: decentralized anonymity networks live or die by node diversity, not hardware durability — if everyone runs the same cheap SBC in the same cloud region, you've just built a fragile honeypot with extra steps.
+> یک روز دیگر و یک میکس‌نت دیگر که قول می‌دهد ما را از چنگال سرمایه‌داری نظارتی نجات دهد، آن هم با اجرای روی یک کامپیوتر ۳۵ دلاری که اگر بد نگاهش کنی داغ می‌کند. «Pi Durable» پروژه Earendil شبیه نقشه بقای یک آدم آخرالزمانی است: وقتی شبکه برق قطع شد، همچنان می‌توانی با یک رزبری پایِ خورشیدی که به یک کوتوله باغچه چسبانده‌ای، به صورت ناشناس چرندیات پست کنی. حقیقت ماجرا: شبکه‌های ناشناسِ غیرمتمرکز با تنوع گره‌ها زنده می‌مانند، نه با دوام سخت‌افزار؛ اگر همه از همان تک‌برد ارزان در همان منطقه ابری استفاده کنند، فقط یک هانی‌پات شکننده با مراحل اضافه ساخته‌اید.
 
 ---
 
@@ -120,14 +120,14 @@ A HackerNews post titled 'Pi Durable' links to earendil.com/posts/pi-durable/, a
 
 **خلاصه**
 
-SvelteKit 3 has been released as the latest major version of the full-stack web framework built on Svelte. The update introduces breaking changes, improved server-side rendering, enhanced type safety, and a restructured project architecture. Developers will need to migrate existing applications to adopt the new APIs and conventions.
+نسخه SvelteKit 3 به عنوان جدیدترین نسخه اصلی از فریم‌ورک وب فول‌استک مبتنی بر Svelte منتشر شد. این به‌روزرسانی شامل تغییرات ساختارشکن، بهبود رندرینگ سمت سرور (SSR)، تقویت امنیت نوع (Type Safety) و بازسازی معماری پروژه است. توسعه‌دهندگان برای استفاده از APIها و قراردادهای جدید، باید اپلیکیشن‌های فعلی خود را مهاجرت دهند.
 
 **نظر من**
 
-> SvelteKit 3 arrives like that friend who shows up to a party, rearranges all the furniture, and somehow makes the place look better — breaking changes included. The framework continues its tradition of 'we know better than you' API design, which is annoying until you realize they're usually right. The real win? Finally treating TypeScript as a first-class citizen instead of a polite guest. Migration pain is the price of admission for a framework that refuses to accumulate legacy baggage.
+> SvelteKit 3 مثل آن دوستی است که به مهمانی می‌آید، تمام مبلمان را جابه‌جا می‌کند و به طرز عجیبی فضا را بهتر جلوه می‌دهد؛ حتی با وجود تغییرات ساختارشکن. این فریم‌ورک همچنان سنت «ما بهتر از شما می‌دانیم» را در طراحی API حفظ کرده که تا زمانی که متوجه نمی‌شوید حق با آن‌هاست، آزاردهنده است. برد اصلی؟ بالاخره TypeScript را به عنوان یک شهروند درجه یک پذیرفتند، نه یک مهمان محترم. دردسر مهاجرت، بهای ورودی برای فریم‌ورکی است که اجازه نمی‌دهد بار میراث‌های قدیمی روی دوشش سنگینی کند.
 
 ---
 
-*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-02 10:55 UTC.*
+*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-07 10:46 UTC.*
 
 گردآوری توسط: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

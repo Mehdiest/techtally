@@ -28,30 +28,30 @@ _إعداد [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a671
 
 **الملخص**
 
-Google has announced Gemini 4 Argon, a new variant in its Gemini 4 model family, as detailed on the Google Research blog. The naming follows Google's convention of using noble gas designations for model tiers, with Argon likely positioning as a mid-range or specialized variant. The announcement signals Google's continued rapid iteration on its flagship AI model lineup amid intense competition from OpenAI, Anthropic, and open-source alternatives.
+أعلنت جوجل عن Gemini 4 Argon، وهو متغير جديد ضمن عائلة نماذج Gemini 4، وفقاً لما ورد في مدونة أبحاث جوجل. يتبع هذا الاسم نهج جوجل في استخدام أسماء الغازات النبيلة لتصنيف مستويات نماذجها، حيث يُرجح أن Argon يمثل فئة متوسطة أو متخصصة. يشير هذا الإعلان إلى استمرار جوجل في التحديث السريع لسلسلة نماذج الذكاء الاصطناعي الرائدة الخاصة بها وسط منافسة شرسة من OpenAI وAnthropic والبدائل مفتوحة المصدر.
 
 **رأيي**
 
-> Google's periodic table of AI models just gained another noble gas — because nothing says 'cutting-edge' like naming your software after elements that refuse to react with anything. Argon sits between Neon and Krypton on the table, which perfectly captures Google's current strategy: stuck in the middle, glowing faintly while everyone else builds actual products. The real insight: model variants are the new smartphone colors — same guts, different paint job, and you'll still upgrade in six months anyway.
+> لقد أضافت جوجل غازاً نبيلاً آخر إلى جدولها الدوري لنماذج الذكاء الاصطناعي، لأنه لا يوجد شيء يوحي بـ 'الابتكار' أكثر من تسمية برامجك بأسماء عناصر ترفض التفاعل مع أي شيء. يقع Argon في الجدول بين النيون والكريبتون، وهو ما يجسد استراتيجية جوجل الحالية تماماً: عالقة في المنتصف، تتوهج بخفوت بينما يقوم الآخرون ببناء منتجات حقيقية. الحقيقة هي: متغيرات النماذج هي مجرد ألوان جديدة للهواتف الذكية؛ نفس المحتوى بطلاء مختلف، وستقوم بالترقية بعد ستة أشهر على أي حال.
 
 ---
 
-## 2. [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)
+## 2. [تاريخ موجز لنظام بلومبرغ الطرفي (Bloomberg Terminal)](https://spectrum.ieee.org/bloomberg-terminal)
 
-![A brief history of the Bloomberg terminal](https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50)
+![تاريخ موجز لنظام بلومبرغ الطرفي (Bloomberg Terminal)](https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر  |  [نقاش](https://news.ycombinator.com/item?id=49909583)
 
 **الملخص**
 
-IEEE Spectrum published a retrospective on the Bloomberg Terminal, tracing its evolution from a 1981 bond-pricing machine called the Market Master into the ubiquitous $2,000-a-month financial data platform that now serves over 325,000 subscribers worldwide. The piece covers Michael Bloomberg's pivot from Salomon Brothers partner to terminal mogul, the proprietary hardware-to-software transition, and how the system's closed ecosystem and instant-messaging network cemented a network effect that competitors like Reuters and Refinitiv have struggled to break.
+نشرت مجلة IEEE Spectrum مراجعة تاريخية لنظام بلومبرغ الطرفي، متتبعة تطوره من آلة تسعير سندات عام 1981 تسمى 'Market Master' إلى منصة بيانات مالية لا غنى عنها بتكلفة 2000 دولار شهرياً، تخدم الآن أكثر من 325,000 مشترك حول العالم. يغطي المقال تحول مايكل بلومبرغ من شريك في شركة 'سالومون براذرز' إلى إمبراطور للأجهزة الطرفية، والانتقال من الأجهزة المملوكة حصرياً إلى البرمجيات، وكيف عزز النظام البيئي المغلق وشبكة المراسلة الفورية لهذا النظام تأثيراً شبكياً عجز منافسون مثل رويترز وريفينيتيف عن كسره.
 
 **رأيي**
 
-> The Bloomberg Terminal is the only subscription where canceling feels like leaving a cult — complete with its own language (yellow keys, anyone?), secret handshake (IB chat), and a price tag that makes Adobe Creative Cloud look like a Humble Bundle. Yet Wall Street keeps paying because the real product isn't data; it's the comfort blanket of knowing everyone else is staring at the same blinking green numbers. Moats don't get wider than a directory you can't export.
+> نظام بلومبرغ الطرفي هو الاشتراك الوحيد الذي تشعر عند إلغائه وكأنك تغادر طائفة دينية، مع لغته الخاصة (هل يتذكر أحد المفاتيح الصفراء؟)، ومصافحته السرية (دردشة IB)، وسعر يجعل باقة Adobe Creative Cloud تبدو وكأنها صفقة زهيدة. ومع ذلك، لا يزال 'وول ستريت' يدفع الثمن لأن المنتج الحقيقي ليس البيانات، بل هو ذلك الشعور المريح بأن الجميع يحدقون في نفس الأرقام الخضراء الوامضة. لا توجد خنادق أعمق من قائمة جهات اتصال لا يمكنك تصديرها.
 
 ---
 
-*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-10-01 12:48 UTC.*
+*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-10-07 10:47 UTC.*
 
 إعداد: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

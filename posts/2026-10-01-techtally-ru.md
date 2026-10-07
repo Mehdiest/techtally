@@ -28,30 +28,30 @@ _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-est
 
 **Резюме**
 
-Google has announced Gemini 4 Argon, a new variant in its Gemini 4 model family, as detailed on the Google Research blog. The naming follows Google's convention of using noble gas designations for model tiers, with Argon likely positioning as a mid-range or specialized variant. The announcement signals Google's continued rapid iteration on its flagship AI model lineup amid intense competition from OpenAI, Anthropic, and open-source alternatives.
+Google анонсировала Gemini 4 Argon — новый вариант в семействе моделей Gemini 4, подробности о котором изложены в блоге Google Research. Название продолжает традицию Google использовать обозначения инертных газов для уровней моделей; Argon, вероятно, позиционируется как среднеуровневый или специализированный вариант. Анонс свидетельствует о том, что Google продолжает быстро обновлять свою флагманскую линейку ИИ-моделей на фоне жесткой конкуренции со стороны OpenAI, Anthropic и альтернатив с открытым исходным кодом.
 
 **Моё мнение**
 
-> Google's periodic table of AI models just gained another noble gas — because nothing says 'cutting-edge' like naming your software after elements that refuse to react with anything. Argon sits between Neon and Krypton on the table, which perfectly captures Google's current strategy: stuck in the middle, glowing faintly while everyone else builds actual products. The real insight: model variants are the new smartphone colors — same guts, different paint job, and you'll still upgrade in six months anyway.
+> В периодической таблице ИИ-моделей Google пополнение — еще один инертный газ. Ну конечно, что может быть более «передовым», чем называть софт элементами, которые принципиально ни с чем не вступают в реакцию? Argon стоит между неоном и криптоном, что идеально описывает текущую стратегию Google: застрять посередине и тускло светиться, пока остальные создают реальные продукты. Настоящий инсайт: варианты моделей — это новые цвета смартфонов: начинка та же, просто покрасили по-другому, а вы все равно побежите обновляться через полгода.
 
 ---
 
-## 2. [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)
+## 2. [Краткая история терминала Bloomberg](https://spectrum.ieee.org/bloomberg-terminal)
 
-![A brief history of the Bloomberg terminal](https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50)
+![Краткая история терминала Bloomberg](https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника  |  [Обсуждение](https://news.ycombinator.com/item?id=49909583)
 
 **Резюме**
 
-IEEE Spectrum published a retrospective on the Bloomberg Terminal, tracing its evolution from a 1981 bond-pricing machine called the Market Master into the ubiquitous $2,000-a-month financial data platform that now serves over 325,000 subscribers worldwide. The piece covers Michael Bloomberg's pivot from Salomon Brothers partner to terminal mogul, the proprietary hardware-to-software transition, and how the system's closed ecosystem and instant-messaging network cemented a network effect that competitors like Reuters and Refinitiv have struggled to break.
+IEEE Spectrum опубликовал ретроспективу терминала Bloomberg, проследив его эволюцию от машины для оценки облигаций 1981 года под названием Market Master до вездесущей финансовой платформы стоимостью 2000 долларов в месяц, которая сейчас обслуживает более 325 000 подписчиков по всему миру. В статье рассказывается о превращении Майкла Блумберга из партнера Salomon Brothers в терминального магната, переходе от проприетарного оборудования к программному обеспечению, а также о том, как закрытая экосистема системы и сеть обмена мгновенными сообщениями создали сетевой эффект, который конкуренты, такие как Reuters и Refinitiv, пытаются безуспешно преодолеть.
 
 **Моё мнение**
 
-> The Bloomberg Terminal is the only subscription where canceling feels like leaving a cult — complete with its own language (yellow keys, anyone?), secret handshake (IB chat), and a price tag that makes Adobe Creative Cloud look like a Humble Bundle. Yet Wall Street keeps paying because the real product isn't data; it's the comfort blanket of knowing everyone else is staring at the same blinking green numbers. Moats don't get wider than a directory you can't export.
+> Терминал Bloomberg — это единственная подписка, отмена которой ощущается как выход из секты, со своим собственным языком (желтые клавиши, кто-нибудь помнит?), секретным рукопожатием (чат IB) и ценником, на фоне которого Adobe Creative Cloud кажется дешевым набором по акции. И все же Уолл-стрит продолжает платить, потому что настоящий продукт — это не данные; это уютное одеяло уверенности в том, что все остальные смотрят на те же самые мигающие зеленые цифры. Рвы не бывают шире, чем телефонная книга, которую невозможно экспортировать.
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-01 12:48 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-07 10:47 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

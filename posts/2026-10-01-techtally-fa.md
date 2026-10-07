@@ -20,19 +20,19 @@ _گردآوری توسط [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-este
 
 **خواندن این شماره به:** <a class="lang-pill" href="2026-10-01-techtally.html">English</a> <a class="lang-pill" href="2026-10-01-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-01-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-01-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-01-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-01-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-01-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-01-techtally-ar.html">العربية</a>
 
-## 1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+## 1. [جمنای ۴ آرگون](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
 
-![Gemini 4 Argon](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png)
+![جمنای ۴ آرگون](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png)
 
 **منبع:** HackerNews  |  **موضوع:** hn  |  **پوشش:** 1 منبع  |  [گفت‌وگو](https://news.ycombinator.com/item?id=49913571)
 
 **خلاصه**
 
-Google has announced Gemini 4 Argon, a new variant in its Gemini 4 model family, as detailed on the Google Research blog. The naming follows Google's convention of using noble gas designations for model tiers, with Argon likely positioning as a mid-range or specialized variant. The announcement signals Google's continued rapid iteration on its flagship AI model lineup amid intense competition from OpenAI, Anthropic, and open-source alternatives.
+گوگل از جمنای ۴ آرگون، مدل جدیدی از خانواده جمنای ۴، در وبلاگ تحقیقاتی خود رونمایی کرد. این نام‌گذاری از سنت گوگل در استفاده از نام گازهای نجیب برای دسته‌بندی مدل‌ها پیروی می‌کند و آرگون احتمالاً به عنوان مدلی میان‌رده یا تخصصی عرضه شده است. این خبر نشان‌دهنده تلاش مداوم گوگل برای به‌روزرسانی سریع سری مدل‌های هوش مصنوعی خود در رقابت شدید با OpenAI، آنتروپیک و گزینه‌های متن‌باز است.
 
 **نظر من**
 
-> Google's periodic table of AI models just gained another noble gas — because nothing says 'cutting-edge' like naming your software after elements that refuse to react with anything. Argon sits between Neon and Krypton on the table, which perfectly captures Google's current strategy: stuck in the middle, glowing faintly while everyone else builds actual products. The real insight: model variants are the new smartphone colors — same guts, different paint job, and you'll still upgrade in six months anyway.
+> جدول تناوبی مدل‌های هوش مصنوعی گوگل بالاخره یک گاز نجیب دیگر هم گرفت؛ چون هیچ چیز مثل نام‌گذاری نرم‌افزار با عناصری که با هیچ‌چیز واکنش نشان نمی‌دهند، حس «پیشرو بودن» را منتقل نمی‌کند. آرگون در جدول بین نئون و کریپتون قرار دارد و این دقیقاً وضعیت فعلی استراتژی گوگل را نشان می‌دهد: گیر افتاده در وسط، با درخششی کم‌فروغ در حالی که بقیه دارند محصول واقعی می‌سازند. نکته اصلی اینجاست: مدل‌های جدید همان رنگ‌های جدید گوشی‌های هوشمند هستند؛ محتوای یکسان، رنگ‌آمیزی متفاوت، و شما هم طبق معمول شش ماه دیگر باز به سراغ نسخه جدید می‌روید.
 
 ---
 
@@ -52,6 +52,6 @@ Google has announced Gemini 4 Argon, a new variant in its Gemini 4 model family,
 
 ---
 
-*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-01 12:48 UTC.*
+*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-07 10:47 UTC.*
 
 گردآوری توسط: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

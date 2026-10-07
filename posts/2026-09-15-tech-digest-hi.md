@@ -20,68 +20,68 @@ _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal
 
 **इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-09-15-tech-digest.html">English</a> <a class="lang-pill" href="2026-09-15-tech-digest-fa.html">فارسی</a> <a class="lang-pill" href="2026-09-15-tech-digest-fr.html">Français</a> <a class="lang-pill" href="2026-09-15-tech-digest-de.html">Deutsch</a> <a class="lang-pill" href="2026-09-15-tech-digest-es.html">Español</a> <a class="lang-pill" href="2026-09-15-tech-digest-zh.html">中文</a> <a class="lang-pill" href="2026-09-15-tech-digest-ru.html">Русский</a> <a class="lang-pill" href="2026-09-15-tech-digest-ar.html">العربية</a>
 
-## 1. [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
+## 1. [मैं पापुआ न्यू गिनी के बारे में सोचना बंद नहीं कर सकता](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
 
-![I can't stop thinking about Papua New Guinea](https://substackcdn.com/image/fetch/$s_!o2BG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf2320c-0d17-4c36-bf55-4372c97e32e4_3099x3069.jpeg)
-
-**स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
-
-**सारांश**
-
-A Substack essay titled 'I can't stop thinking about Papua New Guinea' circulated on Hacker News. The thread collected 514 signal points and 212 comments, making Papua New Guinea the focal topic. The engagement suggests strong interest in the place or the headline, even without a provided excerpt.
-
-**मेरी राय**
-
-> Hacker News has done the equivalent of finding a remote valley and calling it a market opportunity: one clever headline, and suddenly Papua New Guinea is the next frontier for hot takes. It is less about the country and more about the internet's habit of treating geography like a startup pitch deck. The useful takeaway is that viral curiosity often says more about the audience's assumptions than the place itself.
-
----
-
-## 2. [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
-
-![iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/images/2026/09/major-updates-for-apples-software-platforms-are-now-available/tile/Apple-OS-availability-hero-lp.jpg.og.jpg)
+![मैं पापुआ न्यू गिनी के बारे में सोचना बंद नहीं कर सकता](https://substackcdn.com/image/fetch/$s_!o2BG!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf2320c-0d17-4c36-bf55-4372c97e32e4_3099x3069.jpeg)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-Apple announced the availability of iOS 27, iPadOS 27, and macOS 27, marking the next major software release for its mobile, tablet, and desktop platforms. The updates roll out to compatible devices and typically include new system features, performance improvements, and security patches. The simultaneous release reinforces Apple's effort to keep its ecosystem aligned across hardware categories.
+हैकर न्यूज़ पर 'आई कांट स्टॉप थिंकिंग अबाउट पापुआ न्यू गिनी' शीर्षक वाला एक सबस्टैक निबंध चर्चा में रहा। इस थ्रेड को 514 सिग्नल पॉइंट्स और 212 कमेंट्स मिले, जिससे पापुआ न्यू गिनी चर्चा का मुख्य केंद्र बन गया। यह जुड़ाव दर्शाता है कि लोग इस जगह या शीर्षक को लेकर काफी उत्सुक हैं, भले ही कोई अंश साझा नहीं किया गया था।
 
 **मेरी राय**
 
-> Apple’s software calendar has reached the point where version numbers sound like they are aging in dog years: iOS 27 is less a product launch than a quarterly ritual with a keynote and a progress bar. The real story is not the number, but how much of Apple’s competitive moat now comes from quietly shipping boring reliability across every device. If your phone updates without demanding a blood oath, that is still the win.
+> हैकर न्यूज़ ने एक दूरदराज की घाटी ढूँढकर उसे बाज़ार का अवसर बताने जैसा काम किया है: एक चतुर हेडलाइन और अचानक पापुआ न्यू गिनी हॉट टेक्स के लिए अगली बड़ी जगह बन गया। यह उस देश के बारे में कम और इंटरनेट की उस आदत के बारे में ज़्यादा है जो भूगोल को स्टार्टअप पिच डेक की तरह देखती है। काम की बात यह है कि वायरल उत्सुकता उस जगह से ज़्यादा दर्शकों की धारणाओं के बारे में बताती है।
 
 ---
 
-## 3. [XCancel service is suspended until further notice](https://xcancel.com/#)
+## 2. [iOS 27, iPadOS 27, और macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+
+![iOS 27, iPadOS 27, और macOS 27](https://www.apple.com/newsroom/images/2026/09/major-updates-for-apples-software-platforms-are-now-available/tile/Apple-OS-availability-hero-lp.jpg.og.jpg)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-XCancel, a third-party web frontend for X, has suspended its service until further notice. The suspension was announced on the xcancel.com homepage and drew attention on Hacker News. The shutdown matters because it removes an alternative way to browse X content and highlights the fragility of unofficial clients built around a platform that controls access.
+Apple ने iOS 27, iPadOS 27 और macOS 27 की उपलब्धता की घोषणा की है, जो उसके मोबाइल, टैबलेट और डेस्कटॉप प्लेटफॉर्म के लिए अगला बड़ा सॉफ्टवेयर रिलीज है। ये अपडेट संगत डिवाइसों के लिए जारी किए जा रहे हैं और इनमें आमतौर पर नए सिस्टम फीचर्स, परफॉरमेंस में सुधार और सुरक्षा पैच शामिल होते हैं। एक साथ रिलीज करना Apple के उस प्रयास को पुख्ता करता है जिसके जरिए वह हार्डवेयर श्रेणियों में अपने इकोसिस्टम को एक समान बनाए रखना चाहता है।
 
 **मेरी राय**
 
-> Another third-party X frontend has been sent to the tech graveyard, proving that building on someone else's platform is like renting a house from a landlord who keeps changing the locks and charging you for the key. The phrase 'until further notice' is the industry's polite way of saying 'we got tired of being throttled, sued, or emotionally abused by a product roadmap.' If your news feed depends on a hobbyist mirror, keep a backup plan and a sense of humor.
+> Apple का सॉफ्टवेयर कैलेंडर अब उस मोड़ पर पहुँच गया है जहाँ वर्जन नंबर ऐसे लगते हैं जैसे डॉग इयर्स (dog years) में बढ़ रहे हों: iOS 27 कोई प्रोडक्ट लॉन्च कम, एक कीनोट और प्रोग्रेस बार वाला तिमाही अनुष्ठान ज्यादा लगता है। असली कहानी नंबर नहीं, बल्कि यह है कि Apple की प्रतिस्पर्धी बढ़त अब इस बात से आती है कि वह चुपचाप हर डिवाइस पर बोरिंग रिलायबिलिटी (विश्वसनीयता) कैसे पहुँचा रहा है। अगर आपका फोन बिना किसी 'रक्त की शपथ' माँगे अपडेट हो जाता है, तो यही असली जीत है।
 
 ---
 
-## 4. [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
-
-![Suspected sabotage causes major Netherlands rail disruption](https://ichef.bbci.co.uk/news/1024/branded_news/5666/live/b70fbd00-b109-11f1-a451-6b1ff10ed362.jpg)
+## 3. [XCancel सेवा अगली सूचना तक निलंबित](https://xcancel.com/#)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-A major disruption to Netherlands rail services has been attributed to suspected sabotage, according to BBC reporting. Authorities are investigating the incident, which has disrupted train operations and passenger travel. The event highlights vulnerabilities in critical transport infrastructure.
+X के लिए एक थर्ड-पार्टी वेब फ्रंटएंड, XCancel ने अपनी सेवा अगली सूचना तक निलंबित कर दी है। इस निलंबन की घोषणा xcancel.com के होमपेज पर की गई और इसने हैकर न्यूज़ का ध्यान आकर्षित किया। यह शटडाउन महत्वपूर्ण है क्योंकि यह X सामग्री को ब्राउज़ करने का एक वैकल्पिक तरीका खत्म कर देता है और उन अनौपचारिक क्लाइंट्स की नाजुकता को उजागर करता है जो ऐसे प्लेटफॉर्म पर बने हैं जो एक्सेस को नियंत्रित करता है।
 
 **मेरी राय**
 
-> The internet loves a dramatic 'cyberattack' story, but rail sabotage is basically analog malware with more paperwork. As transport systems get more digital, resilience still depends on old-school redundancy, physical security, and boring maintenance.
+> एक और थर्ड-पार्टी X फ्रंटएंड को टेक कब्रिस्तान भेज दिया गया है, जो यह साबित करता है कि किसी और के प्लेटफॉर्म पर कुछ बनाना किसी ऐसे मकान मालिक से घर किराए पर लेने जैसा है जो बार-बार ताले बदलता रहता है और चाबी के लिए भी आपसे पैसे वसूलता है। 'अगली सूचना तक' वाक्यांश उद्योग का वह विनम्र तरीका है जिससे वे कहते हैं, 'हम थ्रॉटलिंग, मुकदमों, या किसी प्रोडक्ट रोडमैप द्वारा भावनात्मक शोषण से थक चुके हैं।' यदि आपकी न्यूज़ फीड किसी हॉबीस्ट मिरर पर निर्भर है, तो एक बैकअप प्लान और सेंस ऑफ ह्यूमर जरूर रखें।
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-09-30 13:13 UTC पर स्वतः जनरेट किया गया।*
+## 4. [नीदरलैंड में संदिग्ध तोड़फोड़ के कारण रेल सेवाएं ठप](https://www.bbc.com/news/articles/c8ly49w9g1edo)
+
+![नीदरलैंड में संदिग्ध तोड़फोड़ के कारण रेल सेवाएं ठप](https://ichef.bbci.co.uk/news/1024/branded_news/5666/live/b70fbd00-b109-11f1-a451-6b1ff10ed362.jpg)
+
+**स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
+
+**सारांश**
+
+बीबीसी की रिपोर्ट के अनुसार, नीदरलैंड में रेल सेवाओं में बड़ी बाधा का कारण संदिग्ध तोड़फोड़ को माना जा रहा है। अधिकारी इस घटना की जांच कर रहे हैं, जिसने ट्रेन परिचालन और यात्रियों की यात्रा को बाधित कर दिया है। यह घटना महत्वपूर्ण परिवहन बुनियादी ढांचे की कमजोरियों को उजागर करती है।
+
+**मेरी राय**
+
+> इंटरनेट को 'साइबर हमले' की नाटकीय कहानियां बहुत पसंद हैं, लेकिन रेल में तोड़फोड़ असल में एनालॉग मैलवेयर जैसा है, बस इसमें कागजी कार्रवाई ज्यादा होती है। जैसे-जैसे परिवहन प्रणालियां डिजिटल होती जा रही हैं, लचीलापन अब भी पुरानी शैली की रिडंडेंसी, भौतिक सुरक्षा और उबाऊ रखरखाव पर ही निर्भर करता है।
+
+---
+
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-07 10:51 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

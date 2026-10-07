@@ -28,30 +28,30 @@ _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal
 
 **सारांश**
 
-Google has announced Gemini 4 Argon, a new variant in its Gemini 4 model family, as detailed on the Google Research blog. The naming follows Google's convention of using noble gas designations for model tiers, with Argon likely positioning as a mid-range or specialized variant. The announcement signals Google's continued rapid iteration on its flagship AI model lineup amid intense competition from OpenAI, Anthropic, and open-source alternatives.
+Google ने Gemini 4 मॉडल परिवार के एक नए वेरिएंट, Gemini 4 Argon की घोषणा की है, जिसका विवरण Google रिसर्च ब्लॉग पर दिया गया है। यह नामकरण Google की मॉडल टियर के लिए नोबल गैसों का उपयोग करने की परंपरा का पालन करता है, जिसमें Argon को संभवतः एक मिड-रेंज या विशेष वेरिएंट के रूप में रखा गया है। यह घोषणा OpenAI, Anthropic और ओपन-सोर्स विकल्पों से मिल रही कड़ी प्रतिस्पर्धा के बीच Google द्वारा अपने फ्लैगशिप AI मॉडल लाइनअप में निरंतर तेजी से बदलाव का संकेत देती है।
 
 **मेरी राय**
 
-> Google's periodic table of AI models just gained another noble gas — because nothing says 'cutting-edge' like naming your software after elements that refuse to react with anything. Argon sits between Neon and Krypton on the table, which perfectly captures Google's current strategy: stuck in the middle, glowing faintly while everyone else builds actual products. The real insight: model variants are the new smartphone colors — same guts, different paint job, and you'll still upgrade in six months anyway.
+> Google की AI मॉडल वाली आवर्त सारणी (periodic table) में एक और नोबल गैस जुड़ गई है — क्योंकि किसी सॉफ़्टवेयर का नाम उन तत्वों पर रखने से ज्यादा 'कटिंग-एज' और क्या हो सकता है जो किसी के साथ प्रतिक्रिया ही नहीं करते? Argon सारणी में नियॉन और क्रिप्टन के बीच आता है, जो Google की वर्तमान रणनीति को पूरी तरह दर्शाता है: बीच में फँसे रहना और हल्का सा चमकना, जबकि बाकी सब असली उत्पाद बना रहे हैं। असली बात यह है: मॉडल वेरिएंट स्मार्टफोन के नए रंगों की तरह हैं — वही अंदरूनी हिस्सा, बस अलग पेंट जॉब, और आप वैसे भी छह महीने में अपग्रेड कर ही लेंगे।
 
 ---
 
-## 2. [A brief history of the Bloomberg terminal](https://spectrum.ieee.org/bloomberg-terminal)
+## 2. [ब्लूमबर्ग टर्मिनल का संक्षिप्त इतिहास](https://spectrum.ieee.org/bloomberg-terminal)
 
-![A brief history of the Bloomberg terminal](https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50)
+![ब्लूमबर्ग टर्मिनल का संक्षिप्त इतिहास](https://spectrum.ieee.org/media-library/image.jpg?id=67857174&width=1200&height=600&coordinates=0%2C50%2C0%2C50)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत  |  [चर्चा](https://news.ycombinator.com/item?id=49909583)
 
 **सारांश**
 
-IEEE Spectrum published a retrospective on the Bloomberg Terminal, tracing its evolution from a 1981 bond-pricing machine called the Market Master into the ubiquitous $2,000-a-month financial data platform that now serves over 325,000 subscribers worldwide. The piece covers Michael Bloomberg's pivot from Salomon Brothers partner to terminal mogul, the proprietary hardware-to-software transition, and how the system's closed ecosystem and instant-messaging network cemented a network effect that competitors like Reuters and Refinitiv have struggled to break.
+IEEE स्पेक्ट्रम ने ब्लूमबर्ग टर्मिनल पर एक पूर्वव्यापी लेख प्रकाशित किया है, जिसमें 1981 की 'मार्केट मास्टर' नामक बॉन्ड-प्राइसिंग मशीन से लेकर 2,000 डॉलर प्रति माह के वित्तीय डेटा प्लेटफॉर्म तक के इसके सफर को दर्शाया गया है, जिसके दुनिया भर में 325,000 से अधिक ग्राहक हैं। लेख में माइकल ब्लूमबर्ग के सलोमन ब्रदर्स के पार्टनर से टर्मिनल मुगल बनने के सफर, हार्डवेयर से सॉफ्टवेयर में बदलाव, और यह बताया गया है कि कैसे इसके बंद इकोसिस्टम और इंस्टेंट-मैसेजिंग नेटवर्क ने उस नेटवर्क प्रभाव को मजबूत किया है जिसे रॉयटर्स और रिफिनिटिव जैसे प्रतिस्पर्धी तोड़ने के लिए संघर्ष कर रहे हैं।
 
 **मेरी राय**
 
-> The Bloomberg Terminal is the only subscription where canceling feels like leaving a cult — complete with its own language (yellow keys, anyone?), secret handshake (IB chat), and a price tag that makes Adobe Creative Cloud look like a Humble Bundle. Yet Wall Street keeps paying because the real product isn't data; it's the comfort blanket of knowing everyone else is staring at the same blinking green numbers. Moats don't get wider than a directory you can't export.
+> ब्लूमबर्ग टर्मिनल इकलौता ऐसा सब्सक्रिप्शन है जिसे कैंसिल करना किसी पंथ को छोड़ने जैसा महसूस होता है — जिसमें अपनी खुद की भाषा (पीली कुंजियां, किसी को याद है?), सीक्रेट हैंडशेक (IB चैट), और इतनी भारी कीमत है कि Adobe Creative Cloud भी सस्ता लगने लगता है। फिर भी वॉल स्ट्रीट भुगतान करना जारी रखता है क्योंकि असली उत्पाद डेटा नहीं है; यह वह सुकून है जो यह जानकर मिलता है कि बाकी सब भी उन्हीं चमकते हुए हरे नंबरों को घूर रहे हैं। खाई इससे बड़ी क्या हो सकती है कि आप अपनी डायरेक्टरी को एक्सपोर्ट तक नहीं कर सकते।
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-01 12:48 UTC पर स्वतः जनरेट किया गया।*
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-07 10:47 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

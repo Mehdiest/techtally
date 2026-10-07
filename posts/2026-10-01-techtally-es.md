@@ -28,11 +28,11 @@ _Curado por [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a671
 
 **Resumen**
 
-Google has announced Gemini 4 Argon, a new variant in its Gemini 4 model family, as detailed on the Google Research blog. The naming follows Google's convention of using noble gas designations for model tiers, with Argon likely positioning as a mid-range or specialized variant. The announcement signals Google's continued rapid iteration on its flagship AI model lineup amid intense competition from OpenAI, Anthropic, and open-source alternatives.
+Google ha anunciado Gemini 4 Argon, una nueva variante de su familia de modelos Gemini 4, tal y como se detalla en el blog de Google Research. El nombre sigue la convención de Google de utilizar denominaciones de gases nobles para los niveles de los modelos, con Argon probablemente posicionado como una variante de gama media o especializada. El anuncio señala la rápida y continua iteración de Google en su línea de modelos de IA insignia en medio de una intensa competencia de OpenAI, Anthropic y alternativas de código abierto.
 
 **Mi opinión**
 
-> Google's periodic table of AI models just gained another noble gas — because nothing says 'cutting-edge' like naming your software after elements that refuse to react with anything. Argon sits between Neon and Krypton on the table, which perfectly captures Google's current strategy: stuck in the middle, glowing faintly while everyone else builds actual products. The real insight: model variants are the new smartphone colors — same guts, different paint job, and you'll still upgrade in six months anyway.
+> La tabla periódica de modelos de IA de Google acaba de ganar otro gas noble, porque nada dice «tecnología de vanguardia» como bautizar tu software con elementos que se niegan a reaccionar con nada. El argón se sitúa entre el neón y el kriptón en la tabla, lo que capta a la perfección la estrategia actual de Google: estancados en el medio, brillando tenuemente mientras todos los demás construyen productos de verdad. La verdadera lección: las variantes de modelos son los nuevos colores de los smartphones; mismas tripas, diferente capa de pintura, y aun así harás la actualización dentro de seis meses.
 
 ---
 
@@ -52,6 +52,6 @@ IEEE Spectrum publicó una retrospectiva sobre el terminal Bloomberg, rastreando
 
 ---
 
-*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-01 12:48 UTC.*
+*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-07 10:47 UTC.*
 
 Curado por: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

@@ -89,17 +89,17 @@ Iain 的一篇博客文章指出，Go 开发者应避免在导入路径中硬编
 
 ---
 
-## 6. [Prompting Claude Opus 5.5](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
+## 6. [Claude Opus 5.5 提示词工程指南](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
 
 **来源:** HackerNews  |  **主题:** hn  |  **覆盖:** 1 个来源
 
 **摘要**
 
-Anthropic has published official prompt engineering documentation for Claude Opus 5.5 on their developer platform. The guide covers best practices, techniques, and strategies for effectively prompting the latest flagship model. Developers can access the documentation at platform.claude.com to optimize their interactions with the new model.
+Anthropic 已在其开发者平台上发布了针对 Claude Opus 5.5 的官方提示词工程文档。该指南涵盖了有效驱动这款最新旗舰模型的最佳实践、技术和策略。开发者可访问 platform.claude.com 获取文档，以优化与该模型之间的交互。
 
 **我的观点**
 
-> Anthropic releasing a prompting guide for Opus 5.5 is like a Michelin-star chef publishing a manual on how to hold a fork — the tool is supposedly that intuitive, yet here we are, 50 pages deep in 'think step by step' incantations. The real skill isn't memorizing their templates; it's accepting that you'll still argue with a language model at 2 AM about whether it actually read your 200k context window. Grounded insight: prompt engineering is just API design where the compiler talks back.
+> Anthropic 为 Opus 5.5 发布提示词指南，简直就像米其林大厨教你如何拿叉子——工具号称如此直观，结果我们还是得埋头苦读 50 页“请一步步思考”的咒语。真正的技术不在于死记硬背他们的模板，而在于认清现实：凌晨两点时，你依然会为了这模型到底有没有读完你那 200k 的上下文窗口而跟它吵架。醍醐灌顶的真相：提示词工程不过是让编译器会回嘴的 API 设计。
 
 ---
 
@@ -131,6 +131,6 @@ David Alvarez Rosa 发布了一份技术指南，介绍如何在 Tor 网络上�
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-09-30 13:11 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-07 10:50 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

@@ -19,62 +19,62 @@ _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-est
 
 **Читайте этот дайджест на:** <a class="lang-pill" href="2026-09-29-tech-digest.html">English</a> <a class="lang-pill" href="2026-09-29-tech-digest-fa.html">فارسی</a> <a class="lang-pill" href="2026-09-29-tech-digest-fr.html">Français</a> <a class="lang-pill" href="2026-09-29-tech-digest-de.html">Deutsch</a> <a class="lang-pill" href="2026-09-29-tech-digest-es.html">Español</a> <a class="lang-pill" href="2026-09-29-tech-digest-zh.html">中文</a> <a class="lang-pill" href="2026-09-29-tech-digest-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-09-29-tech-digest-ar.html">العربية</a>
 
-## 1. [Updated Google Maps shows destruction of the city of Rafah](https://twitter.com/AliAbunimah/status/2103890594137309425)
+## 1. [Обновленные Google Карты показывают разрушения в городе Рафах](https://twitter.com/AliAbunimah/status/2103890594137309425)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника
 
 **Резюме**
 
-Updated satellite imagery on Google Maps reveals extensive destruction across Rafah, a city in southern Gaza. The new imagery serves as a visual record of the impact of military operations in the area. Researchers, journalists, and humanitarian organizations increasingly rely on commercial satellite platforms to document conflict zones in near real-time.
+Обновленные спутниковые снимки в Google Картах демонстрируют масштабные разрушения в Рафахе, городе на юге сектора Газа. Новые изображения служат визуальным свидетельством последствий военных операций в этом районе. Исследователи, журналисты и гуманитарные организации все чаще полагаются на коммерческие спутниковые платформы для документирования зон конфликтов практически в режиме реального времени.
 
 **Моё мнение**
 
-> Google Maps has accidentally become the world's most accessible war crimes archive -- just zoom in and the timestamps tell the story no press release can spin. It's a grim reminder that the same tech we use to find coffee shops now preserves evidence that outlives political narratives. The map doesn't take sides, but it keeps receipts.
+> Google Карты случайно превратились в самый доступный в мире архив военных преступлений — достаточно приблизить масштаб, и временные метки расскажут историю, которую не сможет переврать ни один пресс-релиз. Это мрачное напоминание о том, что технологии, с помощью которых мы ищем кофейни, теперь сохраняют доказательства, переживающие любые политические нарративы. Карта не принимает ничью сторону, но она всё фиксирует.
 
 ---
 
-## 2. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+## 2. [Пиратство пиратов](https://mubi.com/en/notebook/posts/pirating-the-pirates)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника
 
 **Резюме**
 
-Film streaming platform Mubi published an article titled "Pirating the Pirates" examining the recursive nature of digital piracy where pirated content itself gets pirated and redistributed. The piece explores how unauthorized copies spawn further unauthorized ecosystems, creating a shadow distribution network that mirrors legitimate supply chains. This meta-piracy phenomenon highlights the near-impossibility of controlling digital content once it escapes authorized channels.
+Стриминговая платформа Mubi опубликовала статью под названием «Пиратство пиратов», в которой исследуется рекурсивная природа цифрового пиратства, когда пиратский контент сам становится объектом пиратства и перераспределения. В статье рассматривается, как неавторизованные копии порождают дальнейшие неавторизованные экосистемы, создавая теневую сеть распространения, которая зеркально отражает легальные цепочки поставок. Этот феномен метапиратства подчеркивает почти полную невозможность контроля над цифровым контентом, как только он покидает авторизованные каналы.
 
 **Моё мнение**
 
-> Nothing says 'the internet remains undefeated' like pirates getting their own loot stolen — it's the matryoshka doll of copyright infringement, each layer more compressed and watermarked than the last. The scene groups probably have better version control and distribution logistics than half the legitimate streaming services charging you $15/month for 'curated' libraries that rotate faster than a sushi conveyor belt. At this point, the only winning move is accepting that digital scarcity is a polite fiction we all agree to maintain for the sake of quarterly earnings calls.
+> Ничто так не доказывает, что «интернет непобедим», как пираты, у которых украли их добычу — это матрешка из нарушений авторских прав, где каждый слой сжат сильнее и покрыт водяными знаками гуще, чем предыдущий. У этих релиз-групп контроль версий и логистика распространения, вероятно, лучше, чем у половины легальных стримингов, берущих с вас $15 в месяц за «курируемые» библиотеки, которые обновляются быстрее, чем конвейер с суши. В этой точке единственный способ выиграть — признать, что цифровая дефицитность — это вежливая фикция, которую мы все поддерживаем ради квартальных отчетов перед инвесторами.
 
 ---
 
-## 3. [It's Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
+## 3. [Пришло время проверить AI-лаборатории](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника
 
 **Резюме**
 
-Computer science professor and author Cal Newport publishes an essay arguing that AI laboratories require formal investigation due to their opaque development practices, societal risks, and lack of accountability. Newport contends that current self-regulation is insufficient and that external oversight is needed to address safety, labor displacement, and concentration of power. The piece adds to growing calls from academics, policymakers, and former industry insiders for structural regulation of frontier AI development.
+Профессор компьютерных наук и писатель Кэл Ньюпорт опубликовал эссе, в котором утверждает, что AI-лаборатории требуют официального расследования из-за их непрозрачных методов разработки, социальных рисков и отсутствия подотчетности. Ньюпорт доказывает, что текущего саморегулирования недостаточно и необходим внешний надзор для решения вопросов безопасности, вытеснения рабочей силы и концентрации власти. Эта статья пополнила ряды растущих призывов со стороны ученых, политиков и бывших инсайдеров отрасли к структурному регулированию разработки передовых систем ИИ.
 
 **Моё мнение**
 
-> Cal Newport just served the AI labs a subpoena written in complete sentences and they're trembling in their GPU clusters. The industry that moved fast and broke things is now moving fast and breaking the social contract, then acting surprised when adults show up with clipboards. Self-regulation in AI is like letting a toddler grade their own homework — the answer key is always 'I did great' written in crayon. The grounded insight: meaningful oversight won't come from voluntary commitments, it'll come from liability frameworks that make cutting corners more expensive than doing the work.
+> Кэл Ньюпорт только что вручил AI-лабораториям повестку в суд, написанную полными предложениями, и они дрожат в своих GPU-кластерах. Индустрия, которая жила по принципу «двигайся быстро и ломай вещи», теперь быстро ломает общественный договор, а затем делает вид, что удивлена, когда приходят взрослые с папками для бумаг. Саморегулирование в ИИ — это как позволить малышу самому проверять свое домашнее задание: в ответах всегда написано «я молодец», причем мелками. Трезвый взгляд: значимый надзор придет не из добровольных обязательств, а из рамок ответственности, которые сделают попытки схалтурить дороже, чем выполнение реальной работы.
 
 ---
 
-## 4. [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
+## 4. [Калифорнийские фермеры не могут продать виноград из-за падения спроса на вино](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника
 
 **Резюме**
 
-California wine grape growers face a severe oversupply crisis as U.S. wine consumption declines for the first time in decades. Younger generations are drinking less alcohol overall, preferring alternatives like cannabis, hard seltzers, and non-alcoholic beverages. The resulting grape glut has driven prices below production costs, forcing some farmers to leave fruit rotting on vines or pull out vineyards entirely.
+Виноградари Калифорнии столкнулись с кризисом перепроизводства: потребление вина в США снизилось впервые за десятилетия. Молодое поколение в целом пьет меньше алкоголя, предпочитая каннабис, хард-зельцеры и безалкогольные напитки. Избыток винограда обрушил цены ниже себестоимости, вынуждая фермеров либо оставлять урожай гнить на лозах, либо вовсе вырубать виноградники.
 
 **Моё мнение**
 
-> Turns out Gen Z would rather microdose edibles than pretend to taste 'notes of leather and tobacco' in a $40 bottle of fermented grape juice. The wine industry spent 30 years convincing everyone they needed a sommelier to enjoy dinner, only to discover the next generation just wants a White Claw and a vape pen. The real vintage here isn't 2019 Cabernet — it's the industry's refusal to admit that 'premiumization' was just a fancy word for 'we raised prices until you stopped buying.'
+> Оказалось, что зумеры предпочтут закинуться съедобным каннабисом, чем делать вид, что чувствуют «нотки кожи и табака» в бутылке перебродившего виноградного сока за 40 баксов. Винная индустрия 30 лет вбивала всем в голову, что для ужина им нужен сомелье, а в итоге выяснила, что новому поколению нужны лишь White Claw и вейп. Самый выдержанный «винтаж» здесь вовсе не Каберне 2019 года, а неспособность индустрии признать, что «премиализация» была лишь красивым словом для оправдания того, что они задирали цены, пока вы не перестали покупать.
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-09-30 13:10 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-07 10:50 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

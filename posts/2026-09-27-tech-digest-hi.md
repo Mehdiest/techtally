@@ -20,126 +20,126 @@ _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal
 
 **इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-09-27-tech-digest.html">English</a> <a class="lang-pill" href="2026-09-27-tech-digest-fa.html">فارسی</a> <a class="lang-pill" href="2026-09-27-tech-digest-fr.html">Français</a> <a class="lang-pill" href="2026-09-27-tech-digest-de.html">Deutsch</a> <a class="lang-pill" href="2026-09-27-tech-digest-es.html">Español</a> <a class="lang-pill" href="2026-09-27-tech-digest-zh.html">中文</a> <a class="lang-pill" href="2026-09-27-tech-digest-ru.html">Русский</a> <a class="lang-pill" href="2026-09-27-tech-digest-ar.html">العربية</a>
 
-## 1. [Running a serverless AI code review agent on AWS Lambda with PR-Agent and CDK](https://dev.to/naorpeled/running-a-serverless-ai-code-review-agent-on-aws-lambda-with-pr-agent-and-cdk-40gd)
+## 1. [AWS Lambda पर PR-Agent और CDK के साथ सर्वरलेस AI कोड रिव्यू एजेंट चलाना](https://dev.to/naorpeled/running-a-serverless-ai-code-review-agent-on-aws-lambda-with-pr-agent-and-cdk-40gd)
 
-![Running a serverless AI code review agent on AWS Lambda with PR-Agent and CDK](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd6uc1opq3kmertbnvha9.png)
-
-**स्रोत:** Dev.to  |  **विषय:** dev  |  **कवरेज:** 1 स्रोत
-
-**सारांश**
-
-Naor Peled published a tutorial on Dev.to demonstrating how to deploy PR-Agent, an open-source AI code review tool, as a serverless application on AWS Lambda using the AWS CDK. PR-Agent integrates with Git providers to automatically review pull requests, update descriptions, and respond to slash commands, supporting various AI model providers including local models. The guide covers the complete infrastructure-as-code setup for self-hosting the agent, offering teams an alternative to SaaS code review services.
-
-**मेरी राय**
-
-> Nothing says 'we take code quality seriously' like spinning up a Lambda function to have an LLM nitpick your variable names at 2 AM. Self-hosting PR-Agent on AWS is the infrastructure equivalent of hiring a robot intern who works for pennies but occasionally hallucinates a security vulnerability in your README. The CDK abstraction makes it deceptively easy to deploy, but remember: you're now responsible for the compute bill when the agent decides your 500-file monorepo PR needs a line-by-line haiku review. The real win here isn't the AI — it's owning the prompt engineering so your team's weird conventions don't leak into someone else's training data.
-
----
-
-## 2. [I Built an AI Agent That Troubleshoots Docker Containers in Plain English (Here's How)](https://dev.to/nagarjuna155/i-built-an-ai-agent-that-troubleshoots-docker-containers-in-plain-english-heres-how-1c6p)
+![AWS Lambda पर PR-Agent और CDK के साथ सर्वरलेस AI कोड रिव्यू एजेंट चलाना](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd6uc1opq3kmertbnvha9.png)
 
 **स्रोत:** Dev.to  |  **विषय:** dev  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-Dev.to author Nagarjuna built an AI agent that automates Docker container troubleshooting by accepting plain English queries like "why did the nginx container stop?" The agent executes the typical investigation loop — listing containers, inspecting logs, checking events — that developers normally perform manually at 2 AM. The post details the architecture, implementation challenges, and bugs encountered during development.
+नाओर पेलेड ने Dev.to पर एक ट्यूटोरियल प्रकाशित किया है जो यह दर्शाता है कि AWS CDK का उपयोग करके AWS Lambda पर एक ओपन-सोर्स AI कोड रिव्यू टूल, PR-Agent को सर्वरलेस एप्लिकेशन के रूप में कैसे तैनात किया जाए। PR-Agent पुल रिक्वेस्ट की समीक्षा करने, विवरण अपडेट करने और स्लैश कमांड का जवाब देने के लिए Git प्रोवाइडर्स के साथ एकीकृत होता है, और यह स्थानीय मॉडल सहित विभिन्न AI मॉडल प्रोवाइडर्स का समर्थन करता है। यह गाइड एजेंट को सेल्फ-होस्ट करने के लिए पूर्ण इंफ्रास्ट्रक्चर-एज़-कोड सेटअप को कवर करती है, जो टीमों को SaaS कोड रिव्यू सेवाओं का एक विकल्प प्रदान करती है।
 
 **मेरी राय**
 
-> Finally, an AI that does the 2 AM ssh dance so you don't have to — because nothing says 'senior engineer' like outsourcing your `docker logs --tail 200` typos to a language model. The real innovation here isn't the LLM wrapper, it's admitting that half of DevOps is just grepping through garbage logs while questioning your career choices. Just remember: the agent only knows what the containers tell it, and containers lie like politicians on a debate stage.
+> कोड क्वालिटी को गंभीरता से लेने का मतलब इससे बेहतर और क्या हो सकता है कि आप रात के 2 बजे एक लैम्ब्डा फंक्शन चलाएं ताकि एक LLM आपके वेरिएबल नामों में कमियां निकाल सके। AWS पर PR-Agent को सेल्फ-होस्ट करना एक ऐसे रोबोट इंटर्न को काम पर रखने जैसा है जो कौड़ियों के दाम काम करता है, लेकिन कभी-कभी आपके README में सुरक्षा खामियों का भ्रम पैदा कर देता है। CDK एब्स्ट्रैक्शन इसे तैनात करना बहुत आसान बना देता है, लेकिन याद रखें: जब आपका एजेंट यह तय करेगा कि आपके 500-फाइलों वाले मोनोरेपो PR को लाइन-दर-लाइन हाइकू समीक्षा की जरूरत है, तो बिल आपको ही भरना होगा। यहाँ असली जीत AI नहीं है — बल्कि प्रॉम्प्ट इंजीनियरिंग पर नियंत्रण रखना है ताकि आपकी टीम के अजीब कन्वेंशन किसी और के ट्रेनिंग डेटा में लीक न हों।
 
 ---
 
-## 3. [We Ran 100 Microservices on a 16GB Laptop. No Kubernetes.](https://dev.to/mynameis0d3c53a3/we-ran-100-microservices-on-a-16gb-laptop-no-kubernetes-590e)
-
-![We Ran 100 Microservices on a 16GB Laptop. No Kubernetes.](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy0016tm6dlqjhc9a19jr.png)
+## 2. [मैंने एक ऐसा AI एजेंट बनाया जो सादी अंग्रेजी में Docker कंटेनर्स की समस्याओं को ठीक करता है (यहाँ बताया गया है कैसे)](https://dev.to/nagarjuna155/i-built-an-ai-agent-that-troubleshoots-docker-containers-in-plain-english-heres-how-1c6p)
 
 **स्रोत:** Dev.to  |  **विषय:** dev  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-A team built TDK (Tilt Development Kit) to test running 100 microservices locally on a 16GB laptop without Kubernetes. They used a synthetic but realistic ERP system with seven business domains where each service declares itself in a small manifest. The experiment demonstrates how far local development can scale before requiring a cluster infrastructure.
+Dev.to के लेखक नागार्जुन ने एक ऐसा AI एजेंट बनाया है जो "nginx कंटेनर क्यों बंद हो गया?" जैसे सादी अंग्रेजी के सवालों को समझकर Docker कंटेनर की समस्याओं को अपने आप ठीक कर देता है। यह एजेंट उन जांच-पड़ताल के चरणों को पूरा करता है — जैसे कंटेनर लिस्ट करना, लॉग्स देखना, इवेंट्स चेक करना — जिन्हें डेवलपर्स आमतौर पर रात के 2 बजे मैन्युअल रूप से करते हैं। यह पोस्ट इसके आर्किटेक्चर, विकास में आने वाली चुनौतियों और बग्स के बारे में विस्तार से बताती है।
 
 **मेरी राय**
 
-> The industry spent a decade convincing us you need a $50k/month Kubernetes cluster just to run "Hello World" across three services, so watching 100 services hum on a laptop that costs less than a single AWS NAT gateway is the kind of heresy that makes platform engineers reach for their stress balls. TDK essentially said "hold my beer" to the entire CNCF landscape by treating service manifests like LEGO instructions instead of YAML theology. The grounded insight: local-first tooling that respects your RAM budget beats cluster-first dogma every time — especially when onboarding a new hire shouldn't require a PhD in distributed systems troubleshooting.
+> आखिरकार, एक ऐसा AI जो रात के 2 बजे वाली 'ssh डांस' आपके लिए कर सकता है — क्योंकि 'सीनियर इंजीनियर' होने का असली मतलब यही है कि आप अपने `docker logs --tail 200` वाले टाइपिंग की गलतियों को एक लैंग्वेज मॉडल पर डाल दें। यहाँ असली इनोवेशन LLM रैपर नहीं है, बल्कि यह स्वीकार करना है कि DevOps का आधा काम कचरा लॉग्स में grep चलाना और करियर के फैसलों पर पछताना है। बस याद रखें: एजेंट को सिर्फ उतना ही पता है जितना कंटेनर उसे बताते हैं, और कंटेनर बहस के मंच पर राजनेताओं की तरह झूठ बोलते हैं।
 
 ---
 
-## 4. [From Messy Rows to Management Decisions: Building a Power BI Solution for JCars Logistics](https://dev.to/brian_mugo/-from-messy-rows-to-management-decisions-building-a-power-bi-solution-for-jcars-logistics-25jk)
+## 3. [हमने 16GB लैपटॉप पर 100 माइक्रोसर्विसेज चलाईं। बिना कुबेरनेट्स के।](https://dev.to/mynameis0d3c53a3/we-ran-100-microservices-on-a-16gb-laptop-no-kubernetes-590e)
 
-![From Messy Rows to Management Decisions: Building a Power BI Solution for JCars Logistics](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffazx9vo075kfd51j4qny.png)
+![हमने 16GB लैपटॉप पर 100 माइक्रोसर्विसेज चलाईं। बिना कुबेरनेट्स के।](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy0016tm6dlqjhc9a19jr.png)
 
 **स्रोत:** Dev.to  |  **विषय:** dev  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-A developer documents the end-to-end process of building a Power BI solution for JCars Logistics, a Kenyan vehicle sales and delivery company. The project started with a deliberately corrupted CSV file containing 276 rows and 32 columns, requiring a full data pipeline including auditing, cleaning, validation, modeling, calculation, and visualization to produce an executive dashboard, detailed report, and data-backed recommendations.
+एक टीम ने TDK (Tilt Development Kit) बनाया है ताकि यह टेस्ट किया जा सके कि बिना कुबेरनेट्स के 16GB लैपटॉप पर 100 माइक्रोसर्विसेज कैसे चल सकती हैं। उन्होंने सात बिजनेस डोमेन वाले एक सिंथेटिक लेकिन यथार्थवादी ERP सिस्टम का उपयोग किया, जहाँ हर सर्विस एक छोटे मैनिफेस्ट में खुद को घोषित करती है। यह प्रयोग दिखाता है कि क्लस्टर इंफ्रास्ट्रक्चर की जरूरत पड़ने से पहले लोकल डेवलपमेंट को कितना स्केल किया जा सकता है।
 
 **मेरी राय**
 
-> Nothing quite says 'welcome to data engineering' like receiving a CSV that's been sabotaged on purpose — it's the digital equivalent of a trust fall where the floor is also lying to you. The 276-row 'messy rows to management decisions' journey is basically every analyst's origin story: you don't analyze data, you negotiate with it until it confesses. The real skill isn't DAX or Power Query; it's developing the patience to ask 'what does this row even mean?' thirty-two times before lunch. Grounded insight: if your data dictionary is longer than your dataset, you're not building a dashboard — you're writing a mystery novel.
+> इंडस्ट्री ने एक दशक तक हमें यह यकीन दिलाया कि तीन सर्विस पर 'Hello World' चलाने के लिए भी आपको $50k/महीने के कुबेरनेट्स क्लस्टर की जरूरत है। इसलिए एक ऐसे लैपटॉप पर 100 सर्विस को चलते देखना, जिसकी कीमत एक AWS NAT गेटवे से भी कम है, एक ऐसी धर्मद्रोही हरकत है जो प्लेटफॉर्म इंजीनियर्स का बीपी बढ़ा देती है। TDK ने सर्विस मैनिफेस्ट को YAML थियोलॉजी के बजाय LEGO के निर्देशों की तरह इस्तेमाल करके पूरे CNCF लैंडस्केप को 'होल्ड माय बीयर' कह दिया है। असली सीख: जो लोकल-फर्स्ट टूलिंग आपके RAM बजट का सम्मान करती है, वह क्लस्टर-फर्स्ट के पाखंड को हमेशा हरा देती है—खासकर तब जब किसी नए कर्मचारी को काम पर रखने के लिए आपको डिस्ट्रिब्यूटेड सिस्टम्स में पीएचडी की जरूरत न पड़े।
 
 ---
 
-## 5. [Jev and the Problem With AI That Always Has an Answer](https://dev.to/999thelastpage/jev-and-the-problem-with-ai-that-always-has-an-answer-1k6f)
+## 4. [अस्त-व्यस्त डेटा से प्रबंधन के फैसलों तक: JCars Logistics के लिए Power BI समाधान बनाना](https://dev.to/brian_mugo/-from-messy-rows-to-management-decisions-building-a-power-bi-solution-for-jcars-logistics-25jk)
 
-![Jev and the Problem With AI That Always Has an Answer](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F051cs2fef1kjqgbptwo3.png)
+![अस्त-व्यस्त डेटा से प्रबंधन के फैसलों तक: JCars Logistics के लिए Power BI समाधान बनाना](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffazx9vo075kfd51j4qny.png)
 
 **स्रोत:** Dev.to  |  **विषय:** dev  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-The developers of Jev, an AI-powered resume review tool, discovered that the biggest challenge wasn't getting the model to generate smart-sounding feedback, but teaching it to stay silent when uncertain. Their system previously assigned arbitrary scores like 62 out of 100 with generic advice such as 'strengthen your bullet points,' which proved unhelpful. The breakthrough came not from prompt engineering but from redesigning the system to withhold judgment when confidence was low.
+एक डेवलपर ने केन्या की वाहन बिक्री और डिलीवरी कंपनी, JCars Logistics के लिए Power BI समाधान बनाने की पूरी प्रक्रिया का दस्तावेजीकरण किया है। प्रोजेक्ट की शुरुआत 276 पंक्तियों और 32 कॉलम वाली एक जानबूझकर खराब की गई CSV फ़ाइल से हुई, जिसके लिए ऑडिटिंग, सफाई, वैलिडेशन, मॉडलिंग, गणना और विज़ुअलाइज़ेशन सहित एक पूर्ण डेटा पाइपलाइन की आवश्यकता थी, ताकि एक कार्यकारी डैशबोर्ड, विस्तृत रिपोर्ट और डेटा-आधारित सिफारिशें तैयार की जा सकें।
 
 **मेरी राय**
 
-> Turns out the smartest thing an AI can say is 'I don't know' — a phrase most LLMs treat like a forbidden spell. We've built an army of overconfident interns who'd rather hallucinate a 62/100 than admit they're clueless about your React hooks. Jev's real innovation is giving the model permission to shut up, which is the grown-up version of 'move fast and break things.' The grounded lesson: accuracy isn't about better answers, it's about knowing when not to answer at all.
+> डेटा इंजीनियरिंग में 'स्वागत है' कहने का इससे बेहतर तरीका और क्या हो सकता है कि आपको एक ऐसी CSV मिले जिसे जानबूझकर बर्बाद किया गया हो — यह उस 'ट्रस्ट फॉल' जैसा है जहाँ फर्श भी आपसे झूठ बोल रहा है। 276 पंक्तियों वाली यह 'गड़बड़ डेटा से प्रबंधन के फैसले तक' की यात्रा हर एनालिस्ट की कहानी है: आप डेटा का विश्लेषण नहीं करते, आप उससे तब तक मोलभाव करते हैं जब तक वह सच न उगल दे। असली कौशल DAX या Power Query नहीं है; असली कौशल वह धैर्य है जो लंच से पहले बत्तीस बार यह पूछने के लिए चाहिए कि 'इस पंक्ति का आखिर मतलब क्या है?' जमीनी हकीकत: अगर आपकी डेटा डिक्शनरी आपके डेटासेट से लंबी है, तो आप डैशबोर्ड नहीं बना रहे हैं — आप एक रहस्यमयी उपन्यास लिख रहे हैं।
 
 ---
 
-## 6. [Weekly Challenge: The palindromic length](https://dev.to/simongreennet/weekly-challenge-the-palindromic-length-299i)
+## 5. [Jev और उस AI की समस्या जिसके पास हमेशा जवाब होता है](https://dev.to/999thelastpage/jev-and-the-problem-with-ai-that-always-has-an-answer-1k6f)
+
+![Jev और उस AI की समस्या जिसके पास हमेशा जवाब होता है](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F051cs2fef1kjqgbptwo3.png)
 
 **स्रोत:** Dev.to  |  **विषय:** dev  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-Dev.to contributor Simon Green published his solutions for Weekly Challenge 392, a recurring coding exercise series by Mohammad S. Anwar. The first task requires writing a script to convert a given string into a palindrome by prepending characters. Green implemented his solution in Python first, then translated it to Perl, and notes that no AI tools were used in the process.
+AI-संचालित रिज्यूमे रिव्यू टूल, Jev के डेवलपर्स ने पाया कि सबसे बड़ी चुनौती मॉडल से समझदारी भरा फीडबैक लिखवाना नहीं, बल्कि उसे अनिश्चित होने पर चुप रहना सिखाना था। उनका सिस्टम पहले 100 में से 62 जैसे मनमाने स्कोर देता था और 'अपने बुलेट पॉइंट्स को मजबूत करें' जैसी सामान्य सलाह देता था, जो किसी काम की नहीं थी। सफलता प्रॉम्प्ट इंजीनियरिंग से नहीं, बल्कि सिस्टम को इस तरह फिर से डिजाइन करने से मिली कि कम कॉन्फिडेंस होने पर वह कोई राय न दे।
 
 **मेरी राय**
 
-> Nothing says 'I enjoy programming for fun' like voluntarily doing homework on weekends and then doing it again in a second language just to prove a point. The palindrome challenge is the coding equivalent of being told to make a sentence read the same backward — so you just staple 'racecar' to the front of everything and call it a day. Green's no-AI disclaimer is the modern developer's version of 'I built this bookshelf myself, no IKEA instructions.' The real insight: constraint-based practice like this builds the pattern-recognition muscle that no Copilot suggestion can replace.
+> पता चला है कि AI द्वारा कही जाने वाली सबसे समझदारी की बात 'मुझे नहीं पता' है — एक ऐसा वाक्यांश जिसे ज्यादातर LLM किसी वर्जित मंत्र की तरह मानते हैं। हमने अति-आत्मविश्वासी इंटर्न की एक ऐसी फौज तैयार कर ली है जो आपके React हुक्स के बारे में अनजान होने को स्वीकार करने के बजाय 62/100 का स्कोर मनगढ़ंत तरीके से बता देंगे। Jev का असली नवाचार मॉडल को चुप रहने की अनुमति देना है, जो 'तेजी से काम करो और चीजें तोड़ो' का एक परिपक्व संस्करण है। असली सबक यह है: सटीकता का मतलब बेहतर जवाब देना नहीं, बल्कि यह जानना है कि कब जवाब नहीं देना है।
 
 ---
 
-## 7. [Heap vs Stack Memory in C](https://dev.to/codemaster_121482/heap-vs-stack-memory-in-c-4enh)
+## 6. [साप्ताहिक चुनौती: पैलिंड्रोम की लंबाई](https://dev.to/simongreennet/weekly-challenge-the-palindromic-length-299i)
 
 **स्रोत:** Dev.to  |  **विषय:** dev  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-A Dev.to author publishing under the handle codemaster_121482 posted a beginner-friendly explainer contrasting stack and heap memory in C. The piece targets developers moving from managed runtimes like JavaScript and Node.js to manual memory management. It outlines stack allocation as automatic, fast, and scoped to function calls, while heap allocation requires explicit malloc/free and persists until freed. The article serves as a refresher on fundamentals that underpin performance and safety in systems programming.
+Dev.to के योगदानकर्ता साइमन ग्रीन ने साप्ताहिक चुनौती 392 के लिए अपना समाधान प्रकाशित किया है, जो मोहम्मद एस. अनवर द्वारा शुरू की गई एक कोडिंग अभ्यास श्रृंखला है। पहला कार्य एक दी गई स्ट्रिंग को पैलिंड्रोम में बदलने के लिए स्क्रिप्ट लिखना है। ग्रीन ने पहले अपना समाधान पायथन में लागू किया, फिर उसे पर्ल में अनुवादित किया, और उल्लेख किया कि इस प्रक्रिया में किसी भी एआई टूल का उपयोग नहीं किया गया था।
 
 **मेरी राय**
 
-> Nothing says 'welcome to C' like realizing the runtime won't tuck your variables in at night — you have to do it yourself, or watch the heap turn into a memory-leak landfill. The stack is a tidy butler who clears the table the moment you leave the room; the heap is a storage unit you rent, forget to pay for, and eventually get sued over. JavaScript developers treat GC like a cleaning service they never tip, then act surprised when C hands them a broom and a pointer. The grounded insight: understanding ownership and lifetime isn't academic — it's the difference between a program that runs and one that segfaults in production at 3 a.m.
+> सप्ताहांत पर स्वेच्छा से होमवर्क करना और फिर किसी बात को साबित करने के लिए उसे दूसरी भाषा में दोबारा करना, यह 'मुझे मजे के लिए प्रोग्रामिंग करना पसंद है' कहने का सबसे बेहतरीन तरीका है। पैलिंड्रोम चुनौती कोडिंग की दुनिया में वैसी ही है जैसे किसी से यह कहना कि वाक्य को पीछे से भी वैसा ही पढ़ें — तो आप बस हर चीज़ के आगे 'racecar' जोड़ देते हैं और काम खत्म। ग्रीन का एआई-मुक्त होने का दावा आधुनिक डेवलपर्स का 'मैंने यह बुकशेल्फ़ खुद बनाया है, किसी IKEA निर्देश की ज़रूरत नहीं पड़ी' कहने का तरीका है। असली सीख यह है: इस तरह का अभ्यास पैटर्न-पहचानने की वह क्षमता बनाता है जिसे कोई भी कोपायलट सुझाव नहीं बदल सकता।
 
 ---
 
-## 8. [How to Build a Personal Agent Marketplace for Claude Code](https://dev.to/teppana88/how-to-build-a-personal-agent-marketplace-for-claude-code-17fp)
+## 7. [C में हीप बनाम स्टैक मेमोरी](https://dev.to/codemaster_121482/heap-vs-stack-memory-in-c-4enh)
 
 **स्रोत:** Dev.to  |  **विषय:** dev  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-A developer shares their approach to managing over 40 AI agents and skills for Claude Code through a personal marketplace called awave-agents. The system uses a plugin architecture with aw-review as an example, allowing reusable components like reviewers, validators, scripts, and hooks to be maintained centrally and updated across projects. The author demonstrates how to start with a single skill and scale the marketplace as workflow needs grow.
+codemaster_121482 हैंडल के तहत एक Dev.to लेखक ने C में स्टैक और हीप मेमोरी के बीच अंतर को समझाने वाला एक शुरुआती-अनुकूल लेख पोस्ट किया है। यह लेख उन डेवलपर्स के लिए है जो जावास्क्रिप्ट और नोड.जेएस जैसे मैनेज्ड रनटाइम से मैनुअल मेमोरी मैनेजमेंट की ओर बढ़ रहे हैं। यह बताता है कि स्टैक एलोकेशन स्वचालित, तेज़ और फंक्शन कॉल तक सीमित होता है, जबकि हीप एलोकेशन के लिए स्पष्ट रूप से malloc/free की आवश्यकता होती है और यह तब तक बना रहता है जब तक कि इसे मुक्त न किया जाए। यह लेख उन बुनियादी सिद्धांतों पर एक ताज़ा जानकारी प्रदान करता है जो सिस्टम प्रोग्रामिंग में प्रदर्शन और सुरक्षा को आधार देते हैं।
 
 **मेरी राय**
 
-> Congratulations, you've reinvented npm but for prompt engineering — because nothing says 'mature engineering discipline' like 40 bespoke agents named things like 'fix-my-typescript-sins' and 'please-god-make-this-compile.' The marketplace metaphor is cute until you realize you're now maintaining your own private registry of fragile prompt chains that break every time Anthropic sneezes. Grounded insight: treat these agents like internal libraries — version them, test them, and for the love of Turing, document what they actually do before you forget why 'review-pr-angry-mode' exists.
+> C में 'स्वागत है' कहने का इससे बेहतर तरीका क्या हो सकता है कि आपको यह एहसास हो जाए कि रनटाइम रात में आपकी वेरिएबल्स को सुलाने नहीं आएगा — आपको खुद ही सब करना होगा, वरना हीप को मेमोरी-लीक के कचरे के ढेर में बदलते हुए देखें। स्टैक एक साफ-सुथरा बटलर है जो आपके कमरा छोड़ते ही मेज साफ कर देता है; हीप एक ऐसा स्टोरेज यूनिट है जिसे आप किराए पर लेते हैं, उसका किराया देना भूल जाते हैं, और अंत में आप पर मुकदमा हो जाता है। जावास्क्रिप्ट डेवलपर्स गारबेज कलेक्शन (GC) को एक ऐसी सफाई सेवा की तरह मानते हैं जिसे वे कभी टिप नहीं देते, और फिर हैरान होते हैं जब C उन्हें झाड़ू और पॉइंटर थमा देती है। सीधी बात: ओनरशिप और लाइफटाइम को समझना कोई किताबी ज्ञान नहीं है — यह उस प्रोग्राम और 3 बजे प्रोडक्शन में क्रैश होने वाले प्रोग्राम के बीच का अंतर है।
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-09-30 13:12 UTC पर स्वतः जनरेट किया गया।*
+## 8. [Claude Code के लिए पर्सनल एजेंट मार्केटप्लेस कैसे बनाएं](https://dev.to/teppana88/how-to-build-a-personal-agent-marketplace-for-claude-code-17fp)
+
+**स्रोत:** Dev.to  |  **विषय:** dev  |  **कवरेज:** 1 स्रोत
+
+**सारांश**
+
+एक डेवलपर ने 'awave-agents' नामक पर्सनल मार्केटप्लेस के माध्यम से Claude Code के लिए 40 से अधिक AI एजेंट्स और स्किल्स को मैनेज करने का अपना तरीका साझा किया है। यह सिस्टम 'aw-review' जैसे उदाहरणों के साथ एक प्लगइन आर्किटेक्चर का उपयोग करता है, जिससे रिव्युअर्स, वैलिडेटर्स, स्क्रिप्ट्स और हुक्स जैसे पुन: प्रयोज्य घटकों को केंद्रीय रूप से बनाए रखना और सभी प्रोजेक्ट्स में अपडेट करना आसान हो जाता है। लेखक ने दिखाया है कि कैसे एक सिंगल स्किल से शुरुआत करें और वर्कफ़्लो की ज़रूरतों के साथ मार्केटप्लेस को स्केल करें।
+
+**मेरी राय**
+
+> बधाई हो, आपने प्रॉम्प्ट इंजीनियरिंग के लिए npm का आविष्कार फिर से कर लिया है — क्योंकि 'परिपक्व इंजीनियरिंग अनुशासन' जैसा कुछ नहीं है, सिवाय 40 ऐसे एजेंट्स के जिनका नाम 'मेरे-टाइपस्क्रिप्ट-पापों-को-ठीक-करो' और 'हे-भगवान-इसे-कंपाइल-कर-दो' जैसा हो। मार्केटप्लेस का रूपक तब तक प्यारा लगता है जब तक आपको यह एहसास नहीं होता कि आप प्रॉम्प्ट चेन की अपनी एक निजी रजिस्ट्री बनाए हुए हैं, जो Anthropic के एक बार छींकते ही टूट जाती है। जमीनी हकीकत: इन एजेंट्स को इंटरनल लाइब्रेरीज़ की तरह मानें — इनका वर्शन रखें, इन्हें टेस्ट करें, और टूरिंग के नाम पर, यह ज़रूर लिखें कि वे असल में क्या करते हैं, इससे पहले कि आप भूल जाएं कि 'review-pr-angry-mode' क्यों बनाया गया था।
+
+---
+
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-07 10:51 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

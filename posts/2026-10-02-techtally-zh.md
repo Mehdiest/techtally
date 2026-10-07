@@ -28,106 +28,106 @@ _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
 **摘要**
 
-The Earendil project has released version 1.0 of its decentralized, censorship-resistant networking protocol. Earendil aims to provide a peer-to-peer overlay network that routes traffic through a mesh of nodes using a custom routing protocol, designed to resist blocking and surveillance. The 1.0 release marks the project's transition from experimental to production-ready software.
+Earendil 项目发布了其去中心化、抗审查网络协议的 1.0 版本。Earendil 旨在提供一个点对点覆盖网络，通过自定义路由协议在节点网格中传输流量，旨在抵御屏蔽和监控。1.0 版本的发布标志着该项目从实验性软件转型为生产就绪软件。
 
 **我的观点**
 
-> Another day, another 'censorship-resistant' network launching to save us from the Great Firewall du jour — this one written in Rust because of course it is. The mesh routing is clever, the threat model is thorough, and the 1.0 badge is shiny, but let's be honest: the real attack vector isn't the protocol, it's convincing your non-technical aunt to run a node. Decentralization works great until you remember most people still use 'password123' for their Wi-Fi.
+> 又一个号称能从“今日防火墙”中拯救我们的“抗审查”网络发布了——不出所料，是用 Rust 写的。网格路由很聪明，威胁模型很严谨，1.0 的徽章也很闪亮，但说实话：真正的攻击向量根本不是协议本身，而是如何说服你那位完全不懂技术的姨妈去运行一个节点。去中心化听起来很美，直到你意识到大多数人的 Wi-Fi 密码还是“password123”。
 
 ---
 
-## 2. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+## 2. [Clef：开源权重决策模型与全新强化学习微调平台](https://blog.cloudflare.com/clef-decision-models/)
 
-![Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png)
+![Clef：开源权重决策模型与全新强化学习微调平台](https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png)
 
 **来源:** HackerNews  |  **主题:** hn  |  **覆盖:** 1 个来源  |  [讨论](https://news.ycombinator.com/item?id=49923692)
 
 **摘要**
 
-Cloudflare has launched Clef, a family of open-weight decision models accompanied by a new reinforcement learning fine-tuning platform. The release aims to give developers accessible tools for building and customizing models that handle decision-making tasks. Cloudflare positions this as part of its broader push into AI infrastructure at the edge.
+Cloudflare 推出了 Clef，这是一系列开源权重的决策模型，并配套了一个全新的强化学习微调平台。此举旨在为开发者提供易于使用的工具，用于构建和定制处理决策任务的模型。Cloudflare 将其定位为边缘 AI 基础设施战略的重要组成部分。
 
 **我的观点**
 
-> Cloudflare just dropped open-weight decision models because apparently the world needed more LLMs that can't decide what to order for lunch either. The real flex is the RL fine-tuning platform — finally, a way to teach models to make choices without them hallucinating a career as a motivational speaker. Edge inference for decision models actually makes sense: latency matters when your AI is picking the next token *and* your dinner reservation.
+> Cloudflare 刚扔出了几个开源决策模型，毕竟这世界确实很缺那种连午饭点什么都做不了决定的 LLM。真正的亮点在于那个强化学习微调平台——终于有个法子能教模型做选择了，还不至于让它们产生自己是励志演说家的幻觉。在边缘侧进行决策模型推理确实有点意思：当你的 AI 既要预测下一个 token 又要帮你定晚餐座位时，延迟可是至关重要的。
 
 ---
 
-## 3. [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
+## 3. [Git 3.0 即将默认采用 SHA-256，这将是一个代价高昂的错误](https://blog.gitbutler.com/git-3-sha-256)
 
-![Git 3.0's upcoming SHA-256 default will be a costly mistake](https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/git-3-sha-256.webp)
+![Git 3.0 即将默认采用 SHA-256，这将是一个代价高昂的错误](https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/git-3-sha-256.webp)
 
 **来源:** HackerNews  |  **主题:** hn  |  **覆盖:** 1 个来源  |  [讨论](https://news.ycombinator.com/item?id=49924179)
 
 **摘要**
 
-GitButler's blog argues that Git 3.0's planned switch to SHA-256 as the default hash algorithm will impose significant migration costs on the ecosystem. The transition requires new repository formats, tooling updates, and breaks compatibility with existing SHA-1 repositories. The author contends the security benefits don't justify the disruption for most users.
+GitButler 的博客指出，Git 3.0 计划将 SHA-256 作为默认哈希算法，这将给整个生态系统带来巨大的迁移成本。这一转变需要新的仓库格式、工具更新，并会破坏与现有 SHA-1 仓库的兼容性。作者认为，对于大多数用户而言，安全方面的收益并不足以抵消这种破坏性。
 
 **我的观点**
 
-> Git switching to SHA-256 is like replacing every lock in a city because someone picked one in a lab — technically correct, practically chaotic. The SHA-1 collision attack needed 6,500 CPU-years and a nation-state budget; your side project's commit history is safe. The real cost isn't the hash, it's the thousand CI pipelines, Git LFS setups, and 'why is my repo broken?' Slack threads that follow. Sometimes the most secure algorithm is the one that doesn't break everyone's workflow.
+> Git 切换到 SHA-256 就好比因为有人在实验室里撬开了一把锁，就要求全城更换所有门锁——技术上没毛病，现实中乱成一团。SHA-1 碰撞攻击需要 6500 个 CPU 年的算力和国家级的预算；你那小项目的提交记录根本没人在乎。真正的代价不在于哈希算法，而在于随之而来的上千个 CI 流水线、Git LFS 配置，以及那些让你崩溃的“为什么我的仓库又坏了？”的 Slack 讨论串。有时候，最安全的算法就是那种不会毁掉每个人工作流的算法。
 
 ---
 
-## 4. [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+## 4. [Linux 内核被发现存在多项漏洞](https://lwn.net/Articles/1097401/)
 
 **来源:** HackerNews  |  **主题:** hn  |  **覆盖:** 1 个来源  |  [讨论](https://news.ycombinator.com/item?id=49928121)
 
 **摘要**
 
-LWN.net reports that multiple new vulnerabilities have been identified in the Linux kernel. The flaws were disclosed through the standard coordinated vulnerability process and affect various kernel subsystems. Patches are being prepared for upstream integration and downstream distribution updates. This follows the regular cadence of kernel security maintenance.
+据 LWN.net 报道，Linux 内核中发现了多个新漏洞。这些缺陷通过标准的协同漏洞披露流程公开，涉及内核的多个子系统。目前补丁正在准备中，并将集成至上游及分发到下游更新。这属于内核安全维护的常规节奏。
 
 **我的观点**
 
-> Another Tuesday, another batch of CVEs for the kernel that runs the planet — because 'many eyes make all bugs shallow' apparently assumes those eyes aren't exhausted maintainers staring at 30 million lines of C at 2 AM. The real vulnerability is thinking this cycle will ever end. Grounded insight: keep your systems updated and your threat models realistic; the kernel gets patched faster than most proprietary stacks ever will.
+> 又一个周二，又是给运行着整个地球的内核送上一批 CVE——毕竟“众人拾柴火焰高”的前提是，这些眼睛不是凌晨两点盯着 3000 万行 C 代码、早已精疲力竭的维护者。真正的漏洞在于你竟然觉得这循环会结束。务实一点：保持系统更新，模型要接地气；毕竟内核的补丁速度比大多数闭源产品快得多。
 
 ---
 
-## 5. [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
+## 5. [StreetComplete iOS 公测版现已上线](https://github.com/streetcomplete/StreetComplete/issues/5421)
 
 **来源:** HackerNews  |  **主题:** hn  |  **覆盖:** 1 个来源  |  [讨论](https://news.ycombinator.com/item?id=49920160)
 
 **摘要**
 
-StreetComplete, the popular open-source Android app for crowdsourcing OpenStreetMap data through gamified quests, has launched a public beta for iOS. The project, maintained by a volunteer community, previously existed only on Android and F-Droid. This expansion brings its accessible 'answer simple questions about your surroundings' workflow to iPhone users for the first time. The beta is distributed via TestFlight and the source remains on GitHub under GPL-3.0.
+StreetComplete 是一款广受欢迎的开源 Android 应用，通过游戏化任务众包 OpenStreetMap 数据。该项目由志愿者社区维护，此前仅限于 Android 和 F-Droid。此次扩展首次将“回答周边简单问题”的便捷工作流带给 iPhone 用户。测试版通过 TestFlight 分发，源代码继续以 GPL-3.0 协议托管在 GitHub 上。
 
 **我的观点**
 
-> After years of iOS users watching Android mappers have all the fun turning 'is there a bench here?' into a competitive sport, StreetComplete finally crosses the platform moat. It's the rare app that makes 'citizen science' feel less like homework and more like Pokémon GO for urban infrastructure nerds. The real win isn't the port — it's proving that open-source map tooling doesn't have to live in a single ecosystem ghetto. More eyes on the map means fewer missing crosswalks for everyone.
+> 在眼巴巴看着 Android 地图贡献者们把“这儿有没有长椅？”变成竞技运动多年后，StreetComplete 终于跨越了平台护城河。这款难得的应用让“公民科学”不再像写家庭作业，倒更像是城市基础设施极客版的《Pokémon GO》。真正的赢家不是移植本身，而是它证明了开源地图工具不必困在单一生态系统的贫民窟里。地图上的眼睛越多，大家漏掉的人行横道就越少。
 
 ---
 
-## 6. [Pi Durable](https://earendil.com/posts/pi-durable/)
+## 6. [Pi 的持久化尝试](https://earendil.com/posts/pi-durable/)
 
-![Pi Durable](https://earendil.com/static/og/posts/pi-durable.png)
+![Pi 的持久化尝试](https://earendil.com/static/og/posts/pi-durable.png)
 
 **来源:** HackerNews  |  **主题:** hn  |  **覆盖:** 1 个来源  |  [讨论](https://news.ycombinator.com/item?id=49925969)
 
 **摘要**
 
-A HackerNews post titled 'Pi Durable' links to earendil.com/posts/pi-durable/, a blog entry on the Earendil project site. Earendil is a decentralized, incentivized mixnet for anonymous communication. The post likely discusses durability improvements or Raspberry Pi deployment for the network, though the exact content is unavailable.
+一篇名为“Pi Durable”的 HackerNews 帖子链接到了 Earendil 项目博客的一篇文章。Earendil 是一个去中心化、具有激励机制的匿名通信混合网（mixnet）。该帖主要讨论了网络的持久性改进或在树莓派上的部署，尽管具体内容无法直接获取。
 
 **我的观点**
 
-> Another day, another mixnet promising to save us from surveillance capitalism while running on a $35 computer that overheats if you look at it wrong. Earendil's 'Pi Durable' sounds like a survivalist's backup plan: when the grid goes down, you'll still anonymously shitpost from a solar-powered Raspberry Pi taped to a garden gnome. The grounded insight: decentralized anonymity networks live or die by node diversity, not hardware durability — if everyone runs the same cheap SBC in the same cloud region, you've just built a fragile honeypot with extra steps.
+> 又来了，又一个承诺能把我们从监控资本主义中拯救出来的混合网，结果竟然运行在一台你只要多看它一眼就会过热的 35 美元电脑上。Earendil 的“Pi Durable”听起来就像是生存主义者的备用计划：当电网瘫痪时，你依然可以用粘在花园小矮人身上的太阳能树莓派匿名发废话。一针见血的真相是：去中心化匿名网络靠的是节点多样性，而不是硬件耐用性——如果每个人都在同一个云区域运行同样的廉价单板计算机，那你只不过是搭建了一个步骤更繁琐的脆弱诱捕器。
 
 ---
 
-## 7. [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here)
+## 7. [SvelteKit 3 发布](https://svelte.dev/blog/sveltekit-3-is-here)
 
-![SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here/card.png)
+![SvelteKit 3 发布](https://svelte.dev/blog/sveltekit-3-is-here/card.png)
 
 **来源:** HackerNews  |  **主题:** hn  |  **覆盖:** 1 个来源  |  [讨论](https://news.ycombinator.com/item?id=49926536)
 
 **摘要**
 
-SvelteKit 3 has been released as the latest major version of the full-stack web framework built on Svelte. The update introduces breaking changes, improved server-side rendering, enhanced type safety, and a restructured project architecture. Developers will need to migrate existing applications to adopt the new APIs and conventions.
+SvelteKit 3 作为基于 Svelte 构建的全栈 Web 框架的最新重大版本正式发布。此次更新引入了重大变更、改进的服务器端渲染、增强的类型安全以及重构的项目架构。开发者需要迁移现有应用以适配新的 API 和规范。
 
 **我的观点**
 
-> SvelteKit 3 arrives like that friend who shows up to a party, rearranges all the furniture, and somehow makes the place look better — breaking changes included. The framework continues its tradition of 'we know better than you' API design, which is annoying until you realize they're usually right. The real win? Finally treating TypeScript as a first-class citizen instead of a polite guest. Migration pain is the price of admission for a framework that refuses to accumulate legacy baggage.
+> SvelteKit 3 的到来就像那个闯进派对的朋友，把家具全挪了位，结果房间看起来反而更顺眼了——虽然伴随着一堆破坏性变更。该框架延续了其“我比你更懂”的 API 设计传统，这种傲慢虽然让人恼火，但当你意识到他们通常是对的时候，也就没脾气了。真正的赢家？终于把 TypeScript 当成座上宾，而不是礼貌性的过客。对于一个拒绝背负历史包袱的框架来说，迁移的阵痛就是入场费。
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-02 10:55 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-07 10:46 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

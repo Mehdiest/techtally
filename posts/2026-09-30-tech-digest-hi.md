@@ -19,87 +19,87 @@ _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal
 
 **इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-09-30-tech-digest.html">English</a> <a class="lang-pill" href="2026-09-30-tech-digest-fa.html">فارسی</a> <a class="lang-pill" href="2026-09-30-tech-digest-fr.html">Français</a> <a class="lang-pill" href="2026-09-30-tech-digest-de.html">Deutsch</a> <a class="lang-pill" href="2026-09-30-tech-digest-es.html">Español</a> <a class="lang-pill" href="2026-09-30-tech-digest-zh.html">中文</a> <a class="lang-pill" href="2026-09-30-tech-digest-ru.html">Русский</a> <a class="lang-pill" href="2026-09-30-tech-digest-ar.html">العربية</a>
 
-## 1. [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/)
+## 1. [GPT 6.1 Sol: Google Astra जैसी बुद्धिमत्ता, पांचवें हिस्से की कीमत पर](https://openai.com/index/introducing-gpt-6-1-sol/)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 2 स्रोत  |  [चर्चा](https://news.ycombinator.com/item?id=49896586)
 
 **सारांश**
 
-OpenAI has announced GPT 6.1 Sol, a new model claiming performance approaching Google's Astra benchmark at roughly one-fifth the inference cost. The release positions Sol as a cost-optimized alternative for high-end reasoning tasks, though specific benchmark numbers and availability details were not disclosed in the initial announcement.
+OpenAI ने GPT 6.1 Sol की घोषणा की है, जो Google के Astra बेंचमार्क के करीब प्रदर्शन का दावा करता है और इसकी अनुमानित लागत पहले से पांच गुना कम है। यह रिलीज़ Sol को हाई-एंड रीज़निंग कार्यों के लिए एक किफायती विकल्प के रूप में पेश करती है, हालांकि शुरुआती घोषणा में सटीक बेंचमार्क आंकड़े और उपलब्धता की जानकारी नहीं दी गई है।
 
 **मेरी राय**
 
-> OpenAI just pulled the classic 'same intelligence, 80% off' stunt — because nothing says 'we're definitely not panicking about open-source models catching up' like a suspiciously timed 'Sol' release. The name implies sunlight, but the pricing suggests they're feeling the heat from competitors who don't need to recoup a Microsoft-sized GPU mortgage. Grounded insight: when the market leader starts competing on price-per-token instead of raw capability, the commoditization of frontier models has officially arrived.
+> OpenAI ने बिल्कुल वही 'वही बुद्धिमत्ता, 80% सस्ती' वाली पुरानी चाल चली है — क्योंकि 'हम ओपन-सोर्स मॉडल्स के आगे निकलने से बिल्कुल नहीं घबरा रहे हैं' यह साबित करने का इससे बेहतर तरीका और क्या हो सकता है कि ऐन मौके पर 'Sol' लॉन्च कर दिया जाए। नाम सूरज की रोशनी का संकेत देता है, लेकिन कीमत बताती है कि उन पर उन प्रतिस्पर्धियों का दबाव है जिन्हें Microsoft के आकार का GPU कर्ज नहीं चुकाना पड़ता। सीधी बात: जब मार्केट लीडर क्षमता के बजाय 'प्रति टोकन कीमत' पर मुकाबला करने लगे, तो समझ लीजिए कि फ्रंटियर मॉडल्स का बाजारीकरण आधिकारिक तौर पर शुरू हो चुका है।
 
 ---
 
-## 2. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+## 2. [Livenerf: क्या Opus 5.5 को पहले ही 'nerf' कर दिया गया है?](https://github.com/ninjahawk/livenerf)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत  |  [चर्चा](https://news.ycombinator.com/item?id=49901736)
 
 **सारांश**
 
-Developer ninjahawk released Livenerf, an open-source GitHub project that continuously benchmarks Anthropic's Claude Opus 5.5 model to detect whether its capabilities have been quietly downgraded. The tool runs automated evaluations across reasoning, coding, and creative tasks, publishing results to a public dashboard. The project reflects growing community skepticism about silent model degradation after deployment.
+डेवलपर ninjahawk ने Livenerf नामक एक ओपन-सोर्स GitHub प्रोजेक्ट जारी किया है, जो Anthropic के Claude Opus 5.5 मॉडल को लगातार बेंचमार्क करता है ताकि यह पता चल सके कि क्या उसकी क्षमताओं को चुपचाप कम कर दिया गया है। यह टूल रीजनिंग, कोडिंग और रचनात्मक कार्यों में स्वचालित मूल्यांकन चलाता है और परिणामों को एक सार्वजनिक डैशबोर्ड पर प्रकाशित करता है। यह प्रोजेक्ट तैनाती के बाद मॉडल के चुपचाप खराब होने को लेकर समुदाय में बढ़ते संदेह को दर्शाता है।
 
 **मेरी राय**
 
-> Nothing says 'trust me, bro' like a corporation updating the terms of service while your benchmark scores quietly nosedive. Livenerf is the neighborhood watch for model weights — except the suspect is a 70-billion-parameter black box that gaslights you into thinking you're the one getting dumber. The real insight: if you need a CI pipeline to prove your AI didn't get lobotomized overnight, the vendor relationship is already broken.
+> कोई भी चीज़ 'मुझ पर भरोसा करो, भाई' वाली बात को उतनी अच्छी तरह नहीं बयां करती, जितनी तब जब कोई कंपनी आपकी सर्विस की शर्तों को अपडेट कर दे और आपके बेंचमार्क स्कोर चुपचाप नीचे गिर जाएं। Livenerf मॉडल वेट्स के लिए एक मोहल्ला निगरानी समिति जैसा है — बस फर्क इतना है कि संदिग्ध एक 70-बिलियन-पैरामीटर का ब्लैक बॉक्स है, जो आपको यह सोचने पर मजबूर कर देता है कि आप ही मूर्ख हो रहे हैं। असली बात यह है: यदि आपको यह साबित करने के लिए कि आपका AI रातों-रात लोबोटोमाइज्ड (बौद्धिक रूप से अक्षम) नहीं हुआ है, एक CI पाइपलाइन की आवश्यकता है, तो वेंडर के साथ रिश्ता पहले ही टूट चुका है।
 
 ---
 
-## 3. [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+## 3. [Dots: ऑलवेज-ऑन एजेंट्स](https://openai.com/index/introducing-dots/)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत  |  [चर्चा](https://news.ycombinator.com/item?id=49896604)
 
 **सारांश**
 
-OpenAI has announced 'Dots,' a new system of always-on AI agents designed to operate continuously in the background. The product appears to be positioned as persistent autonomous assistants that can handle tasks without constant user prompting. Details on capabilities, availability, and pricing were not immediately disclosed in the announcement.
+OpenAI ने 'Dots' की घोषणा की है, जो हमेशा सक्रिय रहने वाले AI एजेंट्स की एक नई प्रणाली है जिसे बैकग्राउंड में निरंतर काम करने के लिए डिज़ाइन किया गया है। यह उत्पाद ऐसे स्थायी स्वायत्त सहायकों के रूप में पेश किया गया है जो लगातार प्रॉम्प्ट दिए बिना कार्यों को संभाल सकते हैं। घोषणा में क्षमताओं, उपलब्धता और मूल्य निर्धारण का विवरण तुरंत नहीं दिया गया है।
 
 **मेरी राय**
 
-> OpenAI just invented the digital equivalent of that coworker who never goes home, never sleeps, and constantly Slacks you 'quick question' at 2 AM. 'Always-on agents' sounds revolutionary until you realize we've basically rebranded cron jobs with a personality disorder and a $200/month API bill. The real innovation will be when they build an agent whose only job is to fire the other agents for hallucinating the quarterly budget.
+> OpenAI ने अभी-अभी उस सहकर्मी का डिजिटल संस्करण बनाया है जो कभी घर नहीं जाता, कभी सोता नहीं, और रात के 2 बजे आपको 'एक छोटा सा सवाल' कहकर Slack पर परेशान करता है। 'ऑलवेज-ऑन एजेंट्स' सुनने में क्रांतिकारी लगता है, जब तक आपको यह एहसास न हो जाए कि हमने मूल रूप से व्यक्तित्व विकार और $200/महीने के API बिल के साथ क्रॉन जॉब्स (cron jobs) को नया नाम दिया है। असली इनोवेशन तब होगा जब वे ऐसा एजेंट बनाएंगे जिसका एकमात्र काम अन्य एजेंट्स को तिमाही बजट में हेरफेर (hallucinating) करने के लिए नौकरी से निकालना होगा।
 
 ---
 
-## 4. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
+## 4. [दिल्ली ने बिजली के नुकसान को 50 से 5 प्रतिशत तक कैसे कम किया](https://spectrum.ieee.org/delhi-electricity-loss)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत  |  [चर्चा](https://news.ycombinator.com/item?id=49892245)
 
 **सारांश**
 
-Delhi's power distribution companies reduced aggregate technical and commercial losses from roughly 50% in the early 2000s to around 5% today through privatization, large-scale smart meter deployment, aggressive anti-theft enforcement, and network modernization. The transformation involved replacing bare conductors with aerial bundled cables, implementing GIS-based asset mapping, and introducing consumer indexing to trace every connection. The turnaround is frequently cited as a rare success story in Indian power sector reform.
+दिल्ली की बिजली वितरण कंपनियों ने निजीकरण, स्मार्ट मीटर के बड़े पैमाने पर उपयोग, बिजली चोरी के खिलाफ सख्त प्रवर्तन और नेटवर्क आधुनिकीकरण के माध्यम से 2000 के दशक की शुरुआत में लगभग 50% के कुल तकनीकी और व्यावसायिक नुकसान को आज लगभग 5% तक कम कर दिया है। इस बदलाव में नंगे तारों को बंडल केबल्स से बदलना, जीआईएस-आधारित मैपिंग लागू करना और हर कनेक्शन को ट्रैक करने के लिए उपभोक्ता अनुक्रमण शुरू करना शामिल था। इस कायापलट को भारतीय बिजली क्षेत्र के सुधार की एक दुर्लभ सफलता के रूप में देखा जाता है।
 
 **मेरी राय**
 
-> Delhi went from losing half its electrons to petty theft and leaky wires to running a tighter grid than most Silicon Valley server rooms — proof that when you actually bill people for what they use, they magically stop 'borrowing' power. The secret sauce wasn't just smart meters; it was the political will to survive the inevitable riots when you cut off the neighborhood strongman's free AC. Next time a utility CEO claims 'smart grid' is a five-year journey, hand them this case study and a stopwatch.
+> दिल्ली ने अपनी आधी बिजली चोरी और खराब तारों में गंवाने से लेकर सिलिकॉन वैली के सर्वर रूम से भी बेहतर ग्रिड चलाने तक का सफर तय किया है। यह इस बात का सबूत है कि जब आप लोगों से उनके इस्तेमाल की सही कीमत वसूलते हैं, तो वे जादुई रूप से बिजली 'उधार' लेना बंद कर देते हैं। इसका असली राज सिर्फ स्मार्ट मीटर नहीं थे, बल्कि वह राजनीतिक इच्छाशक्ति थी जो मोहल्ले के दबंगों की मुफ्त एसी बंद करने पर होने वाले दंगों को झेल गई। अगली बार जब कोई सीईओ कहे कि 'स्मार्ट ग्रिड' पांच साल का सफर है, तो उन्हें यह केस स्टडी और एक स्टॉपवॉच थमा देना।
 
 ---
 
-## 5. [Ask HN: What are you reading?](https://news.ycombinator.com/item?id=49893157)
+## 5. [Ask HN: आप क्या पढ़ रहे हैं?](https://news.ycombinator.com/item?id=49893157)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-A Hacker News community thread titled 'Ask HN: What are you reading?' garnered 245 upvotes and 513 comments as users shared book recommendations spanning technical manuals, sci-fi novels, history, and philosophy. The recurring discussion format serves as an informal cultural barometer for the tech community's intellectual interests beyond code.
+Hacker News पर 'Ask HN: What are you reading?' शीर्षक वाले एक थ्रेड को 245 अपवोट्स और 513 कमेंट्स मिले, जहाँ उपयोगकर्ताओं ने तकनीकी मैनुअल, साइंस-फिक्शन, इतिहास और दर्शनशास्त्र जैसी विविध किताबों के सुझाव साझा किए। यह आवर्ती चर्चा का प्रारूप टेक समुदाय की कोडिंग से परे बौद्धिक रुचियों के लिए एक अनौपचारिक बैरोमीटर का काम करता है।
 
 **मेरी राय**
 
-> Nothing says 'I'm a 10x engineer' like casually dropping that you're re-reading Knuth for fun while the rest of us struggle through 'Atomic Habits' for the third time. The thread is basically a peacocking contest where the plumage is made of obscure systems papers and 1970s Russian sci-fi. But underneath the performative bibliophilia, there's a genuine truth: the best developers read widely because software doesn't exist in a vacuum — it lives in history, economics, and human psychology.
+> खुद को '10x इंजीनियर' बताने का इससे बेहतर तरीका क्या हो सकता है कि आप अनौपचारिक रूप से कहें कि आप मजे के लिए नूत (Knuth) दोबारा पढ़ रहे हैं, जबकि हम बाकी लोग तीसरी बार 'एटॉमिक हैबिट्स' पढ़ने के लिए संघर्ष कर रहे हैं। यह थ्रेड असल में एक दिखावे की प्रतियोगिता है, जहाँ पंख अस्पष्ट सिस्टम पेपर्स और 1970 के दशक के रूसी साइंस-फिक्शन से बने हैं। लेकिन इस दिखावटी किताबी प्रेम के पीछे एक सच्चा सच छिपा है: बेहतरीन डेवलपर्स बहुत पढ़ते हैं क्योंकि सॉफ्टवेयर शून्य में नहीं होता — यह इतिहास, अर्थशास्त्र और मानव मनोविज्ञान के बीच पलता है।
 
 ---
 
-## 6. [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit)
+## 6. [PS5 रिलैप्स एक्सप्लॉइट](https://github.com/ntfargo/Relapse-Exploit)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत  |  [चर्चा](https://news.ycombinator.com/item?id=49895304)
 
 **सारांश**
 
-A new PS5 exploit named "Relapse" has been published on GitHub by developer ntfargo, potentially enabling homebrew and unauthorized software execution on Sony's console. The exploit targets a vulnerability in the PS5's system software, though specific affected firmware versions have not been detailed. This continues the ongoing cat-and-mouse dynamic between console manufacturers and the hacking community. If verified, it could allow users to run unsigned code, emulators, and custom applications on the platform.
+डेवलपर ntfargo द्वारा GitHub पर 'Relapse' नाम का एक नया PS5 एक्सप्लॉइट पब्लिश किया गया है, जो सोनी के कंसोल पर होमब्रू और अनधिकृत सॉफ़्टवेयर चलाने की संभावना खोलता है। यह एक्सप्लॉइट PS5 के सिस्टम सॉफ़्टवेयर की एक खामी को निशाना बनाता है, हालांकि किन फर्मवेयर वर्जन्स पर यह काम करेगा, इसकी जानकारी अभी नहीं दी गई है। यह कंसोल निर्माताओं और हैकर कम्युनिटी के बीच चल रहे चूहे-बिल्ली के खेल का एक और अध्याय है। अगर यह सच साबित होता है, तो यूज़र्स कंसोल पर अनसाइंड कोड, एमुलेटर और कस्टम एप्लिकेशन चला सकेंगे।
 
 **मेरी राय**
 
-> Sony's security team must feel like they're playing whack-a-mole with a mole that's read Sun Tzu — every time they patch a hole, three more pop up wearing tiny hacker hoodies. The "Relapse" name is chef's kiss marketing: it implies the console fell off the wagon and started mainlining homebrew again. At this rate, the PS5's security model has more holes than a speedrunner's logic. Grounded insight: console exploits inevitably arrive, but the real winners are the preservationists who'll use this to archive games long after Sony's servers go dark.
+> सोनी की सिक्योरिटी टीम को ऐसा लग रहा होगा जैसे वे 'व्हैक-ए-मोल' खेल रहे हैं, लेकिन मोल ने 'सन त्ज़ु' की आर्ट ऑफ वॉर पढ़ रखी है — जैसे ही वे एक छेद बंद करते हैं, तीन और हैकर हुडी पहने बाहर आ जाते हैं। 'Relapse' नाम तो एकदम लाजवाब है: जैसे कंसोल फिर से पुरानी लत में पड़ गया हो और होमब्रू की सुइयां लेने लगा हो। इस रफ्तार से देखा जाए तो PS5 का सिक्योरिटी मॉडल किसी स्पीडरनर के लॉजिक से भी ज्यादा छेद वाला है। सच तो यह है कि कंसोल एक्सप्लॉइट्स तो आते ही रहेंगे, लेकिन असली विजेता वे प्रिजर्वेशनिस्ट्स होंगे जो सोनी के सर्वर्स बंद होने के बाद भी गेम्स को जिंदा रखेंगे।
 
 ---
 
@@ -109,14 +109,14 @@ A new PS5 exploit named "Relapse" has been published on GitHub by developer ntfa
 
 **सारांश**
 
-The Tcl Core Team has released Tcl/Tk 9.1, the first feature update to the 9.x series. The release adds native 64-bit integer support across all platforms, a new "ensemble" command for building subcommand dispatchers, improved UTF-8 handling, and numerous performance optimizations. Tk 9.1 brings HiDPI scaling fixes on Windows and macOS, updated themed widgets, and better Wayland compatibility on Linux. The 9.x branch maintains backward compatibility with Tcl 8.6 scripts while modernizing the runtime for contemporary hardware.
+Tcl कोर टीम ने Tcl/Tk 9.1 जारी किया है, जो 9.x सीरीज का पहला फीचर अपडेट है। इस रिलीज में सभी प्लेटफॉर्म पर नेटिव 64-बिट इंटीजर सपोर्ट, सब-कमांड डिस्पैचर बनाने के लिए एक नया "ensemble" कमांड, बेहतर UTF-8 हैंडलिंग और कई परफॉरमेंस ऑप्टिमाइजेशन शामिल हैं। Tk 9.1 विंडोज और macOS पर HiDPI स्केलिंग फिक्स, अपडेटेड थीम्ड विजेट्स और लिनक्स पर बेहतर Wayland कम्पैटिबिलिटी लेकर आया है। 9.x ब्रांच Tcl 8.6 स्क्रिप्ट्स के साथ बैकवर्ड कम्पैटिबिलिटी बनाए रखती है और साथ ही आधुनिक हार्डवेयर के लिए रनटाइम को अपडेट करती है।
 
 **मेरी राय**
 
-> Tcl/Tk 9.1 arrives like that one uncle who still writes COBOL but shows up to Thanksgiving with a VR headset — unexpectedly current, stubbornly alive, and quietly powering half the network gear in your data center. The 64-bit integer overhaul only took three decades, which in enterprise software years counts as 'move fast and break things.' Meanwhile, the HiDPI fixes mean your ancient expect scripts finally render crisp on a 4K monitor, proving that sometimes the most radical innovation is just not breaking everyone's automation. The real lesson: boring, stable runtimes outlive flashy frameworks every single time.
+> Tcl/Tk 9.1 उस चाचा की तरह आया है जो आज भी COBOL लिखता है, लेकिन थैंक्सगिविंग पर VR हेडसेट पहनकर पहुंच जाता है — अप्रत्याशित रूप से आधुनिक, जिद्दी तरीके से जीवित, और चुपचाप आपके डेटा सेंटर के आधे नेटवर्क गियर को चला रहा है। 64-बिट इंटीजर ओवरहॉल में तीन दशक लग गए, जिसे एंटरप्राइज सॉफ्टवेयर की दुनिया में 'तेजी से काम करो और चीजें तोड़ो' कहा जाता है। खैर, HiDPI फिक्स का मतलब है कि आपकी पुरानी expect स्क्रिप्ट्स अब 4K मॉनिटर पर साफ दिखेंगी, जो साबित करता है कि कभी-कभी सबसे क्रांतिकारी इनोवेशन सिर्फ इतना होता है कि आप सबकी ऑटोमेशन को तोड़ें नहीं। असली सीख: उबाऊ और स्थिर रनटाइम हमेशा चमकदार फ्रेमवर्क्स से ज्यादा टिकते हैं।
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-09-30 13:10 UTC पर स्वतः जनरेट किया गया।*
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-07 10:48 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

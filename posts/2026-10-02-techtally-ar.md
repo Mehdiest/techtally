@@ -28,87 +28,87 @@ _إعداد [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a671
 
 **الملخص**
 
-The Earendil project has released version 1.0 of its decentralized, censorship-resistant networking protocol. Earendil aims to provide a peer-to-peer overlay network that routes traffic through a mesh of nodes using a custom routing protocol, designed to resist blocking and surveillance. The 1.0 release marks the project's transition from experimental to production-ready software.
+أصدر مشروع Earendil الإصدار 1.0 من بروتوكول الشبكات اللامركزي والمقاوم للرقابة. يهدف Earendil إلى توفير شبكة تراكبية من نظير إلى نظير تقوم بتوجيه حركة المرور عبر شبكة من العقد باستخدام بروتوكول توجيه مخصص، مصمم لمقاومة الحجب والمراقبة. يمثل إصدار 1.0 انتقال المشروع من برمجيات تجريبية إلى برمجيات جاهزة للإنتاج.
 
 **رأيي**
 
-> Another day, another 'censorship-resistant' network launching to save us from the Great Firewall du jour — this one written in Rust because of course it is. The mesh routing is clever, the threat model is thorough, and the 1.0 badge is shiny, but let's be honest: the real attack vector isn't the protocol, it's convincing your non-technical aunt to run a node. Decentralization works great until you remember most people still use 'password123' for their Wi-Fi.
+> يوم آخر، وشبكة أخرى 'مقاومة للرقابة' تُطلق لإنقاذنا من 'جدار الحماية العظيم' لهذا اليوم — وهذه الشبكة مكتوبة بلغة Rust لأن ذلك متوقع بالطبع. التوجيه الشبكي ذكي، ونموذج التهديدات شامل، وشارة 1.0 براقة، ولكن لنكن صادقين: ناقل الهجوم الحقيقي ليس البروتوكول، بل إقناع خالتك غير التقنية بتشغيل عقدة. اللامركزية تعمل بشكل رائع حتى تتذكر أن معظم الناس لا يزالون يستخدمون 'password123' لكلمة مرور الواي فاي الخاصة بهم.
 
 ---
 
-## 2. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+## 2. [Clef: نماذج اتخاذ القرار مفتوحة الأوزان ومنصة جديدة للضبط الدقيق بالتعلم التعزيزي](https://blog.cloudflare.com/clef-decision-models/)
 
-![Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png)
+![Clef: نماذج اتخاذ القرار مفتوحة الأوزان ومنصة جديدة للضبط الدقيق بالتعلم التعزيزي](https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر  |  [نقاش](https://news.ycombinator.com/item?id=49923692)
 
 **الملخص**
 
-Cloudflare has launched Clef, a family of open-weight decision models accompanied by a new reinforcement learning fine-tuning platform. The release aims to give developers accessible tools for building and customizing models that handle decision-making tasks. Cloudflare positions this as part of its broader push into AI infrastructure at the edge.
+أطلقت Cloudflare نموذج Clef، وهو عائلة من نماذج اتخاذ القرار مفتوحة الأوزان مدعومة بمنصة جديدة للضبط الدقيق باستخدام التعلم التعزيزي (RL). يهدف هذا الإصدار إلى تزويد المطورين بأدوات يسهل الوصول إليها لبناء وتخصيص نماذج تتعامل مع مهام اتخاذ القرار. وتضع Cloudflare هذا كجزء من توجهها الأوسع نحو البنية التحتية للذكاء الاصطناعي عند الحافة (Edge).
 
 **رأيي**
 
-> Cloudflare just dropped open-weight decision models because apparently the world needed more LLMs that can't decide what to order for lunch either. The real flex is the RL fine-tuning platform — finally, a way to teach models to make choices without them hallucinating a career as a motivational speaker. Edge inference for decision models actually makes sense: latency matters when your AI is picking the next token *and* your dinner reservation.
+> لقد أطلقت Cloudflare للتو نماذج اتخاذ قرار مفتوحة الأوزان، لأنه من الواضح أن العالم كان بحاجة ماسة إلى المزيد من نماذج اللغة الكبيرة التي لا تستطيع حتى اتخاذ قرار بشأن ما ستطلبه للغداء. الميزة الحقيقية هنا هي منصة الضبط الدقيق (RL)؛ أخيراً، وجدنا طريقة لتعليم النماذج كيفية الاختيار دون أن تهلوس وتظن أنها متحدثون تحفيزيون. الاستدلال عند الحافة (Edge inference) لنماذج اتخاذ القرار منطقي جداً: فالتأخير (latency) يصبح أمراً حاسماً عندما يكون ذكاؤك الاصطناعي مشغولاً باختيار الرمز التالي وحجز طاولة العشاء في آن واحد.
 
 ---
 
-## 3. [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
+## 3. [اعتماد Git 3.0 لخوارزمية SHA-256 كخيار افتراضي سيكون خطأً مكلفاً](https://blog.gitbutler.com/git-3-sha-256)
 
-![Git 3.0's upcoming SHA-256 default will be a costly mistake](https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/git-3-sha-256.webp)
+![اعتماد Git 3.0 لخوارزمية SHA-256 كخيار افتراضي سيكون خطأً مكلفاً](https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/git-3-sha-256.webp)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر  |  [نقاش](https://news.ycombinator.com/item?id=49924179)
 
 **الملخص**
 
-GitButler's blog argues that Git 3.0's planned switch to SHA-256 as the default hash algorithm will impose significant migration costs on the ecosystem. The transition requires new repository formats, tooling updates, and breaks compatibility with existing SHA-1 repositories. The author contends the security benefits don't justify the disruption for most users.
+تجادل مدونة GitButler بأن خطة Git 3.0 للتحول إلى SHA-256 كخوارزمية تجزئة افتراضية ستفرض تكاليف ترحيل باهظة على النظام البيئي. يتطلب هذا الانتقال تنسيقات مستودعات جديدة وتحديثات للأدوات، كما سيؤدي إلى كسر التوافق مع مستودعات SHA-1 الحالية. يرى المؤلف أن مكاسب الأمان لا تبرر هذا الاضطراب لمعظم المستخدمين.
 
 **رأيي**
 
-> Git switching to SHA-256 is like replacing every lock in a city because someone picked one in a lab — technically correct, practically chaotic. The SHA-1 collision attack needed 6,500 CPU-years and a nation-state budget; your side project's commit history is safe. The real cost isn't the hash, it's the thousand CI pipelines, Git LFS setups, and 'why is my repo broken?' Slack threads that follow. Sometimes the most secure algorithm is the one that doesn't break everyone's workflow.
+> تحول Git إلى SHA-256 يشبه استبدال كل قفل في المدينة لأن شخصاً ما تمكن من فتح قفل واحد في المختبر؛ هذا صحيح تقنياً، لكنه فوضوي عملياً. هجوم التصادم على SHA-1 تطلب 6500 سنة من وقت المعالجة وميزانية دولة؛ تاريخ تعديلات مشروعك الجانبي في أمان تام. التكلفة الحقيقية ليست في الخوارزمية، بل في آلاف مسارات CI، وإعدادات Git LFS، وسلاسل محادثات Slack التي ستسأل 'لماذا تعطل مستودعي؟'. أحياناً تكون الخوارزمية الأكثر أماناً هي تلك التي لا تدمر سير عمل الجميع.
 
 ---
 
-## 4. [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+## 4. [اكتشاف ثغرات أمنية متعددة في نواة Linux](https://lwn.net/Articles/1097401/)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر  |  [نقاش](https://news.ycombinator.com/item?id=49928121)
 
 **الملخص**
 
-LWN.net reports that multiple new vulnerabilities have been identified in the Linux kernel. The flaws were disclosed through the standard coordinated vulnerability process and affect various kernel subsystems. Patches are being prepared for upstream integration and downstream distribution updates. This follows the regular cadence of kernel security maintenance.
+أفاد موقع LWN.net بأنه تم تحديد ثغرات أمنية جديدة متعددة في نواة Linux. تم الكشف عن هذه العيوب من خلال عملية الإفصاح المنسقة والمعيارية عن الثغرات، وهي تؤثر على العديد من الأنظمة الفرعية للنواة. يجري العمل حالياً على إعداد التحديثات البرمجية (patches) لدمجها في المصدر الرئيسي وتوزيعها على الإصدارات الفرعية. يأتي هذا في إطار الوتيرة المعتادة لصيانة أمن النواة.
 
 **رأيي**
 
-> Another Tuesday, another batch of CVEs for the kernel that runs the planet — because 'many eyes make all bugs shallow' apparently assumes those eyes aren't exhausted maintainers staring at 30 million lines of C at 2 AM. The real vulnerability is thinking this cycle will ever end. Grounded insight: keep your systems updated and your threat models realistic; the kernel gets patched faster than most proprietary stacks ever will.
+> ثلاثاء آخر، ودفعة أخرى من ثغرات CVE للنواة التي تشغل الكوكب بأكمله؛ فمبدأ 'كثرة الأعين تجعل جميع الأخطاء سطحية' يفترض على ما يبدو أن هذه الأعين ليست لأشخاص منهكين يقضون الثانية صباحاً في التحديق في 30 مليون سطر من لغة C. الثغرة الحقيقية هي الاعتقاد بأن هذه الحلقة ستنتهي يوماً ما. نصيحة واقعية: ابقِ أنظمتك محدثة ونماذج التهديد الخاصة بك واقعية؛ فالنواة يتم إصلاحها وتحديثها بشكل أسرع بكثير من أي برمجيات مغلقة المصدر.
 
 ---
 
-## 5. [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
+## 5. [تطبيق StreetComplete متاح الآن بنسخة تجريبية عامة على iOS](https://github.com/streetcomplete/StreetComplete/issues/5421)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر  |  [نقاش](https://news.ycombinator.com/item?id=49920160)
 
 **الملخص**
 
-StreetComplete, the popular open-source Android app for crowdsourcing OpenStreetMap data through gamified quests, has launched a public beta for iOS. The project, maintained by a volunteer community, previously existed only on Android and F-Droid. This expansion brings its accessible 'answer simple questions about your surroundings' workflow to iPhone users for the first time. The beta is distributed via TestFlight and the source remains on GitHub under GPL-3.0.
+أطلق StreetComplete، وهو تطبيق مفتوح المصدر شهير لنظام Android لجمع بيانات OpenStreetMap من خلال مهام تفاعلية، نسخة تجريبية عامة لمستخدمي iOS. كان المشروع، الذي يديره مجتمع من المتطوعين، متاحاً سابقاً على Android وF-Droid فقط. يجلب هذا التوسع سير العمل السهل المتمثل في "الإجابة عن أسئلة بسيطة حول محيطك" إلى مستخدمي iPhone لأول مرة. يتم توزيع النسخة التجريبية عبر TestFlight، ويظل المصدر متاحاً على GitHub بموجب رخصة GPL-3.0.
 
 **رأيي**
 
-> After years of iOS users watching Android mappers have all the fun turning 'is there a bench here?' into a competitive sport, StreetComplete finally crosses the platform moat. It's the rare app that makes 'citizen science' feel less like homework and more like Pokémon GO for urban infrastructure nerds. The real win isn't the port — it's proving that open-source map tooling doesn't have to live in a single ecosystem ghetto. More eyes on the map means fewer missing crosswalks for everyone.
+> بعد سنوات من مشاهدة مستخدمي Android وهم يحولون سؤال 'هل يوجد مقعد هنا؟' إلى رياضة تنافسية، عبر StreetComplete أخيراً خندق المنصات. إنه تطبيق نادر يجعل 'علم المواطن' يبدو أقل كأنه واجب مدرسي وأكثر كأنه لعبة Pokémon GO لمهووسي البنية التحتية الحضرية. الانتصار الحقيقي ليس في نقل التطبيق، بل في إثبات أن أدوات الخرائط مفتوحة المصدر لا يجب أن تعيش في غيتو نظام بيئي واحد. المزيد من العيون على الخريطة يعني عدداً أقل من معابر المشاة المفقودة للجميع.
 
 ---
 
-## 6. [Pi Durable](https://earendil.com/posts/pi-durable/)
+## 6. [صمود الـ Pi](https://earendil.com/posts/pi-durable/)
 
-![Pi Durable](https://earendil.com/static/og/posts/pi-durable.png)
+![صمود الـ Pi](https://earendil.com/static/og/posts/pi-durable.png)
 
 **المصدر:** HackerNews  |  **الموضوع:** hn  |  **التغطية:** 1 مصدر  |  [نقاش](https://news.ycombinator.com/item?id=49925969)
 
 **الملخص**
 
-A HackerNews post titled 'Pi Durable' links to earendil.com/posts/pi-durable/, a blog entry on the Earendil project site. Earendil is a decentralized, incentivized mixnet for anonymous communication. The post likely discusses durability improvements or Raspberry Pi deployment for the network, though the exact content is unavailable.
+منشور على HackerNews بعنوان 'Pi Durable' يربط بمقال على مدونة مشروع Earendil. Earendil هي شبكة خلط (mixnet) لامركزية ومحفزة للاتصالات المجهولة. يناقش المنشور على الأرجح تحسينات المتانة أو النشر على أجهزة Raspberry Pi، على الرغم من أن المحتوى الدقيق غير متاح.
 
 **رأيي**
 
-> Another day, another mixnet promising to save us from surveillance capitalism while running on a $35 computer that overheats if you look at it wrong. Earendil's 'Pi Durable' sounds like a survivalist's backup plan: when the grid goes down, you'll still anonymously shitpost from a solar-powered Raspberry Pi taped to a garden gnome. The grounded insight: decentralized anonymity networks live or die by node diversity, not hardware durability — if everyone runs the same cheap SBC in the same cloud region, you've just built a fragile honeypot with extra steps.
+> يوم آخر، وشبكة خلط أخرى تعدنا بإنقاذنا من رأسمالية المراقبة بينما تعمل على جهاز كمبيوتر سعره 35 دولاراً يسخن إذا نظرت إليه بطريقة خاطئة. يبدو مشروع 'Pi Durable' الخاص بـ Earendil كخطة طوارئ لأحد الناجين من الكوارث: عندما تنهار الشبكة الكهربائية، ستظل قادراً على نشر الهراء بشكل مجهول من جهاز Raspberry Pi يعمل بالطاقة الشمسية وملصق على تمثال حديقة. الحقيقة المرة هي: شبكات الخصوصية اللامركزية تعتمد على تنوع العقد، وليس على متانة الأجهزة؛ فإذا كان الجميع يستخدم نفس الكمبيوتر الرخيص في نفس المنطقة السحابية، فأنت قد بنيت مجرد فخ هش ومعقد.
 
 ---
 
@@ -120,14 +120,14 @@ A HackerNews post titled 'Pi Durable' links to earendil.com/posts/pi-durable/, a
 
 **الملخص**
 
-SvelteKit 3 has been released as the latest major version of the full-stack web framework built on Svelte. The update introduces breaking changes, improved server-side rendering, enhanced type safety, and a restructured project architecture. Developers will need to migrate existing applications to adopt the new APIs and conventions.
+تم إطلاق SvelteKit 3 كأحدث إصدار رئيسي لإطار عمل الويب المتكامل المبني على Svelte. يقدم التحديث تغييرات جذرية، وتحسينات في العرض من جانب الخادم (SSR)، وتعزيزًا لأمان الأنواع (Type Safety)، وإعادة هيكلة لمعمارية المشروع. سيتعين على المطورين نقل تطبيقاتهم الحالية لاعتماد واجهات البرمجة والاتفاقيات الجديدة.
 
 **رأيي**
 
-> SvelteKit 3 arrives like that friend who shows up to a party, rearranges all the furniture, and somehow makes the place look better — breaking changes included. The framework continues its tradition of 'we know better than you' API design, which is annoying until you realize they're usually right. The real win? Finally treating TypeScript as a first-class citizen instead of a polite guest. Migration pain is the price of admission for a framework that refuses to accumulate legacy baggage.
+> وصل SvelteKit 3 كأنه ذلك الصديق الذي يقتحم الحفلة، ويعيد ترتيب الأثاث بالكامل، وفجأة يبدو المكان أفضل رغم كل التغييرات الجذرية المزعجة. يستمر إطار العمل في تقاليده القائمة على تصميم واجهات برمجة تطبيقات بنبرة 'نحن نعرف أكثر منك'، وهو أمر مزعج حتى تدرك أنهم عادةً على حق. المكسب الحقيقي؟ أخيرًا التعامل مع TypeScript كمواطن من الدرجة الأولى وليس كضيف مهذب. ألم الهجرة هو ثمن الدخول لإطار عمل يرفض تراكم أعباء الماضي.
 
 ---
 
-*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-10-02 10:55 UTC.*
+*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-10-07 10:46 UTC.*
 
 إعداد: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

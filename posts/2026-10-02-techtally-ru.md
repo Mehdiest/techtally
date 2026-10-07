@@ -28,87 +28,87 @@ _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-est
 
 **Резюме**
 
-The Earendil project has released version 1.0 of its decentralized, censorship-resistant networking protocol. Earendil aims to provide a peer-to-peer overlay network that routes traffic through a mesh of nodes using a custom routing protocol, designed to resist blocking and surveillance. The 1.0 release marks the project's transition from experimental to production-ready software.
+Проект Earendil выпустил версию 1.0 своего децентрализованного, устойчивого к цензуре сетевого протокола. Earendil стремится создать одноранговую оверлейную сеть, которая перенаправляет трафик через ячеистую сеть узлов с помощью собственного протокола маршрутизации, разработанного для противодействия блокировкам и слежке. Релиз 1.0 знаменует переход проекта от экспериментального ПО к готовому к промышленному использованию продукту.
 
 **Моё мнение**
 
-> Another day, another 'censorship-resistant' network launching to save us from the Great Firewall du jour — this one written in Rust because of course it is. The mesh routing is clever, the threat model is thorough, and the 1.0 badge is shiny, but let's be honest: the real attack vector isn't the protocol, it's convincing your non-technical aunt to run a node. Decentralization works great until you remember most people still use 'password123' for their Wi-Fi.
+> Очередной день, очередная «устойчивая к цензуре» сеть, призванная спасти нас от очередного «Великого файрвола» — и, конечно же, написанная на Rust, а как иначе. Ячеистая маршрутизация хитроумна, модель угроз проработана, а плашка «1.0» сияет ярче некуда, но давайте начистоту: настоящий вектор атаки — это не протокол, а попытка убедить вашу тетушку, далекую от технологий, запустить у себя ноду. Децентрализация работает прекрасно, пока вы не вспоминаете, что большинство людей до сих пор ставят «password123» на свой Wi-Fi.
 
 ---
 
-## 2. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+## 2. [Clef: открытые модели принятия решений и новая платформа для RL-тюнинга](https://blog.cloudflare.com/clef-decision-models/)
 
-![Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png)
+![Clef: открытые модели принятия решений и новая платформа для RL-тюнинга](https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника  |  [Обсуждение](https://news.ycombinator.com/item?id=49923692)
 
 **Резюме**
 
-Cloudflare has launched Clef, a family of open-weight decision models accompanied by a new reinforcement learning fine-tuning platform. The release aims to give developers accessible tools for building and customizing models that handle decision-making tasks. Cloudflare positions this as part of its broader push into AI infrastructure at the edge.
+Cloudflare представила Clef — семейство моделей принятия решений с открытыми весами, дополненное новой платформой для тонкой настройки с помощью обучения с подкреплением (RL). Релиз призван дать разработчикам доступные инструменты для создания и кастомизации моделей, отвечающих за принятие решений. Cloudflare позиционирует это как часть своего масштабного наступления на рынок граничных (edge) AI-инфраструктур.
 
 **Моё мнение**
 
-> Cloudflare just dropped open-weight decision models because apparently the world needed more LLMs that can't decide what to order for lunch either. The real flex is the RL fine-tuning platform — finally, a way to teach models to make choices without them hallucinating a career as a motivational speaker. Edge inference for decision models actually makes sense: latency matters when your AI is picking the next token *and* your dinner reservation.
+> Cloudflare выкатила модели с открытыми весами, потому что миру, очевидно, не хватало еще одной кучи LLM, которые не могут решить даже, что заказать на обед. Настоящий козырь — это платформа для RL-тюнинга: наконец-то появился способ научить модели принимать решения, не дожидаясь, пока они возомнят себя мотивационными спикерами. Вычисления на краю (edge inference) для таких моделей — это здравая мысль: задержки критичны, когда ваш ИИ одновременно выбирает следующий токен и пытается забронировать столик на ужин.
 
 ---
 
-## 3. [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256)
+## 3. [Предстоящий переход Git 3.0 на SHA-256 по умолчанию станет дорогостоящей ошибкой](https://blog.gitbutler.com/git-3-sha-256)
 
-![Git 3.0's upcoming SHA-256 default will be a costly mistake](https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/git-3-sha-256.webp)
+![Предстоящий переход Git 3.0 на SHA-256 по умолчанию станет дорогостоящей ошибкой](https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/git-3-sha-256.webp)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника  |  [Обсуждение](https://news.ycombinator.com/item?id=49924179)
 
 **Резюме**
 
-GitButler's blog argues that Git 3.0's planned switch to SHA-256 as the default hash algorithm will impose significant migration costs on the ecosystem. The transition requires new repository formats, tooling updates, and breaks compatibility with existing SHA-1 repositories. The author contends the security benefits don't justify the disruption for most users.
+В блоге GitButler утверждается, что запланированный переход Git 3.0 на SHA-256 в качестве алгоритма хеширования по умолчанию наложит значительные расходы на миграцию для всей экосистемы. Этот переход требует новых форматов репозиториев, обновлений инструментов и нарушает совместимость с существующими репозиториями на базе SHA-1. Автор утверждает, что выигрыш в безопасности не оправдывает такие неудобства для большинства пользователей.
 
 **Моё мнение**
 
-> Git switching to SHA-256 is like replacing every lock in a city because someone picked one in a lab — technically correct, practically chaotic. The SHA-1 collision attack needed 6,500 CPU-years and a nation-state budget; your side project's commit history is safe. The real cost isn't the hash, it's the thousand CI pipelines, Git LFS setups, and 'why is my repo broken?' Slack threads that follow. Sometimes the most secure algorithm is the one that doesn't break everyone's workflow.
+> Переход Git на SHA-256 — это как замена всех замков в городе только потому, что кто-то в лаборатории вскрыл один из них: технически верно, на практике — полный хаос. Для коллизионной атаки на SHA-1 потребовалось 6500 процессорных лет и бюджет целого государства; история коммитов твоего пет-проекта в полной безопасности. Настоящая цена — это не алгоритм хеширования, а тысячи CI-пайплайнов, настройки Git LFS и бесконечные ветки в Slack с вопросом «почему мой репозиторий сломался?». Иногда самый безопасный алгоритм — это тот, который не ломает рабочий процесс всех вокруг.
 
 ---
 
-## 4. [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+## 4. [В ядре Linux обнаружено несколько уязвимостей](https://lwn.net/Articles/1097401/)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника  |  [Обсуждение](https://news.ycombinator.com/item?id=49928121)
 
 **Резюме**
 
-LWN.net reports that multiple new vulnerabilities have been identified in the Linux kernel. The flaws were disclosed through the standard coordinated vulnerability process and affect various kernel subsystems. Patches are being prepared for upstream integration and downstream distribution updates. This follows the regular cadence of kernel security maintenance.
+Как сообщает LWN.net, в ядре Linux выявлено множество новых уязвимостей. Информация о дефектах была раскрыта в рамках стандартного процесса координации уязвимостей; они затрагивают различные подсистемы ядра. Патчи готовятся для интеграции в апстрим и последующего распространения в дистрибутивах. Это вполне обычный ритм обслуживания безопасности ядра.
 
 **Моё мнение**
 
-> Another Tuesday, another batch of CVEs for the kernel that runs the planet — because 'many eyes make all bugs shallow' apparently assumes those eyes aren't exhausted maintainers staring at 30 million lines of C at 2 AM. The real vulnerability is thinking this cycle will ever end. Grounded insight: keep your systems updated and your threat models realistic; the kernel gets patched faster than most proprietary stacks ever will.
+> Очередной вторник, очередная пачка CVE для ядра, на котором держится весь мир. Видимо, принцип «при достаточном количестве глаз все ошибки лежат на поверхности» предполагает, что эти глаза не принадлежат изможденным мейнтейнерам, пялящимся в 30 миллионов строк кода на языке C в два часа ночи. Настоящая уязвимость — это вера в то, что этот цикл когда-нибудь закончится. Здравый смысл: обновляйте системы и не питайте иллюзий относительно угроз; ядро всё равно патчат быстрее, чем любой проприетарный стек.
 
 ---
 
-## 5. [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
+## 5. [StreetComplete теперь в публичной бете на iOS](https://github.com/streetcomplete/StreetComplete/issues/5421)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника  |  [Обсуждение](https://news.ycombinator.com/item?id=49920160)
 
 **Резюме**
 
-StreetComplete, the popular open-source Android app for crowdsourcing OpenStreetMap data through gamified quests, has launched a public beta for iOS. The project, maintained by a volunteer community, previously existed only on Android and F-Droid. This expansion brings its accessible 'answer simple questions about your surroundings' workflow to iPhone users for the first time. The beta is distributed via TestFlight and the source remains on GitHub under GPL-3.0.
+StreetComplete, популярное open-source приложение для Android, которое позволяет собирать данные для OpenStreetMap через игровые квесты, запустило публичную бета-версию для iOS. Проект, поддерживаемый сообществом волонтеров, ранее существовал только на Android и F-Droid. Это расширение впервые дает пользователям iPhone доступ к простому рабочему процессу «отвечай на вопросы об окружающем мире». Бета-версия распространяется через TestFlight, а исходный код остается на GitHub под лицензией GPL-3.0.
 
 **Моё мнение**
 
-> After years of iOS users watching Android mappers have all the fun turning 'is there a bench here?' into a competitive sport, StreetComplete finally crosses the platform moat. It's the rare app that makes 'citizen science' feel less like homework and more like Pokémon GO for urban infrastructure nerds. The real win isn't the port — it's proving that open-source map tooling doesn't have to live in a single ecosystem ghetto. More eyes on the map means fewer missing crosswalks for everyone.
+> После того как пользователи iOS годами смотрели, как Android-картографы превращают вопрос «есть ли здесь скамейка?» в соревновательный спорт, StreetComplete наконец-то преодолел платформенный ров. Это редкое приложение, которое превращает «гражданскую науку» из нудной домашки в некое подобие Pokémon GO для гиков от городской инфраструктуры. Настоящая победа здесь не в самом порте, а в доказательстве того, что инструменты для open-source карт не обязаны гнить в гетто одной экосистемы. Больше глаз на карте — меньше пропущенных «зебр» для всех нас.
 
 ---
 
-## 6. [Pi Durable](https://earendil.com/posts/pi-durable/)
+## 6. [Pi на века](https://earendil.com/posts/pi-durable/)
 
-![Pi Durable](https://earendil.com/static/og/posts/pi-durable.png)
+![Pi на века](https://earendil.com/static/og/posts/pi-durable.png)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника  |  [Обсуждение](https://news.ycombinator.com/item?id=49925969)
 
 **Резюме**
 
-A HackerNews post titled 'Pi Durable' links to earendil.com/posts/pi-durable/, a blog entry on the Earendil project site. Earendil is a decentralized, incentivized mixnet for anonymous communication. The post likely discusses durability improvements or Raspberry Pi deployment for the network, though the exact content is unavailable.
+Пост на HackerNews под названием «Pi Durable» ссылается на запись в блоге проекта Earendil. Earendil — это децентрализованная сеть с системой поощрений (mixnet) для анонимного общения. Вероятно, в посте обсуждаются улучшения стабильности или развертывание сети на Raspberry Pi, хотя точное содержание недоступно.
 
 **Моё мнение**
 
-> Another day, another mixnet promising to save us from surveillance capitalism while running on a $35 computer that overheats if you look at it wrong. Earendil's 'Pi Durable' sounds like a survivalist's backup plan: when the grid goes down, you'll still anonymously shitpost from a solar-powered Raspberry Pi taped to a garden gnome. The grounded insight: decentralized anonymity networks live or die by node diversity, not hardware durability — if everyone runs the same cheap SBC in the same cloud region, you've just built a fragile honeypot with extra steps.
+> Очередной день, очередной микснет, обещающий спасти нас от капитализма слежки, работая при этом на 35-долларовом компьютере, который перегревается, если на него косо посмотреть. «Pi Durable» от Earendil звучит как план выживания для параноиков: когда энергосистема рухнет, вы все равно сможете анонимно постить чушь с Raspberry Pi, примотанного скотчем к садовому гному. Суровая правда: децентрализованные анонимные сети живут за счет разнообразия узлов, а не выносливости железа. Если все запускают одну и ту же дешевую плату в одном и том же облачном регионе, вы просто создали хрупкую приманку для хакеров с лишними заморочками.
 
 ---
 
@@ -120,14 +120,14 @@ A HackerNews post titled 'Pi Durable' links to earendil.com/posts/pi-durable/, a
 
 **Резюме**
 
-SvelteKit 3 has been released as the latest major version of the full-stack web framework built on Svelte. The update introduces breaking changes, improved server-side rendering, enhanced type safety, and a restructured project architecture. Developers will need to migrate existing applications to adopt the new APIs and conventions.
+SvelteKit 3 вышел как новейшая мажорная версия полностекового веб-фреймворка на базе Svelte. Обновление принесло ломающие изменения, улучшенный серверный рендеринг, повышенную типобезопасность и переработанную архитектуру проектов. Разработчикам придется мигрировать существующие приложения, чтобы перейти на новые API и соглашения.
 
 **Моё мнение**
 
-> SvelteKit 3 arrives like that friend who shows up to a party, rearranges all the furniture, and somehow makes the place look better — breaking changes included. The framework continues its tradition of 'we know better than you' API design, which is annoying until you realize they're usually right. The real win? Finally treating TypeScript as a first-class citizen instead of a polite guest. Migration pain is the price of admission for a framework that refuses to accumulate legacy baggage.
+> SvelteKit 3 ворвался в чат как тот самый друг, который приходит на вечеринку, переставляет всю мебель, и — вот ведь незадача — комната начинает выглядеть лучше, несмотря на все поломки. Фреймворк продолжает гнуть линию «мы знаем лучше вас», что бесит до тех пор, пока не понимаешь, что они обычно правы. Настоящая победа? Наконец-то TypeScript здесь не вежливый гость, а полноправный гражданин. Боль от миграции — это плата за вход в клуб фреймворков, которые отказываются тащить за собой груз устаревшего багажа.
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-02 10:55 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-07 10:46 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

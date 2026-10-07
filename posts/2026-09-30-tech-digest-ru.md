@@ -19,87 +19,87 @@ _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-est
 
 **Читайте этот дайджест на:** <a class="lang-pill" href="2026-09-30-tech-digest.html">English</a> <a class="lang-pill" href="2026-09-30-tech-digest-fa.html">فارسی</a> <a class="lang-pill" href="2026-09-30-tech-digest-fr.html">Français</a> <a class="lang-pill" href="2026-09-30-tech-digest-de.html">Deutsch</a> <a class="lang-pill" href="2026-09-30-tech-digest-es.html">Español</a> <a class="lang-pill" href="2026-09-30-tech-digest-zh.html">中文</a> <a class="lang-pill" href="2026-09-30-tech-digest-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-09-30-tech-digest-ar.html">العربية</a>
 
-## 1. [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/)
+## 1. [GPT 6.1 Sol: интеллект уровня Astra за пятую часть цены](https://openai.com/index/introducing-gpt-6-1-sol/)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 2 источников  |  [Обсуждение](https://news.ycombinator.com/item?id=49896586)
 
 **Резюме**
 
-OpenAI has announced GPT 6.1 Sol, a new model claiming performance approaching Google's Astra benchmark at roughly one-fifth the inference cost. The release positions Sol as a cost-optimized alternative for high-end reasoning tasks, though specific benchmark numbers and availability details were not disclosed in the initial announcement.
+OpenAI анонсировала GPT 6.1 Sol — новую модель, производительность которой приближается к бенчмарку Google Astra при стоимости вычислений в пять раз ниже. Релиз позиционирует Sol как экономичную альтернативу для сложных задач, хотя конкретные цифры тестов и детали доступности в первом объявлении не раскрываются.
 
 **Моё мнение**
 
-> OpenAI just pulled the classic 'same intelligence, 80% off' stunt — because nothing says 'we're definitely not panicking about open-source models catching up' like a suspiciously timed 'Sol' release. The name implies sunlight, but the pricing suggests they're feeling the heat from competitors who don't need to recoup a Microsoft-sized GPU mortgage. Grounded insight: when the market leader starts competing on price-per-token instead of raw capability, the commoditization of frontier models has officially arrived.
+> OpenAI провернула классический трюк «тот же интеллект, скидка 80%» — потому что ничто так не кричит «мы ни капли не паникуем из-за того, что open-source модели наступают нам на пятки», как подозрительно вовремя выпущенный «Sol». Название намекает на солнечный свет, но цены выдают, что ребята чувствуют жар от конкурентов, которым не нужно выплачивать ипотеку за GPU размером с Microsoft. Суть проста: когда лидер рынка начинает конкурировать ценой за токен, а не реальными возможностями, это официальный сигнал, что передовые модели стали ширпотребом.
 
 ---
 
-## 2. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+## 2. [Livenerf: Opus 5.5 уже понерфили?](https://github.com/ninjahawk/livenerf)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника  |  [Обсуждение](https://news.ycombinator.com/item?id=49901736)
 
 **Резюме**
 
-Developer ninjahawk released Livenerf, an open-source GitHub project that continuously benchmarks Anthropic's Claude Opus 5.5 model to detect whether its capabilities have been quietly downgraded. The tool runs automated evaluations across reasoning, coding, and creative tasks, publishing results to a public dashboard. The project reflects growing community skepticism about silent model degradation after deployment.
+Разработчик ninjahawk представил Livenerf — open-source проект на GitHub, который непрерывно тестирует модель Claude Opus 5.5 от Anthropic, чтобы отследить, не были ли её возможности тихо урезаны. Инструмент проводит автоматизированные проверки навыков логики, программирования и креативности, публикуя результаты на общедоступном дашборде. Проект отражает растущий скепсис сообщества по поводу скрытой деградации моделей после их внедрения.
 
 **Моё мнение**
 
-> Nothing says 'trust me, bro' like a corporation updating the terms of service while your benchmark scores quietly nosedive. Livenerf is the neighborhood watch for model weights — except the suspect is a 70-billion-parameter black box that gaslights you into thinking you're the one getting dumber. The real insight: if you need a CI pipeline to prove your AI didn't get lobotomized overnight, the vendor relationship is already broken.
+> Ничто так не кричит «поверь мне на слово, бро», как корпорация, обновляющая условия использования в тот момент, когда ваши результаты бенчмарков тихо летят в тартарары. Livenerf — это соседский дозор для весов нейросети, только подозреваемый здесь — черный ящик с 70 миллиардами параметров, который заставляет вас думать, что это вы стали глупее. Главный вывод: если вам нужен CI-пайплайн, чтобы доказать, что ваш ИИ не подвергся лоботомии за одну ночь, значит, отношения с вендором уже мертвы.
 
 ---
 
-## 3. [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+## 3. [Dots: постоянно активные агенты](https://openai.com/index/introducing-dots/)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника  |  [Обсуждение](https://news.ycombinator.com/item?id=49896604)
 
 **Резюме**
 
-OpenAI has announced 'Dots,' a new system of always-on AI agents designed to operate continuously in the background. The product appears to be positioned as persistent autonomous assistants that can handle tasks without constant user prompting. Details on capabilities, availability, and pricing were not immediately disclosed in the announcement.
+OpenAI анонсировала «Dots» — новую систему постоянно активных ИИ-агентов, предназначенных для непрерывной работы в фоновом режиме. Продукт позиционируется как набор автономных помощников, способных выполнять задачи без постоянных указаний пользователя. Подробности о возможностях, доступности и стоимости в анонсе пока не раскрываются.
 
 **Моё мнение**
 
-> OpenAI just invented the digital equivalent of that coworker who never goes home, never sleeps, and constantly Slacks you 'quick question' at 2 AM. 'Always-on agents' sounds revolutionary until you realize we've basically rebranded cron jobs with a personality disorder and a $200/month API bill. The real innovation will be when they build an agent whose only job is to fire the other agents for hallucinating the quarterly budget.
+> OpenAI только что изобрела цифровой аналог того самого коллеги, который никогда не уходит домой, не спит и постоянно пишет тебе в Slack в 2 часа ночи с вопросом «есть минутка?». «Постоянно активные агенты» звучат революционно, пока не понимаешь, что мы просто переименовали планировщик задач (cron jobs), добавив ему расстройство личности и счет за API в $200 в месяц. Настоящая инновация случится, когда они создадут агента, чья единственная работа — увольнять остальных агентов за галлюцинации с квартальным бюджетом.
 
 ---
 
-## 4. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
+## 4. [Как Дели сократил потери электроэнергии с 50 до 5 процентов](https://spectrum.ieee.org/delhi-electricity-loss)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника  |  [Обсуждение](https://news.ycombinator.com/item?id=49892245)
 
 **Резюме**
 
-Delhi's power distribution companies reduced aggregate technical and commercial losses from roughly 50% in the early 2000s to around 5% today through privatization, large-scale smart meter deployment, aggressive anti-theft enforcement, and network modernization. The transformation involved replacing bare conductors with aerial bundled cables, implementing GIS-based asset mapping, and introducing consumer indexing to trace every connection. The turnaround is frequently cited as a rare success story in Indian power sector reform.
+Энергораспределительные компании Дели снизили совокупные технические и коммерческие потери с примерно 50% в начале 2000-х годов до 5% сегодня за счет приватизации, масштабного внедрения «умных» счетчиков, агрессивной борьбы с хищениями и модернизации сети. Трансформация включала замену оголенных проводов на изолированные кабели, внедрение ГИС-картирования активов и индексацию потребителей для контроля каждого подключения. Этот успех часто приводят в пример как редкую историю успеха реформы электроэнергетики в Индии.
 
 **Моё мнение**
 
-> Delhi went from losing half its electrons to petty theft and leaky wires to running a tighter grid than most Silicon Valley server rooms — proof that when you actually bill people for what they use, they magically stop 'borrowing' power. The secret sauce wasn't just smart meters; it was the political will to survive the inevitable riots when you cut off the neighborhood strongman's free AC. Next time a utility CEO claims 'smart grid' is a five-year journey, hand them this case study and a stopwatch.
+> Дели прошел путь от потери половины электричества из-за воровства и дырявых сетей до управления системой, которая работает надежнее большинства серверных в Кремниевой долине. Это доказательство того, что если заставлять людей платить за то, что они потребляют, они волшебным образом перестают «одалживать» энергию. Секрет был не только в умных счетчиках, но и в политической воле пережить неизбежные бунты, когда отключаешь бесплатный кондиционер местному авторитету. В следующий раз, когда CEO будет ныть, что переход на «умные сети» занимает пять лет, дайте ему этот кейс и секундомер.
 
 ---
 
-## 5. [Ask HN: What are you reading?](https://news.ycombinator.com/item?id=49893157)
+## 5. [Ask HN: Что вы читаете?](https://news.ycombinator.com/item?id=49893157)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника
 
 **Резюме**
 
-A Hacker News community thread titled 'Ask HN: What are you reading?' garnered 245 upvotes and 513 comments as users shared book recommendations spanning technical manuals, sci-fi novels, history, and philosophy. The recurring discussion format serves as an informal cultural barometer for the tech community's intellectual interests beyond code.
+Ветка на Hacker News под названием 'Ask HN: What are you reading?' набрала 245 голосов и 513 комментариев: пользователи делились рекомендациями книг, от технических руководств до научной фантастики, истории и философии. Этот регулярный формат дискуссий служит неформальным культурным барометром, отражающим интеллектуальные интересы тех-сообщества за пределами кода.
 
 **Моё мнение**
 
-> Nothing says 'I'm a 10x engineer' like casually dropping that you're re-reading Knuth for fun while the rest of us struggle through 'Atomic Habits' for the third time. The thread is basically a peacocking contest where the plumage is made of obscure systems papers and 1970s Russian sci-fi. But underneath the performative bibliophilia, there's a genuine truth: the best developers read widely because software doesn't exist in a vacuum — it lives in history, economics, and human psychology.
+> Ничто так не кричит 'я 10x-инженер', как небрежное упоминание о том, что вы перечитываете Кнута ради удовольствия, пока остальные из нас в третий раз мучают 'Атомные привычки'. По сути, эта ветка — конкурс павлинов, чьи хвосты сотканы из малоизвестных системных исследований и советской фантастики 70-х. Но за этим перформансом скрывается истина: лучшие разработчики читают много, потому что софт не существует в вакууме — он живет в истории, экономике и человеческой психологии.
 
 ---
 
-## 6. [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit)
+## 6. [Эксплойт PS5 «Relapse»](https://github.com/ntfargo/Relapse-Exploit)
 
 **Источник:** HackerNews  |  **Тема:** hn  |  **Охват:** 1 источника  |  [Обсуждение](https://news.ycombinator.com/item?id=49895304)
 
 **Резюме**
 
-A new PS5 exploit named "Relapse" has been published on GitHub by developer ntfargo, potentially enabling homebrew and unauthorized software execution on Sony's console. The exploit targets a vulnerability in the PS5's system software, though specific affected firmware versions have not been detailed. This continues the ongoing cat-and-mouse dynamic between console manufacturers and the hacking community. If verified, it could allow users to run unsigned code, emulators, and custom applications on the platform.
+Разработчик ntfargo опубликовал на GitHub новый эксплойт для PS5 под названием «Relapse», который потенциально позволяет запускать homebrew и неавторизованное ПО на консоли Sony. Уязвимость затрагивает системное ПО PS5, хотя конкретные версии прошивок пока не уточняются. Это очередной раунд бесконечной игры в кошки-мышки между производителями консолей и хакерским сообществом. Если работоспособность подтвердится, пользователи смогут запускать неподписанный код, эмуляторы и пользовательские приложения.
 
 **Моё мнение**
 
-> Sony's security team must feel like they're playing whack-a-mole with a mole that's read Sun Tzu — every time they patch a hole, three more pop up wearing tiny hacker hoodies. The "Relapse" name is chef's kiss marketing: it implies the console fell off the wagon and started mainlining homebrew again. At this rate, the PS5's security model has more holes than a speedrunner's logic. Grounded insight: console exploits inevitably arrive, but the real winners are the preservationists who'll use this to archive games long after Sony's servers go dark.
+> Служба безопасности Sony, должно быть, чувствует себя так, будто играет в «убей крота», только крот прочитал «Искусство войны» Сунь-цзы: на каждый закрытый патчем дырявый участок вылезают еще три в крошечных хакерских худи. Название «Relapse» (рецидив) — это просто маркетинговый шедевр: намекает на то, что консоль снова сорвалась и подсела на иглу хоумбрю. С такими темпами в системе безопасности PS5 дыр больше, чем логических изъянов в спидранах. Если серьезно: эксплойты для консолей неизбежны, но настоящие победители здесь — архивариусы, которые благодаря этому спасут игры, когда серверы Sony окончательно уйдут в офлайн.
 
 ---
 
@@ -109,14 +109,14 @@ A new PS5 exploit named "Relapse" has been published on GitHub by developer ntfa
 
 **Резюме**
 
-The Tcl Core Team has released Tcl/Tk 9.1, the first feature update to the 9.x series. The release adds native 64-bit integer support across all platforms, a new "ensemble" command for building subcommand dispatchers, improved UTF-8 handling, and numerous performance optimizations. Tk 9.1 brings HiDPI scaling fixes on Windows and macOS, updated themed widgets, and better Wayland compatibility on Linux. The 9.x branch maintains backward compatibility with Tcl 8.6 scripts while modernizing the runtime for contemporary hardware.
+Команда Tcl Core выпустила Tcl/Tk 9.1, первое функциональное обновление серии 9.x. Релиз добавляет нативную поддержку 64-битных целых чисел на всех платформах, новую команду «ensemble» для создания диспетчеров подкоманд, улучшенную обработку UTF-8 и множество оптимизаций производительности. Tk 9.1 приносит исправления масштабирования HiDPI в Windows и macOS, обновленные тематические виджеты и лучшую совместимость с Wayland в Linux. Ветка 9.x сохраняет обратную совместимость со скриптами Tcl 8.6, модернизируя среду выполнения для современного оборудования.
 
 **Моё мнение**
 
-> Tcl/Tk 9.1 arrives like that one uncle who still writes COBOL but shows up to Thanksgiving with a VR headset — unexpectedly current, stubbornly alive, and quietly powering half the network gear in your data center. The 64-bit integer overhaul only took three decades, which in enterprise software years counts as 'move fast and break things.' Meanwhile, the HiDPI fixes mean your ancient expect scripts finally render crisp on a 4K monitor, proving that sometimes the most radical innovation is just not breaking everyone's automation. The real lesson: boring, stable runtimes outlive flashy frameworks every single time.
+> Tcl/Tk 9.1 появился подобно тому самому дядюшке, который всё еще пишет на COBOL, но на День благодарения заявляется в VR-шлеме — неожиданно современный, упрямо живой и тихо обеспечивающий работу половины сетевого оборудования в вашем дата-центре. На переход к 64-битным целым числам ушло всего три десятилетия, что по меркам корпоративного ПО считается тем самым «двигайся быстро и ломай границы». Впрочем, исправления HiDPI означают, что ваши древние скрипты expect наконец-то четко отображаются на 4K-мониторе, доказывая, что иногда самая радикальная инновация — это просто ничего не сломать в чужой автоматизации. Главный урок: скучные и стабильные среды выполнения переживут любые модные фреймворки.
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-09-30 13:10 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-07 10:48 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

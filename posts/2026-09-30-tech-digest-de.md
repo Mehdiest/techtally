@@ -61,17 +61,17 @@ OpenAI hat ‚Dots‘ angekündigt, ein neues System immer-aktiver KI-Agenten, d
 
 ---
 
-## 4. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
+## 4. [Wie Delhi den Stromverlust von 50 auf 5 Prozent senkte](https://spectrum.ieee.org/delhi-electricity-loss)
 
 **Quelle:** HackerNews  |  **Thema:** hn  |  **Abdeckung:** 1 Quelle  |  [Diskussion](https://news.ycombinator.com/item?id=49892245)
 
 **Zusammenfassung**
 
-Delhi's power distribution companies reduced aggregate technical and commercial losses from roughly 50% in the early 2000s to around 5% today through privatization, large-scale smart meter deployment, aggressive anti-theft enforcement, and network modernization. The transformation involved replacing bare conductors with aerial bundled cables, implementing GIS-based asset mapping, and introducing consumer indexing to trace every connection. The turnaround is frequently cited as a rare success story in Indian power sector reform.
+Die Stromversorger in Delhi haben ihre technischen und kommerziellen Gesamtverluste von etwa 50 % Anfang der 2000er Jahre auf heute rund 5 % gesenkt – durch Privatisierung, den großflächigen Einsatz intelligenter Zähler, konsequente Maßnahmen gegen Stromdiebstahl und die Modernisierung des Netzes. Die Umgestaltung umfasste den Austausch blanker Leitungen durch gebündelte Luftkabel, die Implementierung einer GIS-basierten Anlagenkartierung und die Einführung einer Verbraucherindexierung, um jeden Anschluss nachverfolgen zu können. Der Turnaround gilt als seltene Erfolgsgeschichte der indischen Energiereform.
 
 **Mein Fazit**
 
-> Delhi went from losing half its electrons to petty theft and leaky wires to running a tighter grid than most Silicon Valley server rooms — proof that when you actually bill people for what they use, they magically stop 'borrowing' power. The secret sauce wasn't just smart meters; it was the political will to survive the inevitable riots when you cut off the neighborhood strongman's free AC. Next time a utility CEO claims 'smart grid' is a five-year journey, hand them this case study and a stopwatch.
+> Delhi hat den Wandel geschafft: Von der Hälfte der Elektronen, die durch Diebstahl und marode Leitungen verschwanden, hin zu einem Netz, das besser läuft als die Serverräume im Silicon Valley. Der Beweis: Wenn man den Leuten endlich in Rechnung stellt, was sie verbrauchen, hören sie auf, sich „auszuleihen“. Das Geheimrezept waren nicht nur smarte Zähler, sondern der politische Wille, die unvermeidlichen Unruhen auszusitzen, wenn dem lokalen Platzhirsch der kostenlose Strom für die Klimaanlage abgedreht wird. Wenn das nächste Mal ein CEO behauptet, ein „Smart Grid“ sei ein Fünfjahresplan, gebt ihm diese Fallstudie und eine Stoppuhr.
 
 ---
 
@@ -117,6 +117,6 @@ Das Tcl Core Team hat Tcl/Tk 9.1 veröffentlicht, das erste Feature-Update der 9
 
 ---
 
-*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-09-30 13:10 UTC.*
+*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-07 10:48 UTC.*
 
 Kuratiert von: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

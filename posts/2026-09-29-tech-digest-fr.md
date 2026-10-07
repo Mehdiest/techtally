@@ -33,31 +33,31 @@ Les images satellites mises à jour sur Google Maps révèlent une destruction �
 
 ---
 
-## 2. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+## 2. [Pirater les pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
 
 **Source:** HackerNews  |  **Sujet:** hn  |  **Couverture:** 1 source
 
 **Résumé**
 
-Film streaming platform Mubi published an article titled "Pirating the Pirates" examining the recursive nature of digital piracy where pirated content itself gets pirated and redistributed. The piece explores how unauthorized copies spawn further unauthorized ecosystems, creating a shadow distribution network that mirrors legitimate supply chains. This meta-piracy phenomenon highlights the near-impossibility of controlling digital content once it escapes authorized channels.
+La plateforme de streaming Mubi a publié un article intitulé « Pirater les pirates » qui examine la nature récursive du piratage numérique, où le contenu piraté est lui-même piraté et redistribué. L'article explore comment les copies non autorisées engendrent d'autres écosystèmes illégaux, créant un réseau de distribution fantôme qui reflète les chaînes d'approvisionnement légitimes. Ce phénomène de méta-piratage souligne l'impossibilité quasi totale de contrôler le contenu numérique une fois qu'il a échappé aux canaux autorisés.
 
 **Mon avis**
 
-> Nothing says 'the internet remains undefeated' like pirates getting their own loot stolen — it's the matryoshka doll of copyright infringement, each layer more compressed and watermarked than the last. The scene groups probably have better version control and distribution logistics than half the legitimate streaming services charging you $15/month for 'curated' libraries that rotate faster than a sushi conveyor belt. At this point, the only winning move is accepting that digital scarcity is a polite fiction we all agree to maintain for the sake of quarterly earnings calls.
+> Rien ne prouve mieux que « l'internet reste invaincu » que des pirates qui se font piquer leur butin. C'est la poupée russe de la violation du droit d'auteur, chaque couche étant plus compressée et remplie de watermarks que la précédente. Les groupes de release ont probablement une meilleure gestion de version et une logistique de distribution plus efficace que la moitié des services de streaming légaux qui vous facturent 15 $ par mois pour des bibliothèques « sélectionnées » qui tournent plus vite qu'un tapis roulant de sushis. À ce stade, la seule stratégie gagnante est d'admettre que la rareté numérique est une fiction polie que nous acceptons tous de maintenir pour le bien des appels de résultats trimestriels.
 
 ---
 
-## 3. [It's Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
+## 3. [Il est temps d'enquêter sur les laboratoires d'IA](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
 
 **Source:** HackerNews  |  **Sujet:** hn  |  **Couverture:** 1 source
 
 **Résumé**
 
-Computer science professor and author Cal Newport publishes an essay arguing that AI laboratories require formal investigation due to their opaque development practices, societal risks, and lack of accountability. Newport contends that current self-regulation is insufficient and that external oversight is needed to address safety, labor displacement, and concentration of power. The piece adds to growing calls from academics, policymakers, and former industry insiders for structural regulation of frontier AI development.
+Cal Newport, professeur d'informatique et auteur, publie un essai affirmant que les laboratoires d'IA nécessitent une enquête formelle en raison de leurs pratiques de développement opaques, des risques sociétaux et d'un manque de responsabilité. Newport soutient que l'autorégulation actuelle est insuffisante et qu'une surveillance externe est nécessaire pour traiter les questions de sécurité, de remplacement de la main-d'œuvre et de concentration du pouvoir. Ce texte s'ajoute aux appels croissants d'universitaires, de décideurs et d'anciens du secteur en faveur d'une régulation structurelle du développement de l'IA de pointe.
 
 **Mon avis**
 
-> Cal Newport just served the AI labs a subpoena written in complete sentences and they're trembling in their GPU clusters. The industry that moved fast and broke things is now moving fast and breaking the social contract, then acting surprised when adults show up with clipboards. Self-regulation in AI is like letting a toddler grade their own homework — the answer key is always 'I did great' written in crayon. The grounded insight: meaningful oversight won't come from voluntary commitments, it'll come from liability frameworks that make cutting corners more expensive than doing the work.
+> Cal Newport vient de servir aux laboratoires d'IA une assignation rédigée en bonne et due forme, et ils tremblent déjà dans leurs clusters de GPU. Cette industrie, qui a bâti son succès sur le « bouger vite et casser des trucs », est en train de casser le contrat social et fait mine d'être surprise de voir débarquer des adultes avec des dossiers. L'autorégulation dans l'IA, c'est comme laisser un gamin noter ses propres devoirs : le corrigé, écrit au crayon de couleur, sera toujours « J'ai tout bon ». La réalité, c'est qu'une vraie surveillance ne viendra pas d'engagements volontaires, mais de cadres de responsabilité qui rendront le fait de couper les coins ronds plus coûteux que de faire le travail sérieusement.
 
 ---
 
@@ -75,6 +75,6 @@ Les producteurs de raisins de cuvée californiens font face à une crise de surp
 
 ---
 
-*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-09-30 13:10 UTC.*
+*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-07 10:50 UTC.*
 
 Sélectionné par : **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

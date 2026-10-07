@@ -19,62 +19,62 @@ _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal
 
 **इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-09-29-tech-digest.html">English</a> <a class="lang-pill" href="2026-09-29-tech-digest-fa.html">فارسی</a> <a class="lang-pill" href="2026-09-29-tech-digest-fr.html">Français</a> <a class="lang-pill" href="2026-09-29-tech-digest-de.html">Deutsch</a> <a class="lang-pill" href="2026-09-29-tech-digest-es.html">Español</a> <a class="lang-pill" href="2026-09-29-tech-digest-zh.html">中文</a> <a class="lang-pill" href="2026-09-29-tech-digest-ru.html">Русский</a> <a class="lang-pill" href="2026-09-29-tech-digest-ar.html">العربية</a>
 
-## 1. [Updated Google Maps shows destruction of the city of Rafah](https://twitter.com/AliAbunimah/status/2103890594137309425)
+## 1. [अपडेटेड गूगल मैप्स में रफाह शहर की तबाही दिखाई दे रही है](https://twitter.com/AliAbunimah/status/2103890594137309425)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-Updated satellite imagery on Google Maps reveals extensive destruction across Rafah, a city in southern Gaza. The new imagery serves as a visual record of the impact of military operations in the area. Researchers, journalists, and humanitarian organizations increasingly rely on commercial satellite platforms to document conflict zones in near real-time.
+गूगल मैप्स पर अपडेट की गई सैटेलाइट तस्वीरों से गाजा के दक्षिणी शहर रफाह में व्यापक तबाही का पता चलता है। ये नई तस्वीरें क्षेत्र में सैन्य अभियानों के प्रभाव का एक दृश्य प्रमाण हैं। शोधकर्ता, पत्रकार और मानवीय संगठन संघर्ष वाले क्षेत्रों को लगभग वास्तविक समय में दर्ज करने के लिए व्यावसायिक सैटेलाइट प्लेटफॉर्म पर तेजी से निर्भर हो रहे हैं।
 
 **मेरी राय**
 
-> Google Maps has accidentally become the world's most accessible war crimes archive -- just zoom in and the timestamps tell the story no press release can spin. It's a grim reminder that the same tech we use to find coffee shops now preserves evidence that outlives political narratives. The map doesn't take sides, but it keeps receipts.
+> गूगल मैप्स अनजाने में दुनिया का सबसे सुलभ युद्ध अपराध संग्रह बन गया है—बस ज़ूम इन करें और टाइमस्टैम्प वह कहानी बता देते हैं जिसे कोई भी प्रेस रिलीज़ घुमा-फिरा नहीं सकती। यह एक दुखद याद दिलाता है कि जिस तकनीक का उपयोग हम कॉफी शॉप खोजने के लिए करते हैं, वही अब ऐसे सबूत सहेज रही है जो राजनीतिक नैरेटिव से कहीं ज्यादा लंबे समय तक टिकेंगे। मैप किसी का पक्ष नहीं लेता, लेकिन वह हिसाब जरूर रखता है।
 
 ---
 
-## 2. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+## 2. [पाइरेट्स की पायरेसी](https://mubi.com/en/notebook/posts/pirating-the-pirates)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-Film streaming platform Mubi published an article titled "Pirating the Pirates" examining the recursive nature of digital piracy where pirated content itself gets pirated and redistributed. The piece explores how unauthorized copies spawn further unauthorized ecosystems, creating a shadow distribution network that mirrors legitimate supply chains. This meta-piracy phenomenon highlights the near-impossibility of controlling digital content once it escapes authorized channels.
+फिल्म स्ट्रीमिंग प्लेटफॉर्म Mubi ने "Pirating the Pirates" शीर्षक से एक लेख प्रकाशित किया है, जो डिजिटल पायरेसी की उस पुनरावर्ती प्रकृति की जांच करता है जहाँ पायरेटेड सामग्री खुद पायरेट होकर फिर से वितरित की जाती है। यह लेख बताता है कि कैसे अनधिकृत प्रतियां और अधिक अनधिकृत इकोसिस्टम को जन्म देती हैं, जो वैध आपूर्ति श्रृंखलाओं को दर्शाने वाला एक छाया वितरण नेटवर्क बनाती हैं। यह मेटा-पायरेसी घटना इस बात को उजागर करती है कि एक बार डिजिटल सामग्री अधिकृत चैनलों से बाहर निकल जाए, तो उसे नियंत्रित करना लगभग असंभव है।
 
 **मेरी राय**
 
-> Nothing says 'the internet remains undefeated' like pirates getting their own loot stolen — it's the matryoshka doll of copyright infringement, each layer more compressed and watermarked than the last. The scene groups probably have better version control and distribution logistics than half the legitimate streaming services charging you $15/month for 'curated' libraries that rotate faster than a sushi conveyor belt. At this point, the only winning move is accepting that digital scarcity is a polite fiction we all agree to maintain for the sake of quarterly earnings calls.
+> पाइरेट्स का अपना माल चोरी हो जाने से बेहतर यह साबित करने का कोई तरीका नहीं है कि 'इंटरनेट को हराया नहीं जा सकता' — यह कॉपीराइट उल्लंघन की रशियन डॉल है, जिसकी हर परत पिछली वाली से ज्यादा कंप्रेस्ड और वॉटरमार्क वाली है। सीन ग्रुप्स के पास शायद उन वैध स्ट्रीमिंग सेवाओं से बेहतर वर्जन कंट्रोल और डिस्ट्रीब्यूशन लॉजिस्टिक्स है, जो आपसे 'क्यूरेटेड' लाइब्रेरी के लिए $15/महीना वसूलती हैं, जो सुशी कन्वेयर बेल्ट से भी तेज घूमती है। इस मोड़ पर, एकमात्र जीतने वाली चाल यह स्वीकार करना है कि डिजिटल दुर्लभता एक विनम्र कल्पना है जिसे हम सभी तिमाही कमाई कॉल्स के लिए बनाए रखने पर सहमत हैं।
 
 ---
 
-## 3. [It's Time to Investigate the AI Labs](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
+## 3. [AI लैब्स की जांच का समय आ गया है](https://calnewport.com/its-time-to-investigate-the-ai-labs/)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-Computer science professor and author Cal Newport publishes an essay arguing that AI laboratories require formal investigation due to their opaque development practices, societal risks, and lack of accountability. Newport contends that current self-regulation is insufficient and that external oversight is needed to address safety, labor displacement, and concentration of power. The piece adds to growing calls from academics, policymakers, and former industry insiders for structural regulation of frontier AI development.
+कंप्यूटर विज्ञान के प्रोफेसर और लेखक कैल न्यूपोर्ट ने एक निबंध प्रकाशित किया है जिसमें तर्क दिया गया है कि AI प्रयोगशालाओं को उनकी अपारदर्शी विकास प्रथाओं, सामाजिक जोखिमों और जवाबदेही की कमी के कारण औपचारिक जांच की आवश्यकता है। न्यूपोर्ट का तर्क है कि वर्तमान स्व-नियमन अपर्याप्त है और सुरक्षा, श्रम विस्थापन और शक्ति के केंद्रीकरण को संबोधित करने के लिए बाहरी निगरानी की आवश्यकता है। यह लेख शिक्षाविदों, नीति निर्माताओं और उद्योग के पूर्व दिग्गजों की ओर से फ्रंटियर AI विकास के संरचनात्मक विनियमन के लिए उठ रही बढ़ती मांगों में एक और कड़ी है।
 
 **मेरी राय**
 
-> Cal Newport just served the AI labs a subpoena written in complete sentences and they're trembling in their GPU clusters. The industry that moved fast and broke things is now moving fast and breaking the social contract, then acting surprised when adults show up with clipboards. Self-regulation in AI is like letting a toddler grade their own homework — the answer key is always 'I did great' written in crayon. The grounded insight: meaningful oversight won't come from voluntary commitments, it'll come from liability frameworks that make cutting corners more expensive than doing the work.
+> कैल न्यूपोर्ट ने अभी-अभी AI लैब्स को पूर्ण वाक्यों में लिखा हुआ समन थमा दिया है और वे अपने GPU क्लस्टर्स में कांप रहे हैं। जो उद्योग कभी 'तेजी से काम करो और चीजें तोड़ो' (move fast and break things) की नीति पर चलता था, वह अब सामाजिक अनुबंध को तोड़ रहा है और फिर ऐसे नाटक कर रहा है जैसे उसे कोई जानकारी ही नहीं थी। AI में स्व-नियमन वैसा ही है जैसे किसी छोटे बच्चे को अपना होमवर्क खुद जांचने देना — उत्तर कुंजी हमेशा 'मैंने बहुत अच्छा किया' होती है, वह भी क्रेयॉन से लिखी हुई। जमीनी हकीकत यह है कि सार्थक निगरानी स्वैच्छिक प्रतिबद्धताओं से नहीं आएगी, बल्कि जवाबदेही के ऐसे ढांचे से आएगी जो कोना काटने (शॉर्टकट लेने) को सही काम करने से कहीं ज्यादा महंगा बना देगा।
 
 ---
 
-## 4. [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
+## 4. [कैलिफोर्निया के किसान अंगूर बेचने के लिए संघर्ष कर रहे हैं क्योंकि वाइन की मांग गिर गई है](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-California wine grape growers face a severe oversupply crisis as U.S. wine consumption declines for the first time in decades. Younger generations are drinking less alcohol overall, preferring alternatives like cannabis, hard seltzers, and non-alcoholic beverages. The resulting grape glut has driven prices below production costs, forcing some farmers to leave fruit rotting on vines or pull out vineyards entirely.
+कैलिफोर्निया के वाइन अंगूर उत्पादक गंभीर आपूर्ति संकट का सामना कर रहे हैं क्योंकि दशकों में पहली बार अमेरिका में वाइन की खपत कम हुई है। युवा पीढ़ी कुल मिलाकर कम शराब पी रही है और भांग (कैनबिस), हार्ड सेल्टज़र और गैर-अल्कोहलिक पेय जैसे विकल्पों को प्राथमिकता दे रही है। अंगूर की इस अधिकता ने कीमतों को उत्पादन लागत से भी नीचे गिरा दिया है, जिससे कुछ किसानों को अंगूरों को बेलों पर ही सड़ने के लिए छोड़ने या पूरी तरह से अंगूर के बाग उखाड़ने पर मजबूर होना पड़ा है।
 
 **मेरी राय**
 
-> Turns out Gen Z would rather microdose edibles than pretend to taste 'notes of leather and tobacco' in a $40 bottle of fermented grape juice. The wine industry spent 30 years convincing everyone they needed a sommelier to enjoy dinner, only to discover the next generation just wants a White Claw and a vape pen. The real vintage here isn't 2019 Cabernet — it's the industry's refusal to admit that 'premiumization' was just a fancy word for 'we raised prices until you stopped buying.'
+> पता चला है कि जेन ज़ी 40 डॉलर की बोतल में 'चमड़े और तंबाकू के स्वाद' का नाटक करने के बजाय एडिबल्स लेना पसंद करती है। वाइन उद्योग ने यह समझाने में 30 साल लगा दिए कि रात के खाने का आनंद लेने के लिए आपको एक सोमेलियर (वाइन विशेषज्ञ) की जरूरत है, और अंत में उन्हें पता चला कि अगली पीढ़ी को बस एक व्हाइट क्लॉ और वेप पेन चाहिए। यहां असली विंटेज 2019 कैबरनेट नहीं है, बल्कि उद्योग का यह मानने से इनकार है कि 'प्रीमियमाइजेशन' सिर्फ एक फैंसी शब्द था जिसका मतलब था - 'हमने कीमतें तब तक बढ़ाईं जब तक आपने खरीदना बंद नहीं कर दिया।'
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-09-30 13:10 UTC पर स्वतः जनरेट किया गया।*
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-07 10:50 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

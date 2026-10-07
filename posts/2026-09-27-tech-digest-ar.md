@@ -20,126 +20,126 @@ _إعداد [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a671
 
 **هذا الملخص متوفر أيضًا باللغات:** <a class="lang-pill" href="2026-09-27-tech-digest.html">English</a> <a class="lang-pill" href="2026-09-27-tech-digest-fa.html">فارسی</a> <a class="lang-pill" href="2026-09-27-tech-digest-fr.html">Français</a> <a class="lang-pill" href="2026-09-27-tech-digest-de.html">Deutsch</a> <a class="lang-pill" href="2026-09-27-tech-digest-es.html">Español</a> <a class="lang-pill" href="2026-09-27-tech-digest-zh.html">中文</a> <a class="lang-pill" href="2026-09-27-tech-digest-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-09-27-tech-digest-ru.html">Русский</a>
 
-## 1. [Running a serverless AI code review agent on AWS Lambda with PR-Agent and CDK](https://dev.to/naorpeled/running-a-serverless-ai-code-review-agent-on-aws-lambda-with-pr-agent-and-cdk-40gd)
+## 1. [تشغيل وكيل مراجعة الكود بالذكاء الاصطناعي بدون خادم على AWS Lambda باستخدام PR-Agent وCDK](https://dev.to/naorpeled/running-a-serverless-ai-code-review-agent-on-aws-lambda-with-pr-agent-and-cdk-40gd)
 
-![Running a serverless AI code review agent on AWS Lambda with PR-Agent and CDK](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd6uc1opq3kmertbnvha9.png)
-
-**المصدر:** Dev.to  |  **الموضوع:** dev  |  **التغطية:** 1 مصدر
-
-**الملخص**
-
-Naor Peled published a tutorial on Dev.to demonstrating how to deploy PR-Agent, an open-source AI code review tool, as a serverless application on AWS Lambda using the AWS CDK. PR-Agent integrates with Git providers to automatically review pull requests, update descriptions, and respond to slash commands, supporting various AI model providers including local models. The guide covers the complete infrastructure-as-code setup for self-hosting the agent, offering teams an alternative to SaaS code review services.
-
-**رأيي**
-
-> Nothing says 'we take code quality seriously' like spinning up a Lambda function to have an LLM nitpick your variable names at 2 AM. Self-hosting PR-Agent on AWS is the infrastructure equivalent of hiring a robot intern who works for pennies but occasionally hallucinates a security vulnerability in your README. The CDK abstraction makes it deceptively easy to deploy, but remember: you're now responsible for the compute bill when the agent decides your 500-file monorepo PR needs a line-by-line haiku review. The real win here isn't the AI — it's owning the prompt engineering so your team's weird conventions don't leak into someone else's training data.
-
----
-
-## 2. [I Built an AI Agent That Troubleshoots Docker Containers in Plain English (Here's How)](https://dev.to/nagarjuna155/i-built-an-ai-agent-that-troubleshoots-docker-containers-in-plain-english-heres-how-1c6p)
+![تشغيل وكيل مراجعة الكود بالذكاء الاصطناعي بدون خادم على AWS Lambda باستخدام PR-Agent وCDK](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fd6uc1opq3kmertbnvha9.png)
 
 **المصدر:** Dev.to  |  **الموضوع:** dev  |  **التغطية:** 1 مصدر
 
 **الملخص**
 
-Dev.to author Nagarjuna built an AI agent that automates Docker container troubleshooting by accepting plain English queries like "why did the nginx container stop?" The agent executes the typical investigation loop — listing containers, inspecting logs, checking events — that developers normally perform manually at 2 AM. The post details the architecture, implementation challenges, and bugs encountered during development.
+نشر ناور بيليد دليلاً تعليمياً على Dev.to يوضح كيفية نشر PR-Agent، وهو أداة مفتوحة المصدر لمراجعة الكود تعتمد على الذكاء الاصطناعي، كتطبيق بدون خادم (serverless) على AWS Lambda باستخدام AWS CDK. يتكامل PR-Agent مع مزودي خدمات Git لمراجعة طلبات السحب تلقائياً، وتحديث الأوصاف، والاستجابة للأوامر المائلة، مع دعم مختلف مزودي نماذج الذكاء الاصطناعي بما في ذلك النماذج المحلية. يغطي الدليل إعداد البنية التحتية ككود بالكامل لاستضافة الوكيل ذاتياً، مما يوفر للفرق بديلاً عن خدمات مراجعة الكود القائمة على SaaS.
 
 **رأيي**
 
-> Finally, an AI that does the 2 AM ssh dance so you don't have to — because nothing says 'senior engineer' like outsourcing your `docker logs --tail 200` typos to a language model. The real innovation here isn't the LLM wrapper, it's admitting that half of DevOps is just grepping through garbage logs while questioning your career choices. Just remember: the agent only knows what the containers tell it, and containers lie like politicians on a debate stage.
+> لا شيء يصرخ بعبارة 'نحن نأخذ جودة الكود على محمل الجد' مثل تشغيل وظيفة Lambda في الساعة الثانية صباحاً لكي يقوم نموذج لغوي ضخم (LLM) بانتقاد أسماء المتغيرات لديك. إن الاستضافة الذاتية لـ PR-Agent على AWS تشبه توظيف متدرب آلي يعمل بفتات الخبز لكنه يعاني أحياناً من هلوسات حول ثغرات أمنية وهمية في ملف README الخاص بك. تجعل تجريدات CDK النشر يبدو سهلاً بشكل مخادع، لكن تذكر: أنت المسؤول عن فاتورة الحوسبة عندما يقرر الوكيل أن طلب السحب الخاص بك المكون من 500 ملف يحتاج إلى مراجعة سطر بسطر على شكل قصائد هايكو. المكسب الحقيقي هنا ليس الذكاء الاصطناعي، بل امتلاك هندسة الأوامر (prompt engineering) لضمان عدم تسرب اصطلاحات فريقك الغريبة إلى بيانات تدريب شخص آخر.
 
 ---
 
-## 3. [We Ran 100 Microservices on a 16GB Laptop. No Kubernetes.](https://dev.to/mynameis0d3c53a3/we-ran-100-microservices-on-a-16gb-laptop-no-kubernetes-590e)
-
-![We Ran 100 Microservices on a 16GB Laptop. No Kubernetes.](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy0016tm6dlqjhc9a19jr.png)
+## 2. [لقد قمت ببناء وكيل ذكاء اصطناعي يقوم بإصلاح مشاكل حاويات Docker باللغة الإنجليزية البسيطة (إليك الطريقة)](https://dev.to/nagarjuna155/i-built-an-ai-agent-that-troubleshoots-docker-containers-in-plain-english-heres-how-1c6p)
 
 **المصدر:** Dev.to  |  **الموضوع:** dev  |  **التغطية:** 1 مصدر
 
 **الملخص**
 
-A team built TDK (Tilt Development Kit) to test running 100 microservices locally on a 16GB laptop without Kubernetes. They used a synthetic but realistic ERP system with seven business domains where each service declares itself in a small manifest. The experiment demonstrates how far local development can scale before requiring a cluster infrastructure.
+قام الكاتب Nagarjuna على موقع Dev.to ببناء وكيل ذكاء اصطناعي يعمل على أتمتة استكشاف أخطاء حاويات Docker وإصلاحها من خلال قبول استعلامات باللغة الإنجليزية البسيطة مثل "لماذا توقفت حاوية nginx؟". يقوم الوكيل بتنفيذ حلقة التحقيق المعتادة — سرد الحاويات، فحص السجلات، التحقق من الأحداث — وهي المهام التي يقوم بها المطورون عادةً يدويًا في الساعة الثانية صباحًا. يوضح المنشور البنية التحتية، وتحديات التنفيذ، والأخطاء التي تمت مواجهتها أثناء التطوير.
 
 **رأيي**
 
-> The industry spent a decade convincing us you need a $50k/month Kubernetes cluster just to run "Hello World" across three services, so watching 100 services hum on a laptop that costs less than a single AWS NAT gateway is the kind of heresy that makes platform engineers reach for their stress balls. TDK essentially said "hold my beer" to the entire CNCF landscape by treating service manifests like LEGO instructions instead of YAML theology. The grounded insight: local-first tooling that respects your RAM budget beats cluster-first dogma every time — especially when onboarding a new hire shouldn't require a PhD in distributed systems troubleshooting.
+> أخيرًا، ذكاء اصطناعي يقوم برقصة الـ ssh في الساعة الثانية صباحًا نيابةً عنك — لأنه لا شيء يصرخ بلقب "مهندس أول" مثل إسناد أخطاء الطباعة في أمر `docker logs --tail 200` إلى نموذج لغوي. الابتكار الحقيقي هنا ليس في تغليف النموذج اللغوي (LLM)، بل في الاعتراف بأن نصف عمل الـ DevOps هو مجرد البحث في سجلات البيانات المهملة بينما تتساءل عن خياراتك المهنية. فقط تذكر: الوكيل لا يعرف إلا ما تخبره به الحاويات، والحاويات تكذب مثل السياسيين على منصة المناظرات.
 
 ---
 
-## 4. [From Messy Rows to Management Decisions: Building a Power BI Solution for JCars Logistics](https://dev.to/brian_mugo/-from-messy-rows-to-management-decisions-building-a-power-bi-solution-for-jcars-logistics-25jk)
+## 3. [قمنا بتشغيل 100 خدمة مصغرة على حاسوب محمول بذاكرة 16 جيجابايت. بدون Kubernetes.](https://dev.to/mynameis0d3c53a3/we-ran-100-microservices-on-a-16gb-laptop-no-kubernetes-590e)
 
-![From Messy Rows to Management Decisions: Building a Power BI Solution for JCars Logistics](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffazx9vo075kfd51j4qny.png)
+![قمنا بتشغيل 100 خدمة مصغرة على حاسوب محمول بذاكرة 16 جيجابايت. بدون Kubernetes.](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy0016tm6dlqjhc9a19jr.png)
 
 **المصدر:** Dev.to  |  **الموضوع:** dev  |  **التغطية:** 1 مصدر
 
 **الملخص**
 
-A developer documents the end-to-end process of building a Power BI solution for JCars Logistics, a Kenyan vehicle sales and delivery company. The project started with a deliberately corrupted CSV file containing 276 rows and 32 columns, requiring a full data pipeline including auditing, cleaning, validation, modeling, calculation, and visualization to produce an executive dashboard, detailed report, and data-backed recommendations.
+قامت مجموعة من المطورين ببناء TDK (Tilt Development Kit) لاختبار تشغيل 100 خدمة مصغرة محلياً على حاسوب محمول بسعة 16 جيجابايت دون الحاجة إلى Kubernetes. استخدموا نظام ERP اصطناعي ولكنه واقعي مكون من سبعة مجالات عمل، حيث تعرّف كل خدمة عن نفسها في ملف بيان صغير. يوضح هذا التجربة إلى أي مدى يمكن توسيع نطاق التطوير المحلي قبل الحاجة إلى بنية تحتية تعتمد على العناقيد (Clusters).
 
 **رأيي**
 
-> Nothing quite says 'welcome to data engineering' like receiving a CSV that's been sabotaged on purpose — it's the digital equivalent of a trust fall where the floor is also lying to you. The 276-row 'messy rows to management decisions' journey is basically every analyst's origin story: you don't analyze data, you negotiate with it until it confesses. The real skill isn't DAX or Power Query; it's developing the patience to ask 'what does this row even mean?' thirty-two times before lunch. Grounded insight: if your data dictionary is longer than your dataset, you're not building a dashboard — you're writing a mystery novel.
+> قضت الصناعة عقداً كاملاً في إقناعنا بأنك بحاجة إلى عنقود Kubernetes بتكلفة 50 ألف دولار شهرياً لمجرد تشغيل "Hello World" عبر ثلاث خدمات. لذا، فإن مشاهدة 100 خدمة تعمل بسلاسة على حاسوب محمول أرخص من بوابة AWS NAT واحدة هو نوع من الهرطقة التي تجعل مهندسي المنصات يبحثون عن كرات الضغط الخاصة بهم. لقد قال نظام TDK عملياً "راقبني" لبيئة CNCF بأكملها من خلال التعامل مع بيانات الخدمات كأنها تعليمات مكعبات LEGO بدلاً من كونها لاهوت YAML. الخلاصة العملية: الأدوات التي تعتمد على الجهاز المحلي وتحترم ميزانية الذاكرة العشوائية الخاصة بك تتفوق دائماً على دوغما "العناقيد أولاً"، خاصة عندما لا يتطلب تعيين موظف جديد الحصول على دكتوراه في استكشاف أخطاء الأنظمة الموزعة.
 
 ---
 
-## 5. [Jev and the Problem With AI That Always Has an Answer](https://dev.to/999thelastpage/jev-and-the-problem-with-ai-that-always-has-an-answer-1k6f)
+## 4. [من صفوف البيانات الفوضوية إلى قرارات الإدارة: بناء حل Power BI لشركة JCars Logistics](https://dev.to/brian_mugo/-from-messy-rows-to-management-decisions-building-a-power-bi-solution-for-jcars-logistics-25jk)
 
-![Jev and the Problem With AI That Always Has an Answer](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F051cs2fef1kjqgbptwo3.png)
+![من صفوف البيانات الفوضوية إلى قرارات الإدارة: بناء حل Power BI لشركة JCars Logistics](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffazx9vo075kfd51j4qny.png)
 
 **المصدر:** Dev.to  |  **الموضوع:** dev  |  **التغطية:** 1 مصدر
 
 **الملخص**
 
-The developers of Jev, an AI-powered resume review tool, discovered that the biggest challenge wasn't getting the model to generate smart-sounding feedback, but teaching it to stay silent when uncertain. Their system previously assigned arbitrary scores like 62 out of 100 with generic advice such as 'strengthen your bullet points,' which proved unhelpful. The breakthrough came not from prompt engineering but from redesigning the system to withhold judgment when confidence was low.
+يوثق أحد المطورين العملية الكاملة لبناء حل Power BI لشركة JCars Logistics، وهي شركة كينية لبيع وتسليم المركبات. بدأ المشروع بملف CSV تالف عمداً يحتوي على 276 صفاً و32 عموداً، مما تطلب بناء خط أنابيب بيانات كامل يشمل التدقيق، والتنظيف، والتحقق، والنمذجة، والحسابات، والتصور لإنتاج لوحة تحكم تنفيذية، وتقرير مفصل، وتوصيات مدعومة بالبيانات.
 
 **رأيي**
 
-> Turns out the smartest thing an AI can say is 'I don't know' — a phrase most LLMs treat like a forbidden spell. We've built an army of overconfident interns who'd rather hallucinate a 62/100 than admit they're clueless about your React hooks. Jev's real innovation is giving the model permission to shut up, which is the grown-up version of 'move fast and break things.' The grounded lesson: accuracy isn't about better answers, it's about knowing when not to answer at all.
+> لا شيء يجسد معنى 'مرحباً بك في هندسة البيانات' أكثر من تلقي ملف CSV تم تخريبه عن قصد؛ فهو المعادل الرقمي لسقوط الثقة حيث تكون الأرضية التي تقف عليها تكذب عليك أيضاً. رحلة الـ 276 صفاً من 'الفوضى إلى قرارات الإدارة' هي باختصار قصة نشأة كل محلل بيانات: أنت لا تحلل البيانات، بل تتفاوض معها حتى تعترف بالحقيقة. المهارة الحقيقية ليست في DAX أو Power Query، بل في تطوير الصبر الكافي لتسأل 'ماذا يعني هذا الصف أصلاً؟' اثنتين وثلاثين مرة قبل الغداء. نصيحة واقعية: إذا كان قاموس بياناتك أطول من مجموعة بياناتك نفسها، فأنت لا تبني لوحة تحكم، بل تكتب رواية بوليسية.
 
 ---
 
-## 6. [Weekly Challenge: The palindromic length](https://dev.to/simongreennet/weekly-challenge-the-palindromic-length-299i)
+## 5. [Jev ومشكلة الذكاء الاصطناعي الذي يملك دائماً إجابة](https://dev.to/999thelastpage/jev-and-the-problem-with-ai-that-always-has-an-answer-1k6f)
+
+![Jev ومشكلة الذكاء الاصطناعي الذي يملك دائماً إجابة](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F051cs2fef1kjqgbptwo3.png)
 
 **المصدر:** Dev.to  |  **الموضوع:** dev  |  **التغطية:** 1 مصدر
 
 **الملخص**
 
-Dev.to contributor Simon Green published his solutions for Weekly Challenge 392, a recurring coding exercise series by Mohammad S. Anwar. The first task requires writing a script to convert a given string into a palindrome by prepending characters. Green implemented his solution in Python first, then translated it to Perl, and notes that no AI tools were used in the process.
+اكتشف مطورو Jev، وهي أداة لمراجعة السير الذاتية مدعومة بالذكاء الاصطناعي، أن التحدي الأكبر لم يكن في جعل النموذج يقدم ملاحظات تبدو ذكية، بل في تعليمه متى يلتزم الصمت عندما يكون غير متأكد. كان نظامهم سابقاً يمنح درجات عشوائية مثل 62 من 100 مع نصائح عامة مثل "عزز نقاطك"، وهو ما ثبت عدم جدواه. جاءت الانفراجة ليس من هندسة الأوامر، بل من إعادة تصميم النظام ليمتنع عن إبداء الرأي عندما تكون ثقته منخفضة.
 
 **رأيي**
 
-> Nothing says 'I enjoy programming for fun' like voluntarily doing homework on weekends and then doing it again in a second language just to prove a point. The palindrome challenge is the coding equivalent of being told to make a sentence read the same backward — so you just staple 'racecar' to the front of everything and call it a day. Green's no-AI disclaimer is the modern developer's version of 'I built this bookshelf myself, no IKEA instructions.' The real insight: constraint-based practice like this builds the pattern-recognition muscle that no Copilot suggestion can replace.
+> اتضح أن أذكى شيء يمكن أن يقوله الذكاء الاصطناعي هو "لا أعرف" — وهي عبارة تعاملها معظم نماذج اللغة الكبيرة وكأنها تعويذة محرمة. لقد بنينا جيشاً من المتدربين المفرطين في الثقة الذين يفضلون اختلاق درجة 62/100 بدلاً من الاعتراف بأنهم يجهلون تماماً كيفية عمل الـ React hooks الخاصة بك. الابتكار الحقيقي في Jev هو منح النموذج الإذن بالصمت، وهي نسخة ناضجة من شعار "تحرك بسرعة واكسر الأشياء". الدرس المستفاد: الدقة لا تتعلق بتقديم إجابات أفضل، بل بمعرفة متى لا تجيب على الإطلاق.
 
 ---
 
-## 7. [Heap vs Stack Memory in C](https://dev.to/codemaster_121482/heap-vs-stack-memory-in-c-4enh)
+## 6. [تحدي الأسبوع: طول المتناظرة (Palindrome)](https://dev.to/simongreennet/weekly-challenge-the-palindromic-length-299i)
 
 **المصدر:** Dev.to  |  **الموضوع:** dev  |  **التغطية:** 1 مصدر
 
 **الملخص**
 
-A Dev.to author publishing under the handle codemaster_121482 posted a beginner-friendly explainer contrasting stack and heap memory in C. The piece targets developers moving from managed runtimes like JavaScript and Node.js to manual memory management. It outlines stack allocation as automatic, fast, and scoped to function calls, while heap allocation requires explicit malloc/free and persists until freed. The article serves as a refresher on fundamentals that underpin performance and safety in systems programming.
+نشر سايمون غرين، المساهم في منصة Dev.to، حلوله لتحدي الأسبوع رقم 392، وهي سلسلة من تمارين البرمجة الدورية التي يقدمها محمد س. أنور. تتطلب المهمة الأولى كتابة نص برمجي لتحويل سلسلة نصية معينة إلى متناظرة عن طريق إضافة أحرف في بدايتها. قام غرين بتنفيذ حله باستخدام لغة بايثون أولاً، ثم ترجمه إلى لغة بيرل، مشيراً إلى أنه لم يستخدم أي أدوات ذكاء اصطناعي في هذه العملية.
 
 **رأيي**
 
-> Nothing says 'welcome to C' like realizing the runtime won't tuck your variables in at night — you have to do it yourself, or watch the heap turn into a memory-leak landfill. The stack is a tidy butler who clears the table the moment you leave the room; the heap is a storage unit you rent, forget to pay for, and eventually get sued over. JavaScript developers treat GC like a cleaning service they never tip, then act surprised when C hands them a broom and a pointer. The grounded insight: understanding ownership and lifetime isn't academic — it's the difference between a program that runs and one that segfaults in production at 3 a.m.
+> لا شيء يصرخ 'أنا أستمتع بالبرمجة للمتعة فقط' مثل القيام بواجب منزلي طوعاً في عطلة نهاية الأسبوع، ثم إعادته بلغة برمجة ثانية فقط لإثبات وجهة نظر. تحدي المتناظرة هو المعادل البرمجي لطلب جعل الجملة تُقرأ بنفس الطريقة من الخلف إلى الأمام، فتقوم ببساطة بلصق كلمة 'racecar' في بداية كل شيء وتنهي الأمر. إخلاء مسؤولية غرين من استخدام الذكاء الاصطناعي هو النسخة العصرية لقول: 'لقد صنعت خزانة الكتب هذه بنفسي، بدون كتيب تعليمات من ايكيا'. الرؤية الحقيقية هنا هي أن الممارسة القائمة على القيود تبني عضلة التعرف على الأنماط التي لا يمكن لأي اقتراح من Copilot استبدالها.
 
 ---
 
-## 8. [How to Build a Personal Agent Marketplace for Claude Code](https://dev.to/teppana88/how-to-build-a-personal-agent-marketplace-for-claude-code-17fp)
+## 7. [الذاكرة المكدسة (Stack) مقابل الذاكرة الكومية (Heap) في لغة C](https://dev.to/codemaster_121482/heap-vs-stack-memory-in-c-4enh)
 
 **المصدر:** Dev.to  |  **الموضوع:** dev  |  **التغطية:** 1 مصدر
 
 **الملخص**
 
-A developer shares their approach to managing over 40 AI agents and skills for Claude Code through a personal marketplace called awave-agents. The system uses a plugin architecture with aw-review as an example, allowing reusable components like reviewers, validators, scripts, and hooks to be maintained centrally and updated across projects. The author demonstrates how to start with a single skill and scale the marketplace as workflow needs grow.
+نشر كاتب على منصة Dev.to تحت اسم codemaster_121482 دليلاً مبسطاً للمبتدئين يوضح الفرق بين الذاكرة المكدسة (Stack) والذاكرة الكومية (Heap) في لغة C. يستهدف المقال المطورين الذين ينتقلون من بيئات التشغيل المدارة مثل JavaScript وNode.js إلى الإدارة اليدوية للذاكرة. يوضح المقال أن التخصيص في الذاكرة المكدسة يكون تلقائياً وسريعاً ومحصوراً في نطاق استدعاءات الدوال، بينما يتطلب التخصيص في الذاكرة الكومية استخدام malloc/free بشكل صريح ويظل موجوداً حتى يتم تحريره يدوياً. يعمل المقال كمراجعة للأساسيات التي تقوم عليها الأداء والأمان في برمجة النظم.
 
 **رأيي**
 
-> Congratulations, you've reinvented npm but for prompt engineering — because nothing says 'mature engineering discipline' like 40 bespoke agents named things like 'fix-my-typescript-sins' and 'please-god-make-this-compile.' The marketplace metaphor is cute until you realize you're now maintaining your own private registry of fragile prompt chains that break every time Anthropic sneezes. Grounded insight: treat these agents like internal libraries — version them, test them, and for the love of Turing, document what they actually do before you forget why 'review-pr-angry-mode' exists.
+> لا شيء يقول 'أهلاً بك في عالم C' مثل إدراكك أن بيئة التشغيل لن تقوم بتغطية متغيراتك ليلاً — عليك القيام بذلك بنفسك، وإلا ستتحول الذاكرة الكومية إلى مكب نفايات لتسريبات الذاكرة. الذاكرة المكدسة تشبه خادماً مرتباً يزيل الطاولة بمجرد مغادرتك الغرفة؛ أما الذاكرة الكومية فهي وحدة تخزين تستأجرها، وتنسى دفع إيجارها، وينتهي بك الأمر بمقاضاتك بسببها. يتعامل مطورو JavaScript مع جامع القمامة (GC) كخدمة تنظيف لا يعطونها بقشيشاً، ثم يتفاجأون عندما تضع لغة C في أيديهم مكنسة ومؤشراً (pointer). الحقيقة المرة: فهم الملكية ودورة حياة البيانات ليس مجرد ترف أكاديمي، بل هو الفرق بين برنامج يعمل بفعالية وبرنامج ينهار (segfault) في بيئة الإنتاج في الساعة الثالثة صباحاً.
 
 ---
 
-*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-09-30 13:12 UTC.*
+## 8. [كيفية بناء سوق وكلاء شخصي لـ Claude Code](https://dev.to/teppana88/how-to-build-a-personal-agent-marketplace-for-claude-code-17fp)
+
+**المصدر:** Dev.to  |  **الموضوع:** dev  |  **التغطية:** 1 مصدر
+
+**الملخص**
+
+شارك أحد المطورين طريقتهم في إدارة أكثر من 40 وكيلاً ذكياً ومهارة لـ Claude Code من خلال سوق شخصي يسمى awave-agents. يستخدم النظام بنية المكونات الإضافية (plugin architecture) مع aw-review كمثال، مما يسمح بصيانة المكونات القابلة لإعادة الاستخدام مثل المراجعين والمدققين والنصوص البرمجية والخطافات (hooks) مركزياً وتحديثها عبر المشاريع. يوضح المؤلف كيفية البدء بمهارة واحدة وتوسيع نطاق السوق مع نمو احتياجات سير العمل.
+
+**رأيي**
+
+> تهانينا، لقد أعدت اختراع npm ولكن لهندسة الأوامر (prompt engineering) — لأنه لا شيء يعبر عن 'الانضباط الهندسي الناضج' مثل وجود 40 وكيلاً مخصصاً بأسماء مثل 'أصلح-خطاياي-في-تايب-سكريبت' و 'أرجوك-يا-إلهي-اجعل-هذا-يُجمع'. استعارة السوق تبدو لطيفة حتى تدرك أنك الآن تدير سجلاً خاصاً بك من سلاسل الأوامر الهشة التي تنهار في كل مرة يعطس فيها Anthropic. نصيحة واقعية: تعامل مع هؤلاء الوكلاء كمكتبات برمجية داخلية — قم بإصدار نسخ منها، واختبرها، وبالله عليك، وثّق ما تفعله فعلياً قبل أن تنسى لماذا تم إنشاء 'review-pr-angry-mode' في المقام الأول.
+
+---
+
+*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-10-07 10:51 UTC.*
 
 إعداد: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

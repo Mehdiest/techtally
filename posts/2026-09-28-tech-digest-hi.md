@@ -19,31 +19,31 @@ _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal
 
 **इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-09-28-tech-digest.html">English</a> <a class="lang-pill" href="2026-09-28-tech-digest-fa.html">فارسی</a> <a class="lang-pill" href="2026-09-28-tech-digest-fr.html">Français</a> <a class="lang-pill" href="2026-09-28-tech-digest-de.html">Deutsch</a> <a class="lang-pill" href="2026-09-28-tech-digest-es.html">Español</a> <a class="lang-pill" href="2026-09-28-tech-digest-zh.html">中文</a> <a class="lang-pill" href="2026-09-28-tech-digest-ru.html">Русский</a> <a class="lang-pill" href="2026-09-28-tech-digest-ar.html">العربية</a>
 
-## 1. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+## 1. [गूगल इतना अजीब कब से हो गया?](https://sancho.bearblog.dev/google-weird/)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-A blog post on HackerNews titled "When did Google get so weird?" sparked significant discussion with over 1,300 upvotes and 740 comments. The article examines Google's recent string of confusing product decisions, abandoned services, and strategic pivots that have left users and developers questioning the company's direction. Commenters debate whether this reflects organizational dysfunction, AI pivot desperation, or the natural evolution of a monopoly that no longer needs to please users.
+HackerNews पर "When did Google get so weird?" शीर्षक वाले एक ब्लॉग पोस्ट ने 1,300 से अधिक अपवोट्स और 740 टिप्पणियों के साथ काफी चर्चा पैदा कर दी है। लेख गूगल के हालिया भ्रमित करने वाले प्रोडक्ट फैसलों, बंद की गई सेवाओं और रणनीतिक बदलावों की जांच करता है, जिसने यूजर्स और डेवलपर्स को कंपनी की दिशा पर सवाल उठाने के लिए मजबूर कर दिया है। कमेंट करने वाले इस बात पर बहस कर रहे हैं कि क्या यह संगठनात्मक शिथिलता, AI की तरफ भागने की हताशा, या एक ऐसे एकाधिकार का स्वाभाविक विकास है जिसे अब यूजर्स को खुश करने की परवाह नहीं है।
 
 **मेरी राय**
 
-> Google has entered its 'eccentric billionaire' phase — buying yachts it never sails, launching half-baked AI features into Search like confetti at a funeral, and killing beloved products with the casual cruelty of a cat knocking glasses off a table. The weirdness isn't a bug; it's what happens when a monopoly runs out of worlds to conquer and starts hallucinating new ones. The grounded insight: when a company's main competition is its own graveyard of abandoned projects, users stop trusting and start migrating.
+> गूगल अब अपने 'सनकी अरबपति' वाले दौर में प्रवेश कर चुका है — ऐसी नौकाएं खरीदना जिन्हें वे कभी चलाते नहीं, सर्च में आधी-अधूरी AI फीचर्स को किसी अंतिम संस्कार में बांटी गई कन्फेटी की तरह उड़ाना, और पसंदीदा प्रोडक्ट्स को मेज से गिलास गिराती बिल्ली की तरह बेरहमी से मार डालना। यह अजीबोगरीब व्यवहार कोई बग नहीं है; यह तब होता है जब एक एकाधिकार के पास जीतने के लिए कोई नई दुनिया नहीं बचती और वह नई काल्पनिक दुनिया के सपने देखने लगता है। असली बात यह है: जब किसी कंपनी का मुख्य मुकाबला उसके खुद के दफन किए गए प्रोजेक्ट्स के कब्रिस्तान से हो, तो यूजर्स भरोसा करना छोड़ देते हैं और दूसरी जगह जाने लगते हैं।
 
 ---
 
-## 2. [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+## 2. [Nvidia स्टॉक में एक बिलियन डॉलर का बकाया](https://colo.to/nvidia-stock-narrative.html)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-A blog post on colo.to titled "Owed a billion dollars in Nvidia stock" examines the narrative around Nvidia's meteoric share-price rise and calculates that certain early stakeholders or contractual counterparties could theoretically be owed roughly a billion dollars in equity appreciation. The analysis traces the company's trajectory from gaming GPU vendor to AI infrastructure monopoly, highlighting how paper gains have vastly outpaced most vesting schedules and lock-up agreements. The piece has drawn significant attention on Hacker News, generating over 300 comments debating the math, the taxonomy of "owed" versus "unrealized," and the broader implications for employee compensation in hyper-growth tech cycles.
+colo.to पर 'Owed a billion dollars in Nvidia stock' शीर्षक वाला एक ब्लॉग पोस्ट Nvidia के शेयर मूल्य में हुई जबरदस्त वृद्धि के पीछे की कहानी का विश्लेषण करता है। इसमें गणना की गई है कि कुछ शुरुआती हितधारकों या अनुबंध पक्षों को सैद्धांतिक रूप से इक्विटी मूल्य वृद्धि में लगभग एक बिलियन डॉलर मिलने चाहिए। यह विश्लेषण गेमिंग GPU विक्रेता से AI इंफ्रास्ट्रक्चर एकाधिकार तक कंपनी की यात्रा को ट्रैक करता है, और बताता है कि कैसे कागजी लाभ अधिकांश वेस्टिंग शेड्यूल और लॉक-अप समझौतों से कहीं आगे निकल गए हैं। इस लेख ने हैकर न्यूज़ पर काफी ध्यान आकर्षित किया है और 300 से अधिक टिप्पणियाँ प्राप्त की हैं, जिनमें गणित, 'बकाया' बनाम 'अवास्तविक' की परिभाषा और हाइपर-ग्रोथ टेक चक्रों में कर्मचारी मुआवजे के व्यापक निहितार्थों पर बहस हो रही है।
 
 **मेरी राय**
 
-> Nothing says "we're living in a simulation" quite like a blog post calculating that someone's theoretical Nvidia lottery ticket is now worth a cool billion — because apparently the only thing growing faster than GPU demand is the creative accounting used to value paper wealth. The comment section is currently a cage match between people who think RSUs are a moral hazard and people who think the author forgot to carry the one on tax withholding. The grounded takeaway: in a market where narrative drives valuation more than cash flow, the only thing more volatile than Nvidia's stock price is the story we tell ourselves about who deserves the upside.
+> कोई भी चीज़ 'हम एक सिमुलेशन में जी रहे हैं' को उस ब्लॉग पोस्ट से बेहतर नहीं दर्शाती, जो यह गणना करता है कि किसी का सैद्धांतिक Nvidia लॉटरी टिकट अब एक बिलियन डॉलर का हो गया है। ऐसा लगता है कि GPU की मांग से भी तेज़ गति से केवल एक ही चीज़ बढ़ रही है और वह है कागजी संपत्ति के मूल्यांकन के लिए इस्तेमाल की जाने वाली रचनात्मक अकाउंटिंग। टिप्पणी अनुभाग वर्तमान में उन लोगों के बीच एक अखाड़ा बना हुआ है जो RSU को नैतिक खतरा मानते हैं और जो सोचते हैं कि लेखक टैक्स विदहोल्डिंग का हिसाब जोड़ना भूल गया। असली सबक यह है: ऐसे बाज़ार में जहाँ नकदी प्रवाह से ज़्यादा कहानी मूल्यांकन तय करती है, Nvidia के स्टॉक मूल्य से भी ज़्यादा अस्थिर केवल वह कहानी है जो हम खुद को सुनाते हैं कि कौन मुनाफ़े का हकदार है।
 
 ---
 
@@ -53,84 +53,84 @@ A blog post on colo.to titled "Owed a billion dollars in Nvidia stock" examines 
 
 **सारांश**
 
-Fireworks AI has launched Ember-1, a new language model available through their inference platform. The release adds to the growing ecosystem of open-weight models optimized for deployment on Fireworks' infrastructure. Details on model architecture, training data, and benchmark performance were published on the company blog.
+Fireworks AI ने Ember-1 लॉन्च किया है, जो उनके इन्फरेंस प्लेटफॉर्म पर उपलब्ध एक नया लैंग्वेज मॉडल है। यह रिलीज़ Fireworks के इंफ्रास्ट्रक्चर पर तैनाती के लिए अनुकूलित ओपन-वेट मॉडल्स के बढ़ते इकोसिस्टम में एक और नाम जोड़ती है। मॉडल आर्किटेक्चर, ट्रेनिंग डेटा और बेंचमार्क प्रदर्शन का विवरण कंपनी के ब्लॉग पर प्रकाशित किया गया है।
 
 **मेरी राय**
 
-> Another day, another model with a campfire name — because nothing says 'cutting-edge AI' like naming it after something that goes out if you don't feed it sticks. Ember-1 joins the endless conga line of 'efficient' models that promise GPT-4 quality at 1/100th the compute, a claim the industry makes with the same reliability as a gym membership in January. Fireworks knows their real product isn't the model — it's the inference engine that makes any model actually affordable to run. The model is just the demo reel.
+> एक और दिन, एक और 'कैम्पफायर' नाम वाला मॉडल। क्योंकि 'अत्याधुनिक AI' बताने का इससे बेहतर तरीका क्या हो सकता है कि उसे ऐसी चीज़ के नाम पर रखा जाए जो लकड़ी न डालने पर बुझ जाती है। Ember-1 उन 'कुशल' मॉडल्स की अंतहीन कतार में शामिल हो गया है जो GPT-4 जैसी गुणवत्ता का वादा 1/100 कंप्यूट पर करते हैं। यह दावा उतना ही भरोसेमंद है जितना जनवरी में जिम की मेंबरशिप। Fireworks जानती है कि उनका असली उत्पाद मॉडल नहीं है, बल्कि उनका इन्फरेंस इंजन है जो किसी भी मॉडल को चलाना किफायती बनाता है। यह मॉडल तो बस एक डेमो रील है।
 
 ---
 
-## 4. [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/)
+## 4. [Show HN: Lofi Cities – पिक्सेल-आर्ट सिटी नाइट्स और ब्राउज़र-जनरेटेड लो-फाई](https://loficities.com/)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-Developer showcases Lofi Cities, a browser-based web experience that generates infinite pixel-art city nightscapes accompanied by procedural lofi music. The project runs entirely client-side with no backend, using canvas rendering and Web Audio API for real-time audiovisual generation. It gained significant traction on Hacker News with over 250 upvotes and 112 comments.
+एक डेवलपर ने Lofi Cities को पेश किया है, जो ब्राउज़र पर आधारित एक वेब अनुभव है। यह प्रोसीजरल लो-फाई संगीत के साथ अनंत पिक्सेल-आर्ट सिटी नाइट्स जेनरेट करता है। यह प्रोजेक्ट पूरी तरह से क्लाइंट-साइड पर चलता है, जिसमें किसी बैकएंड की ज़रूरत नहीं है। इसमें रीयल-टाइम ऑडियोविजुअल जनरेशन के लिए कैनवास रेंडरिंग और वेब ऑडियो एपीआई का उपयोग किया गया है। हैकर न्यूज़ पर इसे 250 से अधिक अपवोट्स और 112 कमेंट्स मिले हैं।
 
 **मेरी राय**
 
-> Finally, a side project that admits it's just 'lofi girl' for people who think productivity is an aesthetic. The procedural generation is genuinely clever — Web Audio API doing heavy lifting while you pretend to debug — but let's be honest: this is a screensaver with delusions of grandeur. The real innovation? Making procrastination feel like self-care since 2010.
+> आखिरकार, एक ऐसा साइड प्रोजेक्ट जो मानता है कि यह उन लोगों के लिए सिर्फ 'लो-फाई गर्ल' है जो समझते हैं कि उत्पादकता सिर्फ एक दिखावा (एस्थेटिक) है। प्रोसीजरल जनरेशन वास्तव में चतुर है — वेब ऑडियो एपीआई भारी काम कर रहा है जबकि आप डिबग करने का नाटक कर रहे हैं — लेकिन सच कहें तो: यह भव्यता के भ्रम में डूबा हुआ एक स्क्रीनसेवर है। असली इनोवेशन? 2010 से टालमटोल (procrastination) को सेल्फ-केयर जैसा महसूस कराना।
 
 ---
 
-## 5. [Don't couple your Go code to GitHub](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
+## 5. [अपने Go कोड को GitHub से न जोड़ें](https://iain.rocks/blog/dont-couple-your-go-code-to-github)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-A blog post by Iain argues that Go developers should avoid hardcoding GitHub URLs in their import paths. The author explains how coupling code to github.com makes migration difficult and recommends using vanity import paths with custom domains instead. The piece highlights Go's module system design that enables this decoupling.
+इयान के एक ब्लॉग पोस्ट में तर्क दिया गया है कि Go डेवलपर्स को अपने इम्पोर्ट पाथ में GitHub URLs को हार्डकोड करने से बचना चाहिए। लेखक बताता है कि कैसे कोड को github.com से जोड़ने से माइग्रेशन मुश्किल हो जाता है और कस्टम डोमेन के साथ 'वैनिटी इम्पोर्ट पाथ' का उपयोग करने की सलाह देता है। यह लेख Go के मॉड्यूल सिस्टम डिज़ाइन पर प्रकाश डालता है जो इस तरह के डिकपलिंग को सक्षम बनाता है।
 
 **मेरी राय**
 
-> Nothing says 'I'm married to Microsoft's platform' quite like baking github.com into your production imports like it's a constitutional amendment. Vanity domains have existed since Go 1.11 — using them is the difference between owning your namespace and renting it from a company that might rename itself to 'X' tomorrow. Your future self will thank you when the acquisition email arrives.
+> यह कहने जैसा कुछ नहीं है कि 'मैं माइक्रोसॉफ्ट के प्लेटफॉर्म से शादी कर चुका हूं' जैसे कि अपने प्रोडक्शन इम्पोर्ट में github.com को ऐसे डालना मानो वह कोई संवैधानिक संशोधन हो। वैनिटी डोमेन Go 1.11 से मौजूद हैं — उनका उपयोग करना ही आपके अपने नेमस्पेस के मालिक होने और किसी ऐसी कंपनी से उसे किराये पर लेने के बीच का अंतर है, जो शायद कल खुद का नाम बदलकर 'X' रख ले। जब अधिग्रहण का ईमेल आएगा, तो आपका भविष्य का आप खुद का शुक्रिया अदा करेगा।
 
 ---
 
-## 6. [Prompting Claude Opus 5.5](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
+## 6. [Claude Opus 5.5 के लिए प्रॉम्प्टिंग](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-Anthropic has published official prompt engineering documentation for Claude Opus 5.5 on their developer platform. The guide covers best practices, techniques, and strategies for effectively prompting the latest flagship model. Developers can access the documentation at platform.claude.com to optimize their interactions with the new model.
+Anthropic ने अपने डेवलपर प्लेटफॉर्म पर Claude Opus 5.5 के लिए आधिकारिक प्रॉम्प्ट इंजीनियरिंग दस्तावेज़ प्रकाशित किए हैं। यह गाइड नवीनतम फ्लैगशिप मॉडल के प्रभावी उपयोग के लिए सर्वोत्तम प्रथाओं, तकनीकों और रणनीतियों को कवर करती है। डेवलपर्स नए मॉडल के साथ अपने इंटरैक्शन को बेहतर बनाने के लिए platform.claude.com पर दस्तावेज़ देख सकते हैं।
 
 **मेरी राय**
 
-> Anthropic releasing a prompting guide for Opus 5.5 is like a Michelin-star chef publishing a manual on how to hold a fork — the tool is supposedly that intuitive, yet here we are, 50 pages deep in 'think step by step' incantations. The real skill isn't memorizing their templates; it's accepting that you'll still argue with a language model at 2 AM about whether it actually read your 200k context window. Grounded insight: prompt engineering is just API design where the compiler talks back.
+> Anthropic का Opus 5.5 के लिए प्रॉम्प्टिंग गाइड जारी करना ऐसा है जैसे कोई मिशेलिन-स्टार शेफ कांटा पकड़ने का मैनुअल लिख रहा हो — टूल को इतना सहज माना जाता है, फिर भी हम 'स्टेप-बाय-स्टेप सोचो' जैसे मंत्रों के 50 पन्नों में उलझे हुए हैं। असली हुनर उनके टेम्प्लेट रटने में नहीं है, बल्कि यह स्वीकार करने में है कि आप रात के 2 बजे भी एक लैंग्वेज मॉडल से इस बात पर बहस कर रहे होंगे कि उसने वास्तव में आपका 200k का कॉन्टेक्स्ट विंडो पढ़ा है या नहीं। कड़वा सच: प्रॉम्प्ट इंजीनियरिंग बस एक ऐसा API डिज़ाइन है जहाँ कंपाइलर आपसे वापस बहस करता है।
 
 ---
 
-## 7. [Self-Hosting on the Dark Web](https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/)
+## 7. [डार्क वेब पर सेल्फ-होस्टिंग](https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-David Alvarez Rosa published a technical guide on self-hosting services on the Tor network, covering setup, operational security, and trade-offs compared to clearnet hosting. The post details configuring hidden services, managing keys, and mitigating deanonymization risks for administrators seeking censorship-resistant infrastructure.
+डेविड अल्वारेज़ रोजा ने टोर (Tor) नेटवर्क पर सेवाओं को सेल्फ-होस्ट करने पर एक तकनीकी गाइड प्रकाशित की है, जिसमें सेटअप, परिचालन सुरक्षा और क्लियरनेट होस्टिंग की तुलना में इसके फायदे-नुकसान शामिल हैं। यह पोस्ट उन प्रशासकों के लिए हिडन सर्विसेज को कॉन्फ़िगर करने, कुंजियों को प्रबंधित करने और डी-एनोनिमाइज़ेशन जोखिमों को कम करने का विवरण देती है, जो सेंसरशिप-प्रतिरोधी बुनियादी ढांचा चाहते हैं।
 
 **मेरी राय**
 
-> Nothing says 'I value my privacy' like running a blog on a network where your uptime depends on volunteers who might be three-letter agencies in disguise. Self-hosting on Tor is the digital equivalent of building a bunker in your backyard — great for surviving the apocalypse, terrible for getting pizza delivered. The real insight: anonymity isn't a switch you flip, it's a discipline you maintain every single day.
+> अपनी निजता को लेकर गंभीर होने का इससे बेहतर तरीका और क्या हो सकता है कि आप अपना ब्लॉग ऐसे नेटवर्क पर चलाएं जहाँ आपकी अपटाइम उन स्वयंसेवकों पर निर्भर हो, जो शायद छद्मवेश में सरकारी एजेंसियां हों। टोर पर सेल्फ-होस्टिंग करना अपने पिछवाड़े में बंकर बनाने जैसा है — कयामत के दिन बचने के लिए तो ठीक है, लेकिन पिज्जा ऑर्डर करने के लिए बिल्कुल बेकार। असली बात यह है: गुमनामी कोई स्विच नहीं है जिसे आप ऑन कर दें, यह एक अनुशासन है जिसे आपको हर दिन बनाए रखना पड़ता है।
 
 ---
 
-## 8. [In an $80 motel room, a discovery to shed light on the origins of life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+## 8. [80 डॉलर के मोटल रूम में जीवन की उत्पत्ति का रहस्य](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
 
 **स्रोत:** HackerNews  |  **विषय:** hn  |  **कवरेज:** 1 स्रोत
 
 **सारांश**
 
-A researcher made a significant scientific discovery related to the origins of life while working from an $80 motel room, according to a New York Times report. The breakthrough demonstrates how important scientific insights can emerge from modest, unconventional settings rather than just well-funded institutional labs. The story highlights the role of persistence and creative problem-solving in fundamental biology research.
+न्यूयॉर्क टाइम्स की एक रिपोर्ट के अनुसार, एक शोधकर्ता ने 80 डॉलर वाले मोटल रूम में काम करते हुए जीवन की उत्पत्ति से संबंधित एक बड़ी वैज्ञानिक खोज की है। यह सफलता दर्शाती है कि महत्वपूर्ण वैज्ञानिक अंतर्दृष्टि केवल भारी फंडिंग वाली प्रयोगशालाओं में ही नहीं, बल्कि साधारण और अपरंपरागत जगहों से भी मिल सकती है। यह कहानी मौलिक जीव विज्ञान अनुसंधान में दृढ़ता और रचनात्मक समस्या-समाधान की भूमिका पर प्रकाश डालती है।
 
 **मेरी राय**
 
-> Turns out you don't need a $100M Series A and a Palo Alto loft with exposed brick to crack the code of existence — just a questionable mattress, dubious Wi-Fi, and a scientist who forgot to check out. The next time a VC tells you 'hardware is hard' while sipping oat milk lattes, remind them that abiogenesis apparently bootstrapped in a room where the ice machine sounds like a dying jet engine. The real moat isn't compute or capital; it's the ability to keep thinking when the AC rattles like a snare drum at 3 AM.
+> पता चला कि अस्तित्व का कोड क्रैक करने के लिए आपको 100 मिलियन डॉलर की सीरीज ए फंडिंग और पालो ऑल्टो के महंगे ऑफिस की जरूरत नहीं है—बस एक संदिग्ध गद्दा, घटिया वाई-फाई, और एक ऐसा वैज्ञानिक चाहिए जो चेक-आउट करना भूल गया हो। अगली बार जब कोई वीसी ओट मिल्क लाट्टे पीते हुए आपसे कहे कि 'हार्डवेयर बहुत मुश्किल है', तो उन्हें याद दिलाएं कि जीवन की उत्पत्ति तो उस कमरे में हुई थी जहाँ की आइस मशीन किसी मरते हुए जेट इंजन जैसी आवाज करती है। असली ताकत कंप्यूटिंग या पूंजी नहीं है; असली ताकत यह है कि आप सुबह के 3 बजे भी तब सोच सकें जब एसी किसी स्नेयर ड्रम की तरह खड़खड़ा रहा हो।
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-09-30 13:11 UTC पर स्वतः जनरेट किया गया।*
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-07 10:50 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

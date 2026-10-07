@@ -19,31 +19,31 @@ _گردآوری توسط [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-este
 
 **خواندن این شماره به:** <a class="lang-pill" href="2026-09-29-tech-digest.html">English</a> <a class="lang-pill" href="2026-09-29-tech-digest-fr.html">Français</a> <a class="lang-pill" href="2026-09-29-tech-digest-de.html">Deutsch</a> <a class="lang-pill" href="2026-09-29-tech-digest-es.html">Español</a> <a class="lang-pill" href="2026-09-29-tech-digest-zh.html">中文</a> <a class="lang-pill" href="2026-09-29-tech-digest-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-09-29-tech-digest-ru.html">Русский</a> <a class="lang-pill" href="2026-09-29-tech-digest-ar.html">العربية</a>
 
-## 1. [Updated Google Maps shows destruction of the city of Rafah](https://twitter.com/AliAbunimah/status/2103890594137309425)
+## 1. [نقشه‌های به‌روزرسانی‌شده گوگل، ویرانی شهر رفح را نشان می‌دهد](https://twitter.com/AliAbunimah/status/2103890594137309425)
 
 **منبع:** HackerNews  |  **موضوع:** hn  |  **پوشش:** 1 منبع
 
 **خلاصه**
 
-Updated satellite imagery on Google Maps reveals extensive destruction across Rafah, a city in southern Gaza. The new imagery serves as a visual record of the impact of military operations in the area. Researchers, journalists, and humanitarian organizations increasingly rely on commercial satellite platforms to document conflict zones in near real-time.
+تصاویر ماهواره‌ای جدید در گوگل مپس، ویرانی گسترده در رفح، شهری در جنوب غزه را آشکار می‌کند. این تصاویر تازه به عنوان سندی بصری از تأثیر عملیات نظامی در این منطقه عمل می‌کنند. پژوهشگران، روزنامه‌نگاران و سازمان‌های بشردوستانه به‌طور فزاینده‌ای برای مستندسازی مناطق درگیری به‌صورت تقریباً آنی، به پلتفرم‌های ماهواره‌ای تجاری متکی هستند.
 
 **نظر من**
 
-> Google Maps has accidentally become the world's most accessible war crimes archive -- just zoom in and the timestamps tell the story no press release can spin. It's a grim reminder that the same tech we use to find coffee shops now preserves evidence that outlives political narratives. The map doesn't take sides, but it keeps receipts.
+> گوگل مپس ناخواسته به در دسترس‌ترین آرشیو جنایات جنگی جهان تبدیل شده است؛ کافی است زوم کنید تا مهر زمانی، داستانی را روایت کند که هیچ بیانیه مطبوعاتی نمی‌تواند آن را ماست‌مالی کند. این یادآوری تلخی است که همان فناوری‌ای که برای پیدا کردن کافی‌شاپ از آن استفاده می‌کنیم، حالا شواهدی را ثبت می‌کند که از روایت‌های سیاسی جان سالم به در می‌برند. نقشه طرف کسی را نمی‌گیرد، اما مدرک را نگه می‌دارد.
 
 ---
 
-## 2. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+## 2. [دزدی از دزدها](https://mubi.com/en/notebook/posts/pirating-the-pirates)
 
 **منبع:** HackerNews  |  **موضوع:** hn  |  **پوشش:** 1 منبع
 
 **خلاصه**
 
-Film streaming platform Mubi published an article titled "Pirating the Pirates" examining the recursive nature of digital piracy where pirated content itself gets pirated and redistributed. The piece explores how unauthorized copies spawn further unauthorized ecosystems, creating a shadow distribution network that mirrors legitimate supply chains. This meta-piracy phenomenon highlights the near-impossibility of controlling digital content once it escapes authorized channels.
+پلتفرم استریم فیلم Mubi مقاله‌ای با عنوان «دزدی از دزدها» منتشر کرده که ماهیت بازگشتی دزدی دیجیتال را بررسی می‌کند؛ جایی که محتوای دزدی‌شده، خود دوباره دزدیده و بازنشر می‌شود. این مطلب توضیح می‌دهد که چگونه کپی‌های غیرمجاز، اکوسیستم‌های غیرمجاز بیشتری ایجاد می‌کنند و یک شبکه توزیع سایه می‌سازند که دقیقاً آینه زنجیره‌های تأمین قانونی است. این پدیده «فرا-دزدی» نشان می‌دهد که کنترل محتوای دیجیتال پس از خروج از کانال‌های رسمی، تقریباً غیرممکن است.
 
 **نظر من**
 
-> Nothing says 'the internet remains undefeated' like pirates getting their own loot stolen — it's the matryoshka doll of copyright infringement, each layer more compressed and watermarked than the last. The scene groups probably have better version control and distribution logistics than half the legitimate streaming services charging you $15/month for 'curated' libraries that rotate faster than a sushi conveyor belt. At this point, the only winning move is accepting that digital scarcity is a polite fiction we all agree to maintain for the sake of quarterly earnings calls.
+> هیچ‌چیز مثل دزدیده شدن غنایم دزدها، پیروزی همیشگی اینترنت را ثابت نمی‌کند؛ این همان عروسک ماتریوشکای نقض کپی‌رایت است که هر لایه آن فشرده‌تر و پر از واترمارک‌تر از قبلی است. احتمالاً گروه‌های انتشار نسخه، سیستم کنترل نسخه و لجستیک توزیع بهتری نسبت به نیمی از سرویس‌های استریم قانونی دارند که ماهانه ۱۵ دلار از شما می‌گیرند تا کتابخانه‌های «گلچین‌شده‌ای» را نشان‌تان دهند که سرعت تغییرشان از نوار نقاله سوشی هم بیشتر است. در این نقطه، تنها حرکت برنده این است که بپذیریم کمیابی دیجیتال، یک داستان مودبانه است که همه ما فقط برای گزارش‌های مالی فصلی توافق کرده‌ایم آن را باور کنیم.
 
 ---
 
@@ -61,20 +61,20 @@ Film streaming platform Mubi published an article titled "Pirating the Pirates" 
 
 ---
 
-## 4. [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
+## 4. [کشاورزان کالیفرنیا به دلیل کاهش تقاضا برای شراب، در فروش انگور با مشکل مواجه شده‌اند](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
 
 **منبع:** HackerNews  |  **موضوع:** hn  |  **پوشش:** 1 منبع
 
 **خلاصه**
 
-California wine grape growers face a severe oversupply crisis as U.S. wine consumption declines for the first time in decades. Younger generations are drinking less alcohol overall, preferring alternatives like cannabis, hard seltzers, and non-alcoholic beverages. The resulting grape glut has driven prices below production costs, forcing some farmers to leave fruit rotting on vines or pull out vineyards entirely.
+تولیدکنندگان انگور شراب در کالیفرنیا با بحران شدید مازاد عرضه روبرو هستند، چرا که مصرف شراب در ایالات متحده برای اولین بار پس از دهه‌ها کاهش یافته است. نسل‌های جوان‌تر به طور کلی الکل کمتری مصرف می‌کنند و جایگزین‌هایی مانند شاهدانه، نوشیدنی‌های گازدار الکلی (هارد سلتزر) و نوشیدنی‌های غیرالکلی را ترجیح می‌دهند. این مازاد انگور قیمت‌ها را به زیر هزینه‌های تولید رسانده و برخی کشاورزان را مجبور کرده تا میوه‌ها را روی تاک‌ها رها کنند تا بپوسند یا تاکستان‌ها را به طور کامل از بین ببرند.
 
 **نظر من**
 
-> Turns out Gen Z would rather microdose edibles than pretend to taste 'notes of leather and tobacco' in a $40 bottle of fermented grape juice. The wine industry spent 30 years convincing everyone they needed a sommelier to enjoy dinner, only to discover the next generation just wants a White Claw and a vape pen. The real vintage here isn't 2019 Cabernet — it's the industry's refusal to admit that 'premiumization' was just a fancy word for 'we raised prices until you stopped buying.'
+> مشخص شد که نسل زد ترجیح می‌دهد مواد خوراکی با دوز پایین مصرف کند تا اینکه وانمود کند در یک بطری ۴۰ دلاری آب انگور تخمیر شده، «رگه‌هایی از چرم و تنباکو» حس می‌کند. صنعت شراب ۳۰ سال وقت صرف کرد تا همه را متقاعد کند که برای لذت بردن از شام به یک سوملیه نیاز دارند، فقط برای اینکه بفهمند نسل بعدی فقط یک نوشیدنی آماده و یک ویپ می‌خواهد. محصول برتر امسال نه کابرنه ۲۰۱۹، بلکه امتناع این صنعت از پذیرش این واقعیت است که «لوکس‌سازی» فقط کلمه‌ای پرطمطراق برای «ما قیمت‌ها را آنقدر بالا بردیم تا دیگر نخرید» بود.
 
 ---
 
-*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-09-30 13:10 UTC.*
+*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-07 10:50 UTC.*
 
 گردآوری توسط: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)
