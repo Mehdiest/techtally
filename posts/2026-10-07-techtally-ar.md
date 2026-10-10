@@ -18,7 +18,7 @@ _8 أخبار من أصل 1 مصدر، مرتبة حسب التغطية الإع
 
 _إعداد [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**هذا الملخص متوفر أيضًا باللغات:** <a class="lang-pill" href="2026-10-07-techtally.html">English</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">فارسی</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Français</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Deutsch</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Español</span> <a class="lang-pill" href="2026-10-07-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-07-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-07-techtally-ru.html">Русский</a>
+**هذا الملخص متوفر أيضًا باللغات:** <a class="lang-pill" href="2026-10-07-techtally.html">English</a> <a class="lang-pill" href="2026-10-07-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-07-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-07-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-07-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-07-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-07-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-07-techtally-ru.html">Русский</a>
 
 ## 1. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
 
@@ -138,6 +138,6 @@ Penguin Mail هو عميل بريد إلكتروني جديد مفتوح الم�
 
 ---
 
-*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-10-07 10:44 UTC.*
+*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-10-10 12:05 UTC.*
 
 إعداد: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

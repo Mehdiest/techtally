@@ -18,7 +18,7 @@ _8 histoires à la une provenant de 1 source - classement selon la couverture m�
 
 _Sélectionné par [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Lisez cette édition en:** <a class="lang-pill" href="2026-10-09-techtally.html">English</a> <a class="lang-pill" href="2026-10-09-techtally-fa.html">فارسی</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Deutsch</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Español</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Lisez cette édition en:** <a class="lang-pill" href="2026-10-09-techtally.html">English</a> <a class="lang-pill" href="2026-10-09-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-09-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-09-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-09-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-09-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-09-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-09-techtally-ar.html">العربية</a>
 
 ## 1. [Whistle : de la parole au texte en 16,9 Mo](https://cactuscompute.com/blog/whistle)
 
@@ -140,6 +140,6 @@ Navanethem « Navi » Pillay a reçu le prix Nobel de la paix 2026. Cette reconn
 
 ---
 
-*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-09 14:09 UTC.*
+*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-10 12:05 UTC.*
 
 Sélectionné par : **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

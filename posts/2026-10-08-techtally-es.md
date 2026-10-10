@@ -18,7 +18,7 @@ _8 historias destacadas de 1 fuente, según cobertura mediática, repercusión c
 
 _Curado por [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Lee esta edición en:** <a class="lang-pill" href="2026-10-08-techtally.html">English</a> <a class="lang-pill" href="2026-10-08-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-08-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-08-techtally-de.html">Deutsch</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Lee esta edición en:** <a class="lang-pill" href="2026-10-08-techtally.html">English</a> <a class="lang-pill" href="2026-10-08-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-08-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-08-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-08-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-08-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-08-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-08-techtally-ar.html">العربية</a>
 
 ## 1. [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
 
@@ -138,6 +138,6 @@ Scott Aaronson ha publicado una entrada de blog discutiendo la 'Matocalipsis', e
 
 ---
 
-*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-08 14:24 UTC.*
+*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-10 12:05 UTC.*
 
 Curado por: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)
