@@ -18,7 +18,7 @@ _8 Top-Storys aus 1 Quelle, sortiert nach Berichterstattung, Community-Signal un
 
 _Kuratiert von [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Diese Ausgabe lesen auf:** <a class="lang-pill" href="2026-10-07-techtally.html">English</a> <a class="lang-pill" href="2026-10-07-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-07-techtally-fr.html">Français</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Español</span> <a class="lang-pill" href="2026-10-07-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-07-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-07-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-07-techtally-ar.html">العربية</a>
+**Diese Ausgabe lesen auf:** <a class="lang-pill" href="2026-10-07-techtally.html">English</a> <a class="lang-pill" href="2026-10-07-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-07-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-07-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-07-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-07-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-07-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-07-techtally-ar.html">العربية</a>
 
 ## 1. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
 
@@ -138,6 +138,6 @@ Penguin Mail ist ein neuer Open-Source-E-Mail-Client, der in Rust geschrieben wu
 
 ---
 
-*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-10 12:05 UTC.*
+*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-13 12:54 UTC.*
 
 Kuratiert von: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

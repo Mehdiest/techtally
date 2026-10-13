@@ -138,6 +138,6 @@ Scott Aaronson hat einen Blogbeitrag über die „Mathekalypse“ veröffentlich
 
 ---
 
-*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-10 12:05 UTC.*
+*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-13 12:54 UTC.*
 
 Kuratiert von: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

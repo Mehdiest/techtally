@@ -18,7 +18,7 @@ _8 خبر برتر از 1 منبع، رتبه‌بندی‌شده بر اساس 
 
 _گردآوری توسط [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**خواندن این شماره به:** <a class="lang-pill" href="2026-10-07-techtally.html">English</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Français</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Deutsch</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Español</span> <a class="lang-pill" href="2026-10-07-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-07-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-07-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-07-techtally-ar.html">العربية</a>
+**خواندن این شماره به:** <a class="lang-pill" href="2026-10-07-techtally.html">English</a> <a class="lang-pill" href="2026-10-07-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-07-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-07-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-07-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-07-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-07-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-07-techtally-ar.html">العربية</a>
 
 ## 1. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
 
@@ -138,6 +138,6 @@ Penguin Mail یک کلاینت ایمیل متن‌باز جدید است که �
 
 ---
 
-*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-10 12:05 UTC.*
+*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-13 12:54 UTC.*
 
 گردآوری توسط: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

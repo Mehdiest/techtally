@@ -18,7 +18,7 @@ _7 historias destacadas de 1 fuente, según cobertura mediática, repercusión c
 
 _Curado por [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Lee esta edición en:** <a class="lang-pill" href="2026-10-11-techtally.html">English</a> <a class="lang-pill" href="2026-10-11-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-11-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-11-techtally-de.html">Deutsch</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Lee esta edición en:** <a class="lang-pill" href="2026-10-11-techtally.html">English</a> <a class="lang-pill" href="2026-10-11-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-11-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-11-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-11-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-11-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-11-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-11-techtally-ar.html">العربية</a>
 
 ## 1. [El tercer centro de datos de Yandex Cloud ha sido afectado](https://status.yandex.cloud/en/incidents/2136)
 
@@ -124,6 +124,6 @@ El proyecto del ordenador de bombillas explora la construcción de un ordenador 
 
 ---
 
-*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-11 13:47 UTC.*
+*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-13 12:54 UTC.*
 
 Curado por: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

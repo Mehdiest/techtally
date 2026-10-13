@@ -18,7 +18,7 @@ _从 1 个来源 精选的 7 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-11-techtally.html">English</a> <a class="lang-pill" href="2026-10-11-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-11-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-11-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-11-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-11-techtally.html">English</a> <a class="lang-pill" href="2026-10-11-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-11-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-11-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-11-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-11-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-11-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-11-techtally-ar.html">العربية</a>
 
 ## 1. [Yandex Cloud 第三数据中心遭遇故障](https://status.yandex.cloud/en/incidents/2136)
 
@@ -124,6 +124,6 @@ LineageOS 24.0 已发布，将最新的 Android 版本带到了广泛的旧款�
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-11 13:47 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-13 12:54 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

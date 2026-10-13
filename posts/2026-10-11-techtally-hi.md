@@ -18,7 +18,7 @@ _1 स्रोत से चुनी गईं शीर्ष 7 खबरे�
 
 _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-10-11-techtally.html">English</a> <a class="lang-pill" href="2026-10-11-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-11-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-11-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-11-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-11-techtally-zh.html">中文</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-10-11-techtally.html">English</a> <a class="lang-pill" href="2026-10-11-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-11-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-11-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-11-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-11-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-11-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-11-techtally-ar.html">العربية</a>
 
 ## 1. [Yandex Cloud का तीसरा डेटा सेंटर हुआ प्रभावित](https://status.yandex.cloud/en/incidents/2136)
 
@@ -124,6 +124,6 @@ LineageOS 24.0 जारी कर दिया गया है, जो पु�
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-11 13:47 UTC पर स्वतः जनरेट किया गया।*
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-13 12:54 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)
