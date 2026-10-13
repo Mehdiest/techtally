@@ -80,6 +80,18 @@ _EN_DEFAULTS = {
 
     ),
 
+    "seo_title": "Top AI & Technology News Today - __DATE__ | TechTally",
+
+    "seo_description": (
+
+        "TechTally daily AI and technology news digest for __DATE__. "
+
+        "Top stories from Hacker News, Reddit and tech RSS sources, "
+
+        "ranked and summarized with AI analysis"
+
+    ),
+
     "meta_by": ", curated by __NAME__.",
 
     "intro": (
@@ -122,6 +134,146 @@ _EN_DEFAULTS = {
 
 
 
+# Localized SEO overrides for the front-matter title/description pair.
+
+# Merge order in _labels(): _EN_DEFAULTS <- _SEO_LOCALIZED[lang] <- i18n.yaml
+
+# blocks, so config/i18n.yaml can still override these per language by
+
+# adding its own seo_title / seo_description keys. __DATE__ = edition day.
+
+_SEO_LOCALIZED = {
+
+    "fa": {
+
+        "seo_title": "مهم‌ترین اخبار هوش مصنوعی و فناوری امروز - __DATE__ | TechTally",
+
+        "seo_description": (
+
+            "خلاصهٔ روزانهٔ اخبار هوش مصنوعی و فناوری TechTally برای __DATE__. "
+
+            "مهم‌ترین خبرها از Hacker News، Reddit و منابع RSS فناوری؛ "
+
+            "رتبه‌بندی و خلاصه‌سازی با تحلیل هوش مصنوعی"
+
+        ),
+
+    },
+
+    "fr": {
+
+        "seo_title": "Top actus IA & tech du jour - __DATE__ | TechTally",
+
+        "seo_description": (
+
+            "Le digest quotidien IA et tech de TechTally pour le __DATE__. "
+
+            "Les meilleures actualités de Hacker News, Reddit et des flux "
+
+            "RSS tech, classées et résumées par IA"
+
+        ),
+
+    },
+
+    "de": {
+
+        "seo_title": "Top KI- & Tech-News heute - __DATE__ | TechTally",
+
+        "seo_description": (
+
+            "TechTally-Tagesdigest für KI & Technologie am __DATE__. "
+
+            "Top-Storys aus Hacker News, Reddit und Tech-RSS-Quellen – "
+
+            "bewertet und mit KI analysiert"
+
+        ),
+
+    },
+
+    "es": {
+
+        "seo_title": "Top noticias de IA y tecnología hoy - __DATE__ | TechTally",
+
+        "seo_description": (
+
+            "Resumen diario de IA y tecnología de TechTally para el __DATE__. "
+
+            "Las mejores noticias de Hacker News, Reddit y fuentes RSS tech, "
+
+            "clasificadas y resumidas con IA"
+
+        ),
+
+    },
+
+    "zh": {
+
+        "seo_title": "今日 AI 与科技要闻 - __DATE__ | TechTally",
+
+        "seo_description": (
+
+            "TechTally __DATE__ 每日 AI 与科技新闻摘要：精选 Hacker News、"
+
+            "Reddit 与科技 RSS 来源头条，按热度排序，AI 总结分析"
+
+        ),
+
+    },
+
+    "hi": {
+
+        "seo_title": "आज की टॉप AI और टेक न्यूज़ - __DATE__ | TechTally",
+
+        "seo_description": (
+
+            "__DATE__ के लिए TechTally का दैनिक AI और टेक्नोलॉजी न्यूज़ डाइजेस्ट। "
+
+            "Hacker News, Reddit और टेक RSS स्रोतों की टॉप स्टोरीज़, "
+
+            "AI विश्लेषण से रैंक और सारांशित"
+
+        ),
+
+    },
+
+    "ru": {
+
+        "seo_title": "Главные новости ИИ и технологий сегодня - __DATE__ | TechTally",
+
+        "seo_description": (
+
+            "Ежедневный дайджест новостей ИИ и технологий TechTally за __DATE__. "
+
+            "Лучшие материалы Hacker News, Reddit и тех-RSS-источников – "
+
+            "рейтинг и резюме от ИИ"
+
+        ),
+
+    },
+
+    "ar": {
+
+        "seo_title": "أهم أخبار الذكاء الاصطناعي والتقنية اليوم - __DATE__ | TechTally",
+
+        "seo_description": (
+
+            "ملخص TechTally اليومي لأخبار الذكاء الاصطناعي والتقنية عن __DATE__. "
+
+            "أهم الأخبار من Hacker News وReddit ومصادر RSS التقنية، "
+
+            "مرتبة وملخصة بتحليل الذكاء الاصطناعي"
+
+        ),
+
+    },
+
+}
+
+
+
 
 
 def load_i18n(path: Path | str) -> dict:
@@ -158,11 +310,15 @@ def load_i18n(path: Path | str) -> dict:
 
 def _labels(lang: str, i18n: dict | None) -> dict:
 
-    """Merge label sources: built-in defaults <- i18n['en'] <- i18n[lang]."""
+    """Merge label sources: built-in defaults <- _SEO_LOCALIZED[lang] <-
+
+    i18n['en'] <- i18n[lang]."""
 
 
 
     merged = dict(_EN_DEFAULTS)
+
+    merged.update(_SEO_LOCALIZED.get(lang, {}))
 
 
 
@@ -916,27 +1072,13 @@ def _header(
 
 
 
-    title = (
-
-        f"TechTally - {day.isoformat()}"
-
-        + (
-
-            f" | {name}"
-
-            if name
-
-            else ""
-
-        )
-
-    )
+    title = t["seo_title"].replace("__DATE__", day.isoformat())
 
 
 
     description = (
 
-        t["meta_description"]
+        t["seo_description"]
 
         .replace(
 
@@ -1179,7 +1321,17 @@ def _translations_front_matter(
             posts_dir,
         )
 
-        if posts_path is None or not (posts_path / filename).exists():
+        # existence check uses the .md SOURCE file: posts/ holds Markdown
+        # only (the .html rendering happens at Jekyll build time), so a
+        # .html check here silently emitted no sibling map at all
+        source_filename = _edition_filename(
+            day,
+            code,
+            "md",
+            posts_dir,
+        )
+
+        if posts_path is None or not (posts_path / source_filename).exists():
             continue
 
         native = _labels(code, i18n)["native_name"]

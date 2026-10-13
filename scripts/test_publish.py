@@ -63,7 +63,7 @@ def test_write_and_template():
     # front-matter, including the cover image of the first item
     assert text.startswith("---\n")
     for needle in (
-        'title: "TechTally - 2026-09-15"', "date: 2026-09-15", "items: 2",
+        'title: "Top AI & Technology News Today - 2026-09-15 | TechTally"', "date: 2026-09-15", "items: 2",
         "sources: [HackerNews, Stack Overflow Blog]", "generator: techtally",
         'cover: "https://cdn.example.com/one.jpg?w=800&h=400"',
     ):
@@ -133,12 +133,14 @@ def test_author_attribution_and_seo():
     path = write_digest(build_items(), day=DAY, posts_dir=SCRATCH, author=AUTHOR)
     text = path.read_text(encoding="utf-8")
 
-    # front-matter: author field, name in the page title, unique meta description
+    # front-matter: author field, brand SEO title, unique meta description
     assert 'author: "Mehdi Esteghlal"' in text
-    assert 'title: "TechTally - 2026-09-15 | Mehdi Esteghlal"' in text
+    assert 'title: "Top AI & Technology News Today - 2026-09-15 | TechTally"' in text
     assert (
-        'description: "TechTally daily digest for 2026-09-15: the day\'s '
-        'top tech stories summarized with expert commentary, curated by Mehdi Esteghlal."'
+        'description: "TechTally daily AI and technology news digest for '
+        '2026-09-15. Top stories from Hacker News, Reddit and tech RSS '
+        'sources, ranked and summarized with AI analysis, curated by '
+        'Mehdi Esteghlal."'
     ) in text
 
     # visible byline near the top, linked to LinkedIn
@@ -162,7 +164,7 @@ def test_without_author_stays_clean():
         encoding="utf-8"
     )
     assert "author:" not in text and "Curated by" not in text
-    assert 'title: "TechTally - 2026-09-15"' in text  # no name suffix
+    assert 'title: "Top AI & Technology News Today - 2026-09-15 | TechTally"' in text  # brand title
     assert "[TechTally] on " in text  # legacy footer still fine
     print("PASS no author configured -> clean output, no attribution lines")
 
@@ -183,7 +185,19 @@ def test_existing_editions_helper():
 
     # SCRATCH may already hold this run's files for DAY - use a clean day
     assert existing_editions(SCRATCH, day=date(2026, 9, 20)) == []
-    write_digest(build_items(), day=DAY, posts_dir=SCRATCH, languages=["fa"])
+    # fa only publishes when EVERY item carries a complete translation,
+    # so give the fixture items one; otherwise the edition is skipped and
+    # the assertion below would fail (pre-existing test bug)
+    items = build_items()
+    for item in items:
+        item.translations = {
+            "fa": {
+                "title": f"خلاصه: {item.article.title}",
+                "summary": "خلاصهٔ کامل داستان برای انتشار.",
+                "take": "نظر من دربارهٔ این داستان.",
+            }
+        }
+    write_digest(items, day=DAY, posts_dir=SCRATCH, languages=["fa"])
     names = [path.name for path in existing_editions(SCRATCH, day=DAY)]
     assert "2026-09-15-techtally.md" in names
     assert "2026-09-15-techtally-fa.md" in names

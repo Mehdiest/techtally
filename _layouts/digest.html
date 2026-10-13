@@ -16,6 +16,15 @@ layout: default
     "@type": "Person",
     "name": {{ site.author.name | jsonify }},
     "sameAs": [{{ site.author.linkedin | jsonify }}, {{ site.author.github | jsonify }}]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TechTally",
+    "url": {{ '/' | absolute_url | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ '/assets/img/og-banner.png' | absolute_url | jsonify }}
+    }
   }
 }
 </script>

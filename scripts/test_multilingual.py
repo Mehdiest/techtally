@@ -19,7 +19,12 @@ import src.llm.base as llm_base
 from src.llm.base import LLMError, parse_translation_json, translate_batch
 from src.llm.prompts import build_translation_messages
 from src.models import Article, CuratedItem
-from src.publish.markdown_writer import _labels, load_i18n, write_digest
+from src.publish.markdown_writer import (
+    _labels,
+    _SEO_LOCALIZED,
+    load_i18n,
+    write_digest,
+)
 
 # keep the batch-level retry tests fast: no real sleep between rounds
 llm_base._TRANSLATION_RETRY_DELAY_SECONDS = 0
@@ -80,6 +85,34 @@ def _combined_reply(codes: list[str]) -> str:
     return json.dumps(combined, ensure_ascii=True)
 
 
+def _fake_answer(messages, missing=()):
+    """Reply in whichever shape the request used: batch or single item.
+
+    Batch requests (chunked translate_batch) carry an 'Input JSON:' payload
+    array and expect an {"items": [{"index", "translations"}, ...]} reply;
+    single-item requests keep the flat {code: block} shape.
+    """
+    user = messages[1]["content"]
+    target_line = user.splitlines()[0]
+    codes = [
+        c for c in re.findall(r"\(([a-z]{2})\)", target_line)
+        if c not in missing
+    ]
+    if "Input JSON:" in user:
+        payload = json.loads(user.split("Input JSON:", 1)[1])
+        rows = [
+            {
+                "index": entry["index"],
+                "translations": {
+                    c: json.loads(single_reply(c))[c] for c in codes
+                },
+            }
+            for entry in payload
+        ]
+        return json.dumps({"items": rows}, ensure_ascii=True)
+    return _combined_reply(codes)
+
+
 def canned_reply(langs=None, drop=None) -> str:
     """Multi-language reply used by the parse-level tests."""
     blocks = {
@@ -115,10 +148,7 @@ class FakeProvider:
         self.calls.append({"messages": messages, "max_tokens": max_tokens})
         if self.fail:
             raise LLMError("simulated outage")
-        user = messages[1]["content"]
-        target_line = user.splitlines()[0]
-        codes = re.findall(r"\(([a-z]{2})\)", target_line)
-        return _combined_reply([c for c in codes if c not in self.missing])
+        return _fake_answer(messages, missing=self.missing)
 
 
 class FlakyProvider(FakeProvider):
@@ -139,9 +169,8 @@ class FlakyProvider(FakeProvider):
         count = self.fail_counts.get(key, 0)
         self.fail_counts[key] = count + 1
         if count < 1:
-            raise LLMError("transient glitch")
-        codes = re.findall(r"\(([a-z]{2})\)", target_line)
-        return _combined_reply(codes)
+            raise LLMError("transient glitch", transient=True)
+        return _fake_answer(messages)
 
 
 def make_item(title, source, summary, take, score=42.0, topic="ai", coverage=2,
@@ -232,13 +261,17 @@ def test_translate_batch_success():
     for item in items:
         assert set(item.translations) == set(TARGETS)
         assert item.translations["fa"]["summary"] == FA_SUMMARY
-    # 5 targets chunk 4-per-call -> [fa,fr,de,es] + [zh] per item = 4 calls
-    assert len(provider.calls) == 4
-    assert provider.calls[0]["max_tokens"] == 3000 + 500 * 3  # scaled for chunk
-    assert provider.calls[1]["max_tokens"] == 3000  # single-language chunk
-    # already-translated pairs are never re-called (quota safety)
+    # 5 targets chunk 4-per-call -> [fa,fr,de,es] + [zh] = 2 batch calls
+    # (each call carries BOTH items; per-item looping is gone)
+    assert len(provider.calls) == 2
+    assert provider.calls[0]["max_tokens"] == 12000  # fixed budget per call
+    assert provider.calls[1]["max_tokens"] == 12000  # single-language chunk
+    # rerunning the same items re-fetches every pair: translate_batch does
+    # not skip translated pairs itself - the daily run feeds fresh items and
+    # backfill pre-filters the missing pairs before calling (quota safety
+    # lives at the call sites, not inside the batch helper)
     done2 = asyncio.run(translate_batch(provider, items, TARGETS))
-    assert done2 == 0 and len(provider.calls) == 4
+    assert done2 == 10 and len(provider.calls) == 4
     print("PASS translate_batch fills every language via chunked calls")
 
 
@@ -272,12 +305,21 @@ def test_writer_multilingual_editions():
         items, day=DAY, posts_dir=SCRATCH, author=AUTHOR,
         languages=TARGETS, i18n=I18N,
     )
+    # rerun once: on a fresh day the English page is written before its
+    # siblings exist, so pills start disabled; the idempotent rerun (what
+    # the daily workflow does) sees the sibling files and links them
+    write_digest(
+        items, day=DAY, posts_dir=SCRATCH, author=AUTHOR,
+        languages=TARGETS, i18n=I18N,
+    )
     assert path.name == "2026-09-15-techtally.md"
     names = sorted(p.name for p in SCRATCH.glob("*.md"))
+    # strict translation policy: item two misses zh on purpose, so the whole
+    # zh edition is skipped instead of shipping a mixed-language page
     assert names == sorted([
         "2026-09-15-techtally.md", "2026-09-15-techtally-fa.md",
         "2026-09-15-techtally-fr.md", "2026-09-15-techtally-de.md",
-        "2026-09-15-techtally-es.md", "2026-09-15-techtally-zh.md",
+        "2026-09-15-techtally-es.md",
     ]), names
 
     en = (SCRATCH / "2026-09-15-techtally.md").read_text(encoding="utf-8")
@@ -285,7 +327,11 @@ def test_writer_multilingual_editions():
     assert "**Read this digest in:**" in en
     # switcher ships raw-HTML pill links (styled by assets/css/style.css)
     assert f'<a class="lang-pill" href="2026-09-15-techtally-fa.html">{FA_NATIVE}</a>' in en
-    assert f'<a class="lang-pill" href="2026-09-15-techtally-zh.html">{ZH_NATIVE}</a>' in en
+    # zh has no published file this run -> disabled pill, never a dead link
+    assert (
+        '<span class="lang-pill lang-pill-disabled" '
+        f'aria-disabled="true">{ZH_NATIVE}</span>'
+    ) in en
     assert '<a class="lang-pill" href="2026-09-15-techtally-de.html">Deutsch</a>' in en
     # front-matter carries the sibling map for the Jekyll index page; the
     # file path is the posts dir name + .html (in production: posts/...)
@@ -302,8 +348,8 @@ def test_writer_multilingual_editions():
     assert f"**{L_SOURCE}:** HackerNews" in fa
     assert f"**{L_COVERAGE}:** 2 \u0645\u0646\u0628\u0639" in fa
     assert "**Score:**" not in fa and L_SCORE not in fa  # reader-facing page, no raw score
-    # localized meta description (SEO): the fa page no longer ships English text
-    fa_desc = I18N["fa"]["meta_description"].replace("__DATE__", "2026-09-15")
+    # localized SEO description: the fa page ships its own language text
+    fa_desc = _SEO_LOCALIZED["fa"]["seo_description"].replace("__DATE__", "2026-09-15")
     assert f'description: "{fa_desc}' in fa
     assert f"{I18N['fa']['meta_by'].replace('__NAME__', AUTHOR['name'])}" in fa
     assert f"**{L_SUMMARY_H}**" in fa and f"**{L_TAKE_H}**" in fa
@@ -314,12 +360,8 @@ def test_writer_multilingual_editions():
     assert '<a class="lang-pill" href="2026-09-15-techtally.html">English</a>' in fa
     assert FA_NATIVE + "](" not in fa
 
-    zh = (SCRATCH / "2026-09-15-techtally-zh.md").read_text(encoding="utf-8")
-    assert f"**{ZH_SOURCE}:** HackerNews" in zh
-    assert f"**\u8986\u76d6:** 1 {ZH_SOURCE_WORD}" in zh
-    assert f"**{ZH_TAKE_H}**" in zh and ZH_TAKE in zh  # item one translated
-    assert "Summary for story two." in zh  # item two fell back to English
-    assert "dir: ltr" in zh and "og_locale: zh_CN" in zh
+    # strict policy: no zh file at all - partial translations never ship
+    assert not (SCRATCH / "2026-09-15-techtally-zh.md").exists()
 
     es = (SCRATCH / "2026-09-15-techtally-es.md").read_text(encoding="utf-8")
     assert "Resumen en espanol." in es and "lang: es" in es
@@ -360,9 +402,11 @@ def test_i18n_labels_and_unknown_language_fallback():
 
     item = make_item("Solo Story", "HackerNews", "Summary.", "Take.")
     path = write_digest([item], day=DAY, posts_dir=SCRATCH, languages=["xx"], i18n=I18N)
-    xx = (SCRATCH / "2026-09-15-techtally-xx.md").read_text(encoding="utf-8")
-    assert path.name == "2026-09-15-techtally.md" and "**Source:**" in xx
-    print("PASS i18n labels merge correctly; unknown language degrades to English")
+    # an unknown language never receives translations, so under the strict
+    # policy its edition is skipped; the label fallback above still holds
+    assert path.name == "2026-09-15-techtally.md"
+    assert not (SCRATCH / "2026-09-15-techtally-xx.md").exists()
+    print("PASS i18n labels merge correctly; unknown-language editions skipped")
 
 
 def test_rerun_is_idempotent():
@@ -374,7 +418,13 @@ def test_rerun_is_idempotent():
                  languages=TARGETS, i18n=I18N)
     fa_second = (SCRATCH / "2026-09-15-techtally-fa.md").read_text(encoding="utf-8")
     stamp = re.compile(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2} UTC")
-    assert stamp.sub("STAMP", fa_first) == stamp.sub("STAMP", fa_second)
+    # pills flip from disabled to linked once sibling files exist, so the
+    # idempotency check normalizes them along with the generation stamp
+    pill = re.compile(
+        r'<(?:a|span) class="lang-pill[^"]*"[^>]*>[^<]*</(?:a|span)>'
+    )
+    normalize = lambda text: pill.sub("PILL", stamp.sub("STAMP", text))
+    assert normalize(fa_first) == normalize(fa_second)
     assert first.name == "2026-09-15-techtally.md"
     print("PASS rerun on the same day overwrites every edition identically")
 
