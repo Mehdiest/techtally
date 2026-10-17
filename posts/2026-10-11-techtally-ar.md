@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-10-11 | Mehdi Esteghlal"
+title: "أهم أخبار الذكاء الاصطناعي والتقنية اليوم - 2026-10-11 | TechTally"
 date: 2026-10-11
 items: 7
 sources: [HackerNews]
@@ -8,7 +8,7 @@ lang: ar
 dir: rtl
 og_locale: ar_AR
 author: "Mehdi Esteghlal"
-description: "TechTally - ملخص أخبار التقنية اليومي ليوم 2026-10-11: أهم أخبار اليوم مع الملخصات وتعليقات الخبراء، بإعداد Mehdi Esteghlal."
+description: "ملخص TechTally اليومي لأخبار الذكاء الاصطناعي والتقنية عن 2026-10-11. أهم الأخبار من Hacker News وReddit ومصادر RSS التقنية، مرتبة وملخصة بتحليل الذكاء الاصطناعي، بإعداد Mehdi Esteghlal."
 generator: techtally
 ---
 
@@ -124,6 +124,6 @@ IRCv3 هو جهد مستمر لتحديث بروتوكول دردشة ترحيل
 
 ---
 
-*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-10-13 12:54 UTC.*
+*تم الإنشاء تلقائيًا بواسطة [TechTally](https://github.com/Mehdiest/techtally) في 2026-10-17 06:13 UTC.*
 
 إعداد: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

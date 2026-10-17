@@ -18,7 +18,7 @@ _8 historias destacadas de 1 fuente, según cobertura mediática, repercusión c
 
 _Curado por [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Lee esta edición en:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-13-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-13-techtally-de.html">Deutsch</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Lee esta edición en:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-13-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-13-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-13-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-13-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-13-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-13-techtally-ar.html">العربية</a>
 
 ## 1. [Hackers activan el descongelamiento automático en supermercados de toda Europa](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 
@@ -138,6 +138,6 @@ Citroën revive el diseño clásico del 2CV como un vehículo eléctrico moderno
 
 ---
 
-*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-13 14:17 UTC.*
+*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-17 06:13 UTC.*
 
 Curado por: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

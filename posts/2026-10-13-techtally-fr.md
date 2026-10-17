@@ -18,7 +18,7 @@ _8 histoires à la une provenant de 1 source - classement selon la couverture m�
 
 _Sélectionné par [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Lisez cette édition en:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fa.html">فارسی</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Deutsch</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Español</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Lisez cette édition en:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-13-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-13-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-13-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-13-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-13-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-13-techtally-ar.html">العربية</a>
 
 ## 1. [Des pirates activent le dégivrage automatique dans des supermarchés à travers l'Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 
@@ -138,6 +138,6 @@ Citroën ressuscite le design classique de la 2CV sous la forme d'un véhicule �
 
 ---
 
-*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-13 14:17 UTC.*
+*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-17 06:13 UTC.*
 
 Sélectionné par : **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

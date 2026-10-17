@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-10-11 | Mehdi Esteghlal"
+title: "مهم‌ترین اخبار هوش مصنوعی و فناوری امروز - 2026-10-11 | TechTally"
 date: 2026-10-11
 items: 7
 sources: [HackerNews]
@@ -8,7 +8,7 @@ lang: fa
 dir: rtl
 og_locale: fa_IR
 author: "Mehdi Esteghlal"
-description: "TechTally - خلاصه‌ی روزانه‌ی اخبار تکنولوژی برای 2026-10-11: خبرهای برتر روز با خلاصه و نظر کارشناسانه، گردآوری توسط Mehdi Esteghlal."
+description: "خلاصهٔ روزانهٔ اخبار هوش مصنوعی و فناوری TechTally برای 2026-10-11. مهم‌ترین خبرها از Hacker News، Reddit و منابع RSS فناوری؛ رتبه‌بندی و خلاصه‌سازی با تحلیل هوش مصنوعی، گردآوری توسط Mehdi Esteghlal."
 generator: techtally
 ---
 
@@ -124,6 +124,6 @@ LineageOS 24.0 منتشر شده است و آخرین نسخه اندروید ر
 
 ---
 
-*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-13 12:54 UTC.*
+*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-17 06:13 UTC.*
 
 گردآوری توسط: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

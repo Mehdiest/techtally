@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-15-techtally.html">English</a> <a class="lang-pill" href="2026-10-15-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-15-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-15-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-15-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-15-techtally.html">English</a> <a class="lang-pill" href="2026-10-15-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-15-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-15-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-15-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-15-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-15-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-15-techtally-ar.html">العربية</a>
 
 ## 1. [确诊癌症后需要了解的事情](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 
@@ -140,6 +140,6 @@ Jev 1.14.0 已经发布，包含各种性能改进和新的实验性功能。开
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-15 12:28 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-17 06:13 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

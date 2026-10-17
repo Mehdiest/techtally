@@ -18,7 +18,7 @@ _8 خبر برتر از 1 منبع، رتبه‌بندی‌شده بر اساس 
 
 _گردآوری توسط [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**خواندن این شماره به:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Français</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Deutsch</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Español</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**خواندن این شماره به:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-13-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-13-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-13-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-13-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-13-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-13-techtally-ar.html">العربية</a>
 
 ## 1. [هکرها سیستم یخ‌زدایی خودکار سوپرمارکت‌ها را در سراسر اروپا فعال کردند](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 
@@ -138,6 +138,6 @@ GLM-Legal یک مدل هوش مصنوعی جدید است که به طور خا�
 
 ---
 
-*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-13 14:17 UTC.*
+*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-17 06:13 UTC.*
 
 گردآوری توسط: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

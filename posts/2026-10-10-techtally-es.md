@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-10-10 | Mehdi Esteghlal"
+title: "Top noticias de IA y tecnología hoy - 2026-10-10 | TechTally"
 date: 2026-10-10
 items: 8
 sources: [HackerNews]
@@ -8,7 +8,7 @@ lang: es
 dir: ltr
 og_locale: es_ES
 author: "Mehdi Esteghlal"
-description: "TechTally - resumen diario de noticias tech para 2026-10-10: las historias destacadas del día con comentarios de expertos, curado por Mehdi Esteghlal."
+description: "Resumen diario de IA y tecnología de TechTally para el 2026-10-10. Las mejores noticias de Hacker News, Reddit y fuentes RSS tech, clasificadas y resumidas con IA, curado por Mehdi Esteghlal."
 generator: techtally
 ---
 
@@ -144,6 +144,6 @@ Carrier-Explode es una nueva utilidad que permite a los usuarios decodificar e i
 
 ---
 
-*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-13 12:54 UTC.*
+*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-17 06:13 UTC.*
 
 Curado por: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

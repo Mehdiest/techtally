@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-09-27 | Mehdi Esteghlal"
+title: "Top actus IA & tech du jour - 2026-09-27 | TechTally"
 date: 2026-09-27
 items: 8
 sources: [Dev.to]
@@ -8,7 +8,7 @@ lang: fr
 dir: ltr
 og_locale: fr_FR
 author: "Mehdi Esteghlal"
-description: "TechTally - sélection quotidienne d'actualités tech pour le 2026-09-27 : les histoires à la une, résumées avec un avis d'expert, par Mehdi Esteghlal."
+description: "Le digest quotidien IA et tech de TechTally pour le 2026-09-27. Les meilleures actualités de Hacker News, Reddit et des flux RSS tech, classées et résumées par IA, par Mehdi Esteghlal."
 generator: techtally
 ---
 
@@ -140,6 +140,6 @@ Un développeur partage son approche pour gérer plus de 40 agents et compétenc
 
 ---
 
-*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-13 12:54 UTC.*
+*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-17 06:13 UTC.*
 
 Sélectionné par : **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

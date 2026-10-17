@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-10-02 | Mehdi Esteghlal"
+title: "今日 AI 与科技要闻 - 2026-10-02 | TechTally"
 date: 2026-10-02
 items: 7
 sources: [HackerNews]
@@ -8,7 +8,7 @@ lang: zh
 dir: ltr
 og_locale: zh_CN
 author: "Mehdi Esteghlal"
-description: "TechTally 每日科技新闻精选（2026-10-02）：当日热点新闻摘要与专家点评，编辑：Mehdi Esteghlal。"
+description: "TechTally 2026-10-02 每日 AI 与科技新闻摘要：精选 Hacker News、Reddit 与科技 RSS 来源头条，按热度排序，AI 总结分析，编辑：Mehdi Esteghlal。"
 generator: techtally
 ---
 
@@ -128,6 +128,6 @@ SvelteKit 3 作为基于 Svelte 构建的全栈 Web 框架的最新重大版本�
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-13 12:54 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-17 06:13 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

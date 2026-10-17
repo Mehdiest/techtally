@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-09-28 | Mehdi Esteghlal"
+title: "Top actus IA & tech du jour - 2026-09-28 | TechTally"
 date: 2026-09-28
 items: 8
 sources: [HackerNews]
@@ -7,7 +7,7 @@ lang: fr
 dir: ltr
 og_locale: fr_FR
 author: "Mehdi Esteghlal"
-description: "TechTally - sélection quotidienne d'actualités tech pour le 2026-09-28 : les histoires à la une, résumées avec un avis d'expert, par Mehdi Esteghlal."
+description: "Le digest quotidien IA et tech de TechTally pour le 2026-09-28. Les meilleures actualités de Hacker News, Reddit et des flux RSS tech, classées et résumées par IA, par Mehdi Esteghlal."
 generator: techtally
 ---
 
@@ -131,6 +131,6 @@ Selon un rapport du New York Times, un chercheur a réalisé une découverte sci
 
 ---
 
-*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-13 12:54 UTC.*
+*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-17 06:13 UTC.*
 
 Sélectionné par : **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-13-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-13-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-13-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-13-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-13-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-13-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-13-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-13-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-13-techtally-ar.html">العربية</a>
 
 ## 1. [黑客入侵欧洲超市系统，远程开启自动除霜](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 
@@ -138,6 +138,6 @@ Mozilla 正式发布了 Firefox 企业版，这是一个专为企业环境定制
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-13 14:17 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-17 06:13 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

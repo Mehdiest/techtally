@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-09-28 | Mehdi Esteghlal"
+title: "今日 AI 与科技要闻 - 2026-09-28 | TechTally"
 date: 2026-09-28
 items: 8
 sources: [HackerNews]
@@ -7,7 +7,7 @@ lang: zh
 dir: ltr
 og_locale: zh_CN
 author: "Mehdi Esteghlal"
-description: "TechTally 每日科技新闻精选（2026-09-28）：当日热点新闻摘要与专家点评，编辑：Mehdi Esteghlal。"
+description: "TechTally 2026-09-28 每日 AI 与科技新闻摘要：精选 Hacker News、Reddit 与科技 RSS 来源头条，按热度排序，AI 总结分析，编辑：Mehdi Esteghlal。"
 generator: techtally
 ---
 
@@ -131,6 +131,6 @@ David Alvarez Rosa 发布了一份技术指南，介绍如何在 Tor 网络上�
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-13 12:54 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-17 06:13 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

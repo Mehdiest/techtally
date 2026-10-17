@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-09-30 | Mehdi Esteghlal"
+title: "Top KI- & Tech-News heute - 2026-09-30 | TechTally"
 date: 2026-09-30
 items: 7
 sources: [HackerNews]
@@ -7,7 +7,7 @@ lang: de
 dir: ltr
 og_locale: de_DE
 author: "Mehdi Esteghlal"
-description: "TechTally - täglicher Tech-News-Überblick für 2026-09-30: die Top-Storys des Tages, zusammengefasst mit Expertenkommentar, kuratiert von Mehdi Esteghlal."
+description: "TechTally-Tagesdigest für KI & Technologie am 2026-09-30. Top-Storys aus Hacker News, Reddit und Tech-RSS-Quellen – bewertet und mit KI analysiert, kuratiert von Mehdi Esteghlal."
 generator: techtally
 ---
 
@@ -117,6 +117,6 @@ Das Tcl Core Team hat Tcl/Tk 9.1 veröffentlicht, das erste Feature-Update der 9
 
 ---
 
-*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-13 12:54 UTC.*
+*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-17 06:13 UTC.*
 
 Kuratiert von: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

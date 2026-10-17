@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-09-28 | Mehdi Esteghlal"
+title: "आज की टॉप AI और टेक न्यूज़ - 2026-09-28 | TechTally"
 date: 2026-09-28
 items: 8
 sources: [HackerNews]
@@ -7,7 +7,7 @@ lang: hi
 dir: ltr
 og_locale: hi_IN
 author: "Mehdi Esteghlal"
-description: "TechTally - 2026-09-28 के लिए दैनिक टेक समाचार डाइजेस्ट: दिन की शीर्ष खबरें, विशेषज्ञ टिप्पणी के साथ, Mehdi Esteghlal द्वारा संकलित।"
+description: "2026-09-28 के लिए TechTally का दैनिक AI और टेक्नोलॉजी न्यूज़ डाइजेस्ट। Hacker News, Reddit और टेक RSS स्रोतों की टॉप स्टोरीज़, AI विश्लेषण से रैंक और सारांशित, Mehdi Esteghlal द्वारा संकलित।"
 generator: techtally
 ---
 
@@ -131,6 +131,6 @@ Anthropic ने अपने डेवलपर प्लेटफॉर्म 
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-13 12:54 UTC पर स्वतः जनरेट किया गया।*
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-17 06:13 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

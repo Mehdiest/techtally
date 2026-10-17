@@ -18,7 +18,7 @@ _8 новостей из 1 источника, отобранных по осв�
 
 _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-14-techtally.html">English</a> <a class="lang-pill" href="2026-10-14-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-14-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-14-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-14-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-14-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-14-techtally-hi.html">हिन्दी</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-14-techtally.html">English</a> <a class="lang-pill" href="2026-10-14-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-14-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-14-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-14-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-14-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-14-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-14-techtally-ar.html">العربية</a>
 
 ## 1. [Переосмысление контроля версий в Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 
@@ -140,6 +140,6 @@ Iosevka — это семейство шрифтов с открытым исх�
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-14 12:40 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-17 06:13 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

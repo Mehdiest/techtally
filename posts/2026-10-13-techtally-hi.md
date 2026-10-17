@@ -18,7 +18,7 @@ _1 स्रोत से चुनी गईं शीर्ष 8 खबरे�
 
 _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-13-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-13-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-13-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-13-techtally-zh.html">中文</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-13-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-13-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-13-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-13-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-13-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-13-techtally-ar.html">العربية</a>
 
 ## 1. [हैकरों ने पूरे यूरोप में सुपरमार्केट फ्रिज की ऑटोमैटिक डीफ्रॉस्टिंग सक्रिय की](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 
@@ -138,6 +138,6 @@ Citroen क्लासिक 2CV डिज़ाइन को एक आधु�
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-13 14:17 UTC पर स्वतः जनरेट किया गया।*
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-17 06:13 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

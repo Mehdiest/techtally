@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-09-30 | Mehdi Esteghlal"
+title: "Главные новости ИИ и технологий сегодня - 2026-09-30 | TechTally"
 date: 2026-09-30
 items: 7
 sources: [HackerNews]
@@ -7,7 +7,7 @@ lang: ru
 dir: ltr
 og_locale: ru_RU
 author: "Mehdi Esteghlal"
-description: "TechTally - ежедневная подборка новостей о технологиях за 2026-09-30: главные истории дня с краткими обзорами и экспертными комментариями, подготовлено Mehdi Esteghlal."
+description: "Ежедневный дайджест новостей ИИ и технологий TechTally за 2026-09-30. Лучшие материалы Hacker News, Reddit и тех-RSS-источников – рейтинг и резюме от ИИ, подготовлено Mehdi Esteghlal."
 generator: techtally
 ---
 
@@ -117,6 +117,6 @@ OpenAI анонсировала «Dots» — новую систему пост�
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-13 12:54 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-17 06:13 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

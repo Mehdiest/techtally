@@ -18,7 +18,7 @@ _8 новостей из 1 источника, отобранных по осв�
 
 _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-16-techtally.html">English</a> <a class="lang-pill" href="2026-10-16-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-16-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-16-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-16-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-16-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-16-techtally-hi.html">हिन्दी</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-16-techtally.html">English</a> <a class="lang-pill" href="2026-10-16-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-16-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-16-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-16-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-16-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-16-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-16-techtally-ar.html">العربية</a>
 
 ## 1. [Muse Spark открыт](https://research.meta.ai/blog/muse-spark-open)
 
@@ -138,6 +138,6 @@ Withings ввела ежегодную подписку в размере $99 д
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-16 12:07 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-17 06:13 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

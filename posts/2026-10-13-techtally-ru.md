@@ -18,7 +18,7 @@ _8 новостей из 1 источника, отобранных по осв�
 
 _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-13-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-13-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-13-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-13-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-13-techtally-hi.html">हिन्दी</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-13-techtally.html">English</a> <a class="lang-pill" href="2026-10-13-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-13-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-13-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-13-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-13-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-13-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-13-techtally-ar.html">العربية</a>
 
 ## 1. [Хакеры активировали автоматическую разморозку в супермаркетах по всей Европе](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 
@@ -138,6 +138,6 @@ Citroen возрождает классический дизайн 2CV в вид
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-13 14:17 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-17 06:13 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

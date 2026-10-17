@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-16-techtally.html">English</a> <a class="lang-pill" href="2026-10-16-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-16-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-16-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-16-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-16-techtally.html">English</a> <a class="lang-pill" href="2026-10-16-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-16-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-16-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-16-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-16-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-16-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-16-techtally-ar.html">العربية</a>
 
 ## 1. [Muse Spark 开源](https://research.meta.ai/blog/muse-spark-open)
 
@@ -138,6 +138,6 @@ Withings 已对希望将其健康数据与 Apple Health 同步的新用户实施
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-16 12:07 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-17 06:13 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

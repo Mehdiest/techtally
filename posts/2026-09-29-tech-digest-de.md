@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-09-29 | Mehdi Esteghlal"
+title: "Top KI- & Tech-News heute - 2026-09-29 | TechTally"
 date: 2026-09-29
 items: 4
 sources: [HackerNews]
@@ -7,7 +7,7 @@ lang: de
 dir: ltr
 og_locale: de_DE
 author: "Mehdi Esteghlal"
-description: "TechTally - täglicher Tech-News-Überblick für 2026-09-29: die Top-Storys des Tages, zusammengefasst mit Expertenkommentar, kuratiert von Mehdi Esteghlal."
+description: "TechTally-Tagesdigest für KI & Technologie am 2026-09-29. Top-Storys aus Hacker News, Reddit und Tech-RSS-Quellen – bewertet und mit KI analysiert, kuratiert von Mehdi Esteghlal."
 generator: techtally
 ---
 
@@ -75,6 +75,6 @@ Die kalifornischen Winzer stecken in einer massiven Überproduktionskrise, da de
 
 ---
 
-*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-13 12:54 UTC.*
+*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-17 06:13 UTC.*
 
 Kuratiert von: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

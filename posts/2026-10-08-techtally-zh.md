@@ -1,5 +1,5 @@
 ---
-title: "TechTally - 2026-10-08 | Mehdi Esteghlal"
+title: "今日 AI 与科技要闻 - 2026-10-08 | TechTally"
 date: 2026-10-08
 items: 8
 sources: [HackerNews]
@@ -8,7 +8,7 @@ lang: zh
 dir: ltr
 og_locale: zh_CN
 author: "Mehdi Esteghlal"
-description: "TechTally 每日科技新闻精选（2026-10-08）：当日热点新闻摘要与专家点评，编辑：Mehdi Esteghlal。"
+description: "TechTally 2026-10-08 每日 AI 与科技新闻摘要：精选 Hacker News、Reddit 与科技 RSS 来源头条，按热度排序，AI 总结分析，编辑：Mehdi Esteghlal。"
 generator: techtally
 ---
 
@@ -138,6 +138,6 @@ OpenAI 已从其公共存储库中正式撤回了三篇与数学能力相关的�
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-13 12:54 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-17 06:13 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

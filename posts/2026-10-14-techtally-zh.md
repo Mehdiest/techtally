@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-14-techtally.html">English</a> <a class="lang-pill" href="2026-10-14-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-14-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-14-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-14-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-14-techtally.html">English</a> <a class="lang-pill" href="2026-10-14-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-14-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-14-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-14-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-14-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-14-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-14-techtally-ar.html">العربية</a>
 
 ## 1. [Anthropic 重新设计版本控制系统](https://www.anthropic.com/engineering/redesigning-source-control)
 
@@ -140,6 +140,6 @@ Ledger 已证实，最近发生的硬件钱包被盗事件涉及植入“间谍�
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-14 12:40 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-17 06:13 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)
