@@ -18,7 +18,7 @@ _8 новостей из 1 источника, отобранных по осв�
 
 _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-20-techtally.html">English</a> <a class="lang-pill" href="2026-10-20-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-20-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-20-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-20-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-20-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-20-techtally-hi.html">हिन्दी</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-20-techtally.html">English</a> <a class="lang-pill" href="2026-10-20-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-20-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-20-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-20-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-20-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-20-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-20-techtally-ar.html">العربية</a>
 
 ## 1. [Wine портирован на OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 
@@ -140,6 +140,6 @@ MiniMax выпустила M3.1 Flash, новую итерацию своей б
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-20 06:02 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-20 06:03 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

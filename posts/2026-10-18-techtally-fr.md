@@ -18,7 +18,7 @@ _8 histoires à la une provenant de 1 source - classement selon la couverture m�
 
 _Sélectionné par [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Lisez cette édition en:** <a class="lang-pill" href="2026-10-18-techtally.html">English</a> <a class="lang-pill" href="2026-10-18-techtally-fa.html">فارسی</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Deutsch</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Español</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Lisez cette édition en:** <a class="lang-pill" href="2026-10-18-techtally.html">English</a> <a class="lang-pill" href="2026-10-18-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-18-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-18-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-18-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-18-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-18-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-18-techtally-ar.html">العربية</a>
 
 ## 1. [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 
@@ -146,6 +146,6 @@ Des recherches publiées dans Nature indiquent que les coraux blanchis peuvent s
 
 ---
 
-*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-18 11:57 UTC.*
+*Généré automatiquement par [TechTally](https://github.com/Mehdiest/techtally) le 2026-10-20 06:03 UTC.*
 
 Sélectionné par : **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)
