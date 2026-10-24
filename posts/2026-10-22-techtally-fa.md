@@ -18,7 +18,7 @@ _8 خبر برتر از 1 منبع، رتبه‌بندی‌شده بر اساس 
 
 _گردآوری توسط [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**خواندن این شماره به:** <a class="lang-pill" href="2026-10-22-techtally.html">English</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Français</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Deutsch</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Español</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**خواندن این شماره به:** <a class="lang-pill" href="2026-10-22-techtally.html">English</a> <a class="lang-pill" href="2026-10-22-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-22-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-22-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-22-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-22-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-22-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-22-techtally-ar.html">العربية</a>
 
 ## 1. [انتشار به‌روزرسانی امنیتی PHP و نحوه تقویت امنیت](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 
@@ -142,6 +142,6 @@ _گردآوری توسط [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-este
 
 ---
 
-*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-22 12:48 UTC.*
+*تولید خودکار توسط [TechTally](https://github.com/Mehdiest/techtally) در 2026-10-24 08:17 UTC.*
 
 گردآوری توسط: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

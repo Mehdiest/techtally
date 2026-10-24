@@ -18,7 +18,7 @@ _1 स्रोत से चुनी गईं शीर्ष 8 खबरे�
 
 _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-10-21-techtally.html">English</a> <a class="lang-pill" href="2026-10-21-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-21-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-21-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-21-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-21-techtally-zh.html">中文</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-10-21-techtally.html">English</a> <a class="lang-pill" href="2026-10-21-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-21-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-21-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-21-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-21-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-21-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-21-techtally-ar.html">العربية</a>
 
 ## 1. [DeepInfer: DeepSeek मॉडल के लिए उच्च-प्रदर्शन इन्फरेंस फ्रेमवर्क](https://github.com/deepseek-ai/DeepInfer)
 
@@ -140,6 +140,6 @@ Mistral AI ने अपने ऑडियो-केंद्रित आर�
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-21 08:25 UTC पर स्वतः जनरेट किया गया।*
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-24 08:17 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

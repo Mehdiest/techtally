@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-22-techtally.html">English</a> <a class="lang-pill" href="2026-10-22-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-22-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-22-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-22-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-22-techtally.html">English</a> <a class="lang-pill" href="2026-10-22-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-22-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-22-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-22-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-22-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-22-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-22-techtally-ar.html">العربية</a>
 
 ## 1. [今日 PHP 安全版本发布，以及我们如何加强安全性](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 
@@ -142,6 +142,6 @@ Python 包索引 (PyPI) 上的 LiteLLM 包最近遭到篡改，1.107.0 版本包
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-22 12:48 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-24 08:17 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-21-techtally.html">English</a> <a class="lang-pill" href="2026-10-21-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-21-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-21-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-21-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-21-techtally.html">English</a> <a class="lang-pill" href="2026-10-21-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-21-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-21-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-21-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-21-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-21-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-21-techtally-ar.html">العربية</a>
 
 ## 1. [DeepInfer：针对 DeepSeek 模型的高性能推理框架](https://github.com/deepseek-ai/DeepInfer)
 
@@ -140,6 +140,6 @@ Mistral AI 发布了其音频人工智能模型的最新版本 Voxtral 3。与�
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-21 08:25 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-24 08:17 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)
