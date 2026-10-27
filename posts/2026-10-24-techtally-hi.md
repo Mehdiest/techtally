@@ -18,7 +18,7 @@ _1 स्रोत से चुनी गईं शीर्ष 8 खबरे�
 
 _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-10-24-techtally.html">English</a> <a class="lang-pill" href="2026-10-24-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-24-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-24-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-24-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-24-techtally-zh.html">中文</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-10-24-techtally.html">English</a> <a class="lang-pill" href="2026-10-24-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-24-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-24-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-24-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-24-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-24-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-24-techtally-ar.html">العربية</a>
 
 ## 1. [Kimi K3.1 Pro और K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 
@@ -140,6 +140,6 @@ OBS Studio 33 जारी कर दिया गया है, जो लो�
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-24 11:52 UTC पर स्वतः जनरेट किया गया।*
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-10-27 06:38 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

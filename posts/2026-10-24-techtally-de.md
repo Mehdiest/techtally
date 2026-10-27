@@ -18,7 +18,7 @@ _8 Top-Storys aus 1 Quelle, sortiert nach Berichterstattung, Community-Signal un
 
 _Kuratiert von [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Diese Ausgabe lesen auf:** <a class="lang-pill" href="2026-10-24-techtally.html">English</a> <a class="lang-pill" href="2026-10-24-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-24-techtally-fr.html">Français</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Español</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Diese Ausgabe lesen auf:** <a class="lang-pill" href="2026-10-24-techtally.html">English</a> <a class="lang-pill" href="2026-10-24-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-24-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-24-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-24-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-24-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-24-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-24-techtally-ar.html">العربية</a>
 
 ## 1. [Kimi K3.1 Pro und K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 
@@ -140,6 +140,6 @@ Die Electronic Frontier Foundation (EFF) hat eine Warnung bezüglich Bill C-22 i
 
 ---
 
-*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-24 11:52 UTC.*
+*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-10-27 06:38 UTC.*
 
 Kuratiert von: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

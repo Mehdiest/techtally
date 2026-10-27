@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-26-techtally.html">English</a> <a class="lang-pill" href="2026-10-26-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-26-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-26-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-26-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-26-techtally.html">English</a> <a class="lang-pill" href="2026-10-26-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-26-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-26-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-26-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-26-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-26-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-26-techtally-ar.html">العربية</a>
 
 ## 1. [Anthropic 提交 S-1 文件](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 
@@ -136,6 +136,6 @@ TitleArt 是一个基于 Web 的工具，允许用户生成让人想起 1990 年
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-26 13:55 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-27 06:38 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

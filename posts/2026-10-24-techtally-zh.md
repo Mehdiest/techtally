@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-24-techtally.html">English</a> <a class="lang-pill" href="2026-10-24-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-24-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-24-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-24-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-24-techtally.html">English</a> <a class="lang-pill" href="2026-10-24-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-24-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-24-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-24-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-24-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-24-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-24-techtally-ar.html">العربية</a>
 
 ## 1. [Kimi K3.1 Pro 和 K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 
@@ -140,6 +140,6 @@ OBS Studio 33 已经发布，为这款流行的开源流媒体和录制软件带
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-24 11:52 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-27 06:38 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

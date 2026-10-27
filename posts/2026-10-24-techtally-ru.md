@@ -18,7 +18,7 @@ _8 новостей из 1 источника, отобранных по осв�
 
 _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-24-techtally.html">English</a> <a class="lang-pill" href="2026-10-24-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-24-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-24-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-24-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-24-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-24-techtally-hi.html">हिन्दी</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-24-techtally.html">English</a> <a class="lang-pill" href="2026-10-24-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-24-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-24-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-24-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-24-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-24-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-24-techtally-ar.html">العربية</a>
 
 ## 1. [Kimi K3.1 Pro и K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 
@@ -140,6 +140,6 @@ Electronic Frontier Foundation (EFF) выпустила предупрежден
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-24 11:52 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-27 06:38 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)
