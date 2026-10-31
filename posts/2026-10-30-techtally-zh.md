@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-30-techtally.html">English</a> <a class="lang-pill" href="2026-10-30-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-30-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-30-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-30-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-10-30-techtally.html">English</a> <a class="lang-pill" href="2026-10-30-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-30-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-30-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-30-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-30-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-30-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-30-techtally-ar.html">العربية</a>
 
 ## 1. [Binance 黑客事件 1029 – 56 亿美元从币安被盗](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 
@@ -138,6 +138,6 @@ Herdr 发布了一款原生应用程序，将其平台扩展到网络之外。�
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-30 13:52 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-10-31 06:15 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

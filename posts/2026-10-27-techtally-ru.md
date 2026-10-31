@@ -18,7 +18,7 @@ _8 новостей из 1 источника, отобранных по осв�
 
 _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-27-techtally.html">English</a> <a class="lang-pill" href="2026-10-27-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-27-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-27-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-27-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-27-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-27-techtally-hi.html">हिन्दी</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-27-techtally.html">English</a> <a class="lang-pill" href="2026-10-27-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-27-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-27-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-27-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-27-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-27-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-27-techtally-ar.html">العربية</a>
 
 ## 1. [Три новых открытия в математике, информатике и физике](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 
@@ -140,6 +140,6 @@ Open3DLab сообщает, что Roblox без разрешения спарс
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-27 13:00 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-31 06:15 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

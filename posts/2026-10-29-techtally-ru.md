@@ -18,7 +18,7 @@ _8 новостей из 1 источника, отобранных по осв�
 
 _Подготовлено [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-29-techtally.html">English</a> <a class="lang-pill" href="2026-10-29-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-29-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-29-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-29-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-29-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-29-techtally-hi.html">हिन्दी</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Читайте этот дайджест на:** <a class="lang-pill" href="2026-10-29-techtally.html">English</a> <a class="lang-pill" href="2026-10-29-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-29-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-29-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-29-techtally-es.html">Español</a> <a class="lang-pill" href="2026-10-29-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-29-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-29-techtally-ar.html">العربية</a>
 
 ## 1. [Почему этот скрипт для снятия отпечатков браузера создает биооружие?](https://nullpt.rs/fingerprinting-bioweapons)
 
@@ -138,6 +138,6 @@ DoorDash официально объявила о намерении приоб�
 
 ---
 
-*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-29 13:58 UTC.*
+*Автоматически сгенерировано [TechTally](https://github.com/Mehdiest/techtally), 2026-10-31 06:15 UTC.*
 
 Подготовлено: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

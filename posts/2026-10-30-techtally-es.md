@@ -18,7 +18,7 @@ _8 historias destacadas de 1 fuente, según cobertura mediática, repercusión c
 
 _Curado por [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Lee esta edición en:** <a class="lang-pill" href="2026-10-30-techtally.html">English</a> <a class="lang-pill" href="2026-10-30-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-30-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-30-techtally-de.html">Deutsch</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Lee esta edición en:** <a class="lang-pill" href="2026-10-30-techtally.html">English</a> <a class="lang-pill" href="2026-10-30-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-10-30-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-10-30-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-10-30-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-10-30-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-10-30-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-10-30-techtally-ar.html">العربية</a>
 
 ## 1. [Binance-hacker-1029 – 5.600 millones de dólares robados de Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 
@@ -138,6 +138,6 @@ Herdr ha lanzado una aplicación nativa, expandiendo su plataforma más allá de
 
 ---
 
-*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-30 13:52 UTC.*
+*Generado automáticamente por [TechTally](https://github.com/Mehdiest/techtally) el 2026-10-31 06:15 UTC.*
 
 Curado por: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)
