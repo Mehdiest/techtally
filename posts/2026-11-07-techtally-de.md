@@ -18,7 +18,7 @@ _8 Top-Storys aus 1 Quelle, sortiert nach Berichterstattung, Community-Signal un
 
 _Kuratiert von [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**Diese Ausgabe lesen auf:** <a class="lang-pill" href="2026-11-07-techtally.html">English</a> <a class="lang-pill" href="2026-11-07-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-11-07-techtally-fr.html">Français</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Español</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">中文</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**Diese Ausgabe lesen auf:** <a class="lang-pill" href="2026-11-07-techtally.html">English</a> <a class="lang-pill" href="2026-11-07-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-11-07-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-11-07-techtally-es.html">Español</a> <a class="lang-pill" href="2026-11-07-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-11-07-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-11-07-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-11-07-techtally-ar.html">العربية</a>
 
 ## 1. [Tesla fährt Cybertruck-Produktion herunter](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
 
@@ -140,6 +140,6 @@ Need for Speed Underground 2 ist jetzt über einen von Fans erstellten Port dire
 
 ---
 
-*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-11-07 13:45 UTC.*
+*Automatisch erstellt von [TechTally](https://github.com/Mehdiest/techtally) am 2026-11-08 06:19 UTC.*
 
 Kuratiert von: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

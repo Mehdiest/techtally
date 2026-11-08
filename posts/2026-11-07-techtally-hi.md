@@ -18,7 +18,7 @@ _1 स्रोत से चुनी गईं शीर्ष 8 खबरे�
 
 _संपादक [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-11-07-techtally.html">English</a> <a class="lang-pill" href="2026-11-07-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-11-07-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-11-07-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-11-07-techtally-es.html">Español</a> <a class="lang-pill" href="2026-11-07-techtally-zh.html">中文</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**इस डाइजेस्ट को इन भाषाओं में पढ़ें:** <a class="lang-pill" href="2026-11-07-techtally.html">English</a> <a class="lang-pill" href="2026-11-07-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-11-07-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-11-07-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-11-07-techtally-es.html">Español</a> <a class="lang-pill" href="2026-11-07-techtally-zh.html">中文</a> <a class="lang-pill" href="2026-11-07-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-11-07-techtally-ar.html">العربية</a>
 
 ## 1. [टेस्ला Cybertruck का उत्पादन बंद करेगी](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
 
@@ -140,6 +140,6 @@ Need for Speed Underground 2 अब एक फैन-मेड पोर्ट �
 
 ---
 
-*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-11-07 13:45 UTC पर स्वतः जनरेट किया गया।*
+*[TechTally](https://github.com/Mehdiest/techtally) द्वारा 2026-11-08 06:19 UTC पर स्वतः जनरेट किया गया।*
 
 संपादक: **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

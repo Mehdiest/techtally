@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-11-07-techtally.html">English</a> <a class="lang-pill" href="2026-11-07-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-11-07-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-11-07-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-11-07-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-11-07-techtally.html">English</a> <a class="lang-pill" href="2026-11-07-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-11-07-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-11-07-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-11-07-techtally-es.html">Español</a> <a class="lang-pill" href="2026-11-07-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-11-07-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-11-07-techtally-ar.html">العربية</a>
 
 ## 1. [特斯拉将逐步停产 Cybertruck](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
 
@@ -140,6 +140,6 @@ Mitchell Hashimoto 发布了 Libghostty 1.0，这是一个提供 Ghostty 终端�
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-11-07 13:45 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-11-08 06:19 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)

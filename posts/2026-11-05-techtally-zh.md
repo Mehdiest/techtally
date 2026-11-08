@@ -18,7 +18,7 @@ _从 1 个来源 精选的 8 条热点新闻，按报道覆盖度、社区热度
 
 _编辑 [Mehdi Esteghlal](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100)_
 
-**以其他语言阅读本期:** <a class="lang-pill" href="2026-11-05-techtally.html">English</a> <a class="lang-pill" href="2026-11-05-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-11-05-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-11-05-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-11-05-techtally-es.html">Español</a> <span class="lang-pill lang-pill-disabled" aria-disabled="true">हिन्दी</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">Русский</span> <span class="lang-pill lang-pill-disabled" aria-disabled="true">العربية</span>
+**以其他语言阅读本期:** <a class="lang-pill" href="2026-11-05-techtally.html">English</a> <a class="lang-pill" href="2026-11-05-techtally-fa.html">فارسی</a> <a class="lang-pill" href="2026-11-05-techtally-fr.html">Français</a> <a class="lang-pill" href="2026-11-05-techtally-de.html">Deutsch</a> <a class="lang-pill" href="2026-11-05-techtally-es.html">Español</a> <a class="lang-pill" href="2026-11-05-techtally-hi.html">हिन्दी</a> <a class="lang-pill" href="2026-11-05-techtally-ru.html">Русский</a> <a class="lang-pill" href="2026-11-05-techtally-ar.html">العربية</a>
 
 ## 1. [Sshole](https://sshhole.com)
 
@@ -138,6 +138,6 @@ Go 团队宣布了 Go 标准库中用于 JSON 处理的新 API。此更新旨在
 
 ---
 
-*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-11-05 15:11 UTC。*
+*由 [TechTally](https://github.com/Mehdiest/techtally) 自动生成于 2026-11-08 06:19 UTC。*
 
 编辑： **Mehdi Esteghlal** | [LinkedIn](https://ir.linkedin.com/in/mehdi-esteghlal-317a67100) | [GitHub](https://github.com/Mehdiest)
