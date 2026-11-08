@@ -72,6 +72,58 @@ jobs:
         run: |
           python -m src.main --publish
 
+      - name: Complete and verify today's translations
+        run: |
+          set -euo pipefail
+
+          today="$(date -u +%F)"
+          english="posts/${today}-techtally.md"
+
+          if [ ! -f "$english" ]; then
+            echo "::error::Today's English digest was not generated: $english"
+            exit 1
+          fi
+
+          # The daily pipeline translates in batches. This repair pass fills
+          # only missing item/language pairs and makes no LLM calls when the
+          # daily translations are already complete.
+          python scripts/backfill_translations.py --days 1
+
+          python - <<'PY'
+          import sys
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          import yaml
+
+          today = datetime.now(timezone.utc).date().isoformat()
+          with open("config/sources.yaml", encoding="utf-8") as stream:
+              config = yaml.safe_load(stream) or {}
+
+          posts = Path("posts")
+          languages = [
+              str(code).strip().lower()
+              for code in config.get("languages", [])
+              if str(code).strip() and str(code).strip().lower() != "en"
+          ]
+          missing = [
+              f"{today}-techtally-{language}.md"
+              for language in languages
+              if not (posts / f"{today}-techtally-{language}.md").is_file()
+          ]
+
+          if missing:
+              print("::error::Today's digest is missing translated editions:")
+              for filename in missing:
+                  print(f" - posts/{filename}")
+              sys.exit(1)
+
+          print(
+              f"All {len(languages)} configured translations are present "
+              f"for {today}."
+          )
+          PY
+
       - name: Verify generated content
         run: |
           set -euo pipefail
